@@ -1,0 +1,625 @@
+{
+ "note": "Unsplash photos already used in demos. Reuse any photo that fits the new business: repeats across demos are fine, relevance to the business's services is what matters. Still call download_asset for each reused photo (Unsplash terms). Credit: use 'photographer' when present, otherwise add the credits list of the demo(s) it came from (credits.json). Topics come from the slot/service the photo filled; 'desc' is what the photo shows when known.",
+ "photos": [
+  {
+   "id": "photo-1642749776312-aa42ce20c9f5",
+   "topics": [
+    "A/C, appliance repair & home maintenance about"
+   ],
+   "demos": [
+    "cadeshomemaintenance"
+   ]
+  },
+  {
+   "id": "photo-1545259741-2ea3ebf61fa3",
+   "topics": [
+    "A/C, appliance repair & home maintenance benefit-0"
+   ],
+   "demos": [
+    "cadeshomemaintenance"
+   ]
+  },
+  {
+   "id": "photo-1581166397057-235af2b3c6dd",
+   "topics": [
+    "A/C, appliance repair & home maintenance benefit-1"
+   ],
+   "demos": [
+    "cadeshomemaintenance"
+   ]
+  },
+  {
+   "id": "photo-1679303777007-c6c4522beb02",
+   "topics": [
+    "A/C, appliance repair & home maintenance benefit-2"
+   ],
+   "demos": [
+    "cadeshomemaintenance"
+   ]
+  },
+  {
+   "id": "photo-1705579605238-24a90c8799c5",
+   "topics": [
+    "A/C, appliance repair & home maintenance hero"
+   ],
+   "demos": [
+    "cadeshomemaintenance"
+   ]
+  },
+  {
+   "id": "photo-1676802037786-3697d60497ae",
+   "topics": [
+    "Additions & framing"
+   ],
+   "demos": [
+    "mrgeneralconstruction"
+   ]
+  },
+  {
+   "id": "photo-1646592491741-e79ae5953486",
+   "topics": [
+    "Basement finishing"
+   ],
+   "demos": [
+    "mrgeneralconstruction",
+    "elitecontracting"
+   ]
+  },
+  {
+   "id": "photo-1679105796578-aa48a4d7dea3",
+   "topics": [
+    "Basement finishing"
+   ],
+   "demos": [
+    "globaldynamicresources"
+   ]
+  },
+  {
+   "id": "photo-1646592474103-cfd22d1d9e34",
+   "topics": [
+    "Basement finishing"
+   ],
+   "demos": [
+    "dalmerconstruction"
+   ],
+   "desc": "empty finished room, white walls, wood floor",
+   "photographer": "Point3D Commercial Imaging Ltd.|3dottawa"
+  },
+  {
+   "id": "photo-1584622650111-993a426fbf0a",
+   "topics": [
+    "Bathroom remodels"
+   ],
+   "demos": [
+    "mrgeneralconstruction"
+   ]
+  },
+  {
+   "id": "photo-1781344334947-60c704bafd51",
+   "topics": [
+    "Bathroom remodels"
+   ],
+   "demos": [
+    "globaldynamicresources"
+   ]
+  },
+  {
+   "id": "photo-1781249144499-b71924068997",
+   "topics": [
+    "Bathroom remodels"
+   ],
+   "demos": [
+    "dalmerconstruction"
+   ],
+   "desc": "modern bathroom, shower, vanity, mirrors (portrait)",
+   "photographer": "Irena Oze|iistyle"
+  },
+  {
+   "id": "photo-1631396326838-de37e5f8bcbc",
+   "topics": [
+    "Carpentry & trim"
+   ],
+   "demos": [
+    "jchandyman"
+   ]
+  },
+  {
+   "id": "photo-1631396328075-9c65a7406f09",
+   "topics": [
+    "Carpentry & trim"
+   ],
+   "demos": [
+    "dalmerconstruction"
+   ],
+   "desc": "man working in a woodworking shop",
+   "photographer": "Bailey Alexander|baileyal3xander"
+  },
+  {
+   "id": "photo-1698479603408-1a66a6d9e80f",
+   "topics": [
+    "Central A/C service & repair"
+   ],
+   "demos": [
+    "cadeshomemaintenance"
+   ]
+  },
+  {
+   "id": "photo-1613544723412-b331bda01e87",
+   "topics": [
+    "Decks & fences"
+   ],
+   "demos": [
+    "globaldynamicresources"
+   ]
+  },
+  {
+   "id": "photo-1716904519810-349244919824",
+   "topics": [
+    "Decks & porches"
+   ],
+   "demos": [
+    "dalmerconstruction"
+   ],
+   "desc": "wooden deck with table and chairs",
+   "photographer": "Clay Banks|claybanks"
+  },
+  {
+   "id": "photo-1613544723371-23b514a78c85",
+   "topics": [
+    "Decks, porches & fences",
+    "Decks & porches"
+   ],
+   "demos": [
+    "jchandyman",
+    "mrgeneralconstruction"
+   ]
+  },
+  {
+   "id": "photo-1768839725085-829e6ac7ac26",
+   "topics": [
+    "Drywall repair"
+   ],
+   "demos": [
+    "jchandyman"
+   ]
+  },
+  {
+   "id": "photo-1773867567704-6e39f26a5655",
+   "topics": [
+    "Feature walls & fireplaces"
+   ],
+   "demos": [
+    "elitecontracting"
+   ]
+  },
+  {
+   "id": "photo-1731185752376-a4cf3e8556fa",
+   "topics": [
+    "Flooring & drywall"
+   ],
+   "demos": [
+    "mrgeneralconstruction"
+   ]
+  },
+  {
+   "id": "photo-1585597985125-9ad0229ae71d",
+   "topics": [
+    "Flooring & drywall"
+   ],
+   "demos": [
+    "globaldynamicresources"
+   ]
+  },
+  {
+   "id": "photo-1547609434-b732edfee020",
+   "topics": [
+    "General home repairs"
+   ],
+   "demos": [
+    "jchandyman"
+   ]
+  },
+  {
+   "id": "photo-1586194483662-d84a7a2deba1",
+   "topics": [
+    "Heating & thermostats"
+   ],
+   "demos": [
+    "cadeshomemaintenance"
+   ]
+  },
+  {
+   "id": "photo-1556156657-b2925b706f19",
+   "topics": [
+    "Home additions"
+   ],
+   "demos": [
+    "dalmerconstruction"
+   ],
+   "desc": "new wooden-framed building / addition",
+   "photographer": "Avel Chuklanov|chuklanov"
+  },
+  {
+   "id": "photo-1517581177682-a085bb7ffb15",
+   "topics": [
+    "Home remodeling",
+    "General home maintenance"
+   ],
+   "demos": [
+    "mrgeneralconstruction",
+    "cadeshomemaintenance"
+   ]
+  },
+  {
+   "id": "photo-1668910225551-1080c3a12241",
+   "topics": [
+    "Home remodeling"
+   ],
+   "demos": [
+    "globaldynamicresources"
+   ]
+  },
+  {
+   "id": "photo-1590430752967-d0e116909be1",
+   "topics": [
+    "Ice maker repair"
+   ],
+   "demos": [
+    "cadeshomemaintenance"
+   ]
+  },
+  {
+   "id": "photo-1688372199140-cade7ae820fe",
+   "topics": [
+    "Interior painting",
+    "Drywall & painting"
+   ],
+   "demos": [
+    "jchandyman",
+    "elitecontracting"
+   ]
+  },
+  {
+   "id": "photo-1602028915047-37269d1a73f7",
+   "topics": [
+    "Kitchen & bath updates"
+   ],
+   "demos": [
+    "jchandyman"
+   ]
+  },
+  {
+   "id": "photo-1560185127-1902ccdc5094",
+   "topics": [
+    "Kitchen remodeling"
+   ],
+   "demos": [
+    "elitecontracting"
+   ]
+  },
+  {
+   "id": "photo-1628745277862-bc0b2d68c50c",
+   "topics": [
+    "Kitchen remodels"
+   ],
+   "demos": [
+    "mrgeneralconstruction"
+   ]
+  },
+  {
+   "id": "photo-1682888813913-e13f18692019",
+   "topics": [
+    "Kitchen remodels"
+   ],
+   "demos": [
+    "globaldynamicresources"
+   ]
+  },
+  {
+   "id": "photo-1704383014594-01bc24b6b840",
+   "topics": [
+    "Kitchen remodels"
+   ],
+   "demos": [
+    "dalmerconstruction"
+   ],
+   "desc": "modern kitchen with island and three stools",
+   "photographer": "Ariel Domenden|hypvisual"
+  },
+  {
+   "id": "photo-1779078652919-8d2942dfbe48",
+   "topics": [
+    "Refrigerator & freezer repair"
+   ],
+   "demos": [
+    "cadeshomemaintenance"
+   ]
+  },
+  {
+   "id": "photo-1633759593085-1eaeb724fc88",
+   "topics": [
+    "Roofing & siding"
+   ],
+   "demos": [
+    "globaldynamicresources"
+   ]
+  },
+  {
+   "id": "photo-1792630862705-dfdae23f3570",
+   "topics": [
+    "Siding & exteriors"
+   ],
+   "demos": [
+    "dalmerconstruction"
+   ],
+   "desc": "renovated ranch house, gray siding, porch",
+   "photographer": "Josh Lemmon|wolfie_website"
+  },
+  {
+   "id": "photo-1754847567948-6edcc3e03544",
+   "topics": [
+    "Small appliance repair"
+   ],
+   "demos": [
+    "cadeshomemaintenance"
+   ]
+  },
+  {
+   "id": "photo-1523413363574-c30aa1c2a516",
+   "topics": [
+    "Tile & backsplash"
+   ],
+   "demos": [
+    "jchandyman"
+   ]
+  },
+  {
+   "id": "photo-1523413307857-ef24c53571ae",
+   "topics": [
+    "Tile & flooring"
+   ],
+   "demos": [
+    "elitecontracting"
+   ]
+  },
+  {
+   "id": "photo-1655041448985-f6666cba2d6c",
+   "topics": [
+    "Washer & dryer repair"
+   ],
+   "demos": [
+    "cadeshomemaintenance"
+   ]
+  },
+  {
+   "id": "photo-1692890659047-079b769ee3e6",
+   "topics": [
+    "Whole-home renovations"
+   ],
+   "demos": [
+    "elitecontracting"
+   ]
+  },
+  {
+   "id": "photo-1674649207083-281c2517ab49",
+   "topics": [
+    "general construction about"
+   ],
+   "demos": [
+    "mrgeneralconstruction"
+   ]
+  },
+  {
+   "id": "photo-1505798577917-a65157d3320a",
+   "topics": [
+    "general construction benefit-0",
+    "general contractor benefit-2"
+   ],
+   "demos": [
+    "mrgeneralconstruction",
+    "globaldynamicresources"
+   ]
+  },
+  {
+   "id": "photo-1503387762-592deb58ef4e",
+   "topics": [
+    "general construction benefit-1",
+    "general contractor benefit-1"
+   ],
+   "demos": [
+    "mrgeneralconstruction",
+    "globaldynamicresources"
+   ]
+  },
+  {
+   "id": "photo-1676802540678-2dceb1820113",
+   "topics": [
+    "general construction benefit-2"
+   ],
+   "demos": [
+    "mrgeneralconstruction"
+   ]
+  },
+  {
+   "id": "photo-1587582423116-ec07293f0395",
+   "topics": [
+    "general construction hero"
+   ],
+   "demos": [
+    "mrgeneralconstruction"
+   ]
+  },
+  {
+   "id": "photo-1595844730298-b960ff98fee0",
+   "topics": [
+    "general contractor about"
+   ],
+   "demos": [
+    "globaldynamicresources"
+   ]
+  },
+  {
+   "id": "photo-1787005241211-b83c98eee330",
+   "topics": [
+    "general contractor about"
+   ],
+   "demos": [
+    "dalmerconstruction"
+   ],
+   "desc": "two people cutting a timber beam (circular saw, chisel)",
+   "photographer": "Cohen Berg|cohenberg"
+  },
+  {
+   "id": "photo-1646324554833-f0b6a479fa5d",
+   "topics": [
+    "general contractor benefit-0"
+   ],
+   "demos": [
+    "globaldynamicresources"
+   ]
+  },
+  {
+   "id": "photo-1589233361468-0128345570e8",
+   "topics": [
+    "general contractor benefit-0"
+   ],
+   "demos": [
+    "dalmerconstruction"
+   ],
+   "desc": "person holding paper plans/blueprints",
+   "photographer": "Laura Saddi|saddilaura"
+  },
+  {
+   "id": "photo-1779031242509-af360178ebb3",
+   "topics": [
+    "general contractor benefit-1"
+   ],
+   "demos": [
+    "dalmerconstruction"
+   ],
+   "desc": "carpenter's hands on a table saw, dark",
+   "photographer": "Minh Đức|meanduck"
+  },
+  {
+   "id": "photo-1556156653-e5a7c69cc263",
+   "topics": [
+    "general contractor benefit-2"
+   ],
+   "demos": [
+    "dalmerconstruction"
+   ],
+   "desc": "house wood framing, walls and roof trusses",
+   "photographer": "Avel Chuklanov|chuklanov"
+  },
+  {
+   "id": "photo-1589939705384-5185137a7f0f",
+   "topics": [
+    "general contractor hero"
+   ],
+   "demos": [
+    "globaldynamicresources"
+   ]
+  },
+  {
+   "id": "photo-1672627170267-fca17bb54156",
+   "topics": [
+    "general contractor hero"
+   ],
+   "demos": [
+    "dalmerconstruction"
+   ],
+   "desc": "house under construction, plywood walls, stacked windows",
+   "photographer": "Ernie Journeys|erniejourneys"
+  },
+  {
+   "id": "photo-1687422810663-c316494f725a",
+   "topics": [
+    "handyman about"
+   ],
+   "demos": [
+    "jchandyman"
+   ]
+  },
+  {
+   "id": "photo-1765518440022-10242cc86895",
+   "topics": [
+    "handyman benefit-0"
+   ],
+   "demos": [
+    "jchandyman"
+   ]
+  },
+  {
+   "id": "photo-1659930087003-2d64e33181f7",
+   "topics": [
+    "handyman benefit-1"
+   ],
+   "demos": [
+    "jchandyman"
+   ]
+  },
+  {
+   "id": "photo-1645651964715-d200ce0939cc",
+   "topics": [
+    "handyman benefit-2"
+   ],
+   "demos": [
+    "jchandyman"
+   ]
+  },
+  {
+   "id": "photo-1679797850019-3d0d8659a695",
+   "topics": [
+    "handyman hero"
+   ],
+   "demos": [
+    "jchandyman"
+   ]
+  },
+  {
+   "id": "photo-1503387837-b154d5074bd2",
+   "topics": [
+    "remodeling contractor benefit-1"
+   ],
+   "demos": [
+    "elitecontracting"
+   ]
+  },
+  {
+   "id": "photo-1667923006173-9e0d2251f608",
+   "topics": [
+    "remodeling contractor benefit-2"
+   ],
+   "demos": [
+    "elitecontracting"
+   ]
+  }
+ ],
+ "examplePairs": [
+  {
+   "tab": "Floors",
+   "before": "photo-1607160264020-3dca1d62c3d3",
+   "after": "photo-1573869908170-64b53a60d8da"
+  },
+  {
+   "tab": "Walls",
+   "before": "photo-1668079334321-e51822308968",
+   "after": "photo-1533628635777-112b2239b1c7"
+  },
+  {
+   "tab": "Deck",
+   "before": "photo-1597687774545-332d884a7cc3",
+   "after": "photo-1632359552106-2599db65f51c"
+  },
+  {
+   "tab": "Drywall",
+   "before": "photo-1690275392883-d10021dfe670",
+   "after": "photo-1640995810429-5785ca363fc5"
+  },
+  {
+   "tab": "Painting",
+   "before": "photo-1635513262547-520ac21726ce",
+   "after": "photo-1548685913-fe6678babe8d"
+  }
+ ]
+}
