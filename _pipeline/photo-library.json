@@ -593,6 +593,127 @@
    "demos": [
     "elitecontracting"
    ]
+  },
+  {
+   "id": "photo-1758273238415-01ec03d9ef27",
+   "topics": [
+    "cleaning & handyman hero"
+   ],
+   "demos": [
+    "jamericanhospitality"
+   ],
+   "desc": "woman mopping a bright modern living room floor",
+   "photographer": "Vitaly Gariev|silverkblack"
+  },
+  {
+   "id": "photo-1787790630691-9c11d1c16c87",
+   "topics": [
+    "cleaning & handyman about"
+   ],
+   "demos": [
+    "jamericanhospitality"
+   ],
+   "desc": "person wiping a kitchen counter, bright kitchen (portrait)",
+   "photographer": "Bayu Syaits|bayusyaits"
+  },
+  {
+   "id": "photo-1550963295-019d8a8a61c5",
+   "topics": [
+    "cleaning & handyman benefit-0"
+   ],
+   "demos": [
+    "jamericanhospitality"
+   ],
+   "desc": "clear spray bottle (portrait)",
+   "photographer": "Crystal Chabot|cchabot"
+  },
+  {
+   "id": "photo-1649083048381-520a5b3d91ff",
+   "topics": [
+    "cleaning & handyman benefit-1"
+   ],
+   "demos": [
+    "jamericanhospitality"
+   ],
+   "desc": "bright living room, white furniture, wood floors",
+   "photographer": "Bailey Alexander|baileyal3xander"
+  },
+  {
+   "id": "photo-1630660664869-c9d3cc676880",
+   "topics": [
+    "cleaning & handyman benefit-2"
+   ],
+   "demos": [
+    "jamericanhospitality"
+   ],
+   "desc": "hotel bed with white pillows and linens",
+   "photographer": "Dave Photoz|mirapolis"
+  },
+  {
+   "id": "photo-1549638441-b787d2e11f14",
+   "topics": [
+    "Airbnb & short-term rental cleaning"
+   ],
+   "demos": [
+    "jamericanhospitality"
+   ],
+   "desc": "white made bed near a window",
+   "photographer": "Andrew Neel|andrewtneel"
+  },
+  {
+   "id": "photo-1606676539940-12768ce0e762",
+   "topics": [
+    "Handyman repairs"
+   ],
+   "demos": [
+    "jamericanhospitality"
+   ],
+   "desc": "cordless drill, hammer, stud finder on carpet (portrait)",
+   "photographer": "Sam Clarke|clarke_designs_photography"
+  },
+  {
+   "id": "photo-1693985120993-e9b203ce7631",
+   "topics": [
+    "Paint & drywall touch-ups"
+   ],
+   "demos": [
+    "jamericanhospitality"
+   ],
+   "desc": "painter rolling a wall",
+   "photographer": "Andrew Itaga|and73w"
+  },
+  {
+   "id": "photo-1482731215275-a1f151646268",
+   "topics": [
+    "Fixtures & installs"
+   ],
+   "demos": [
+    "jamericanhospitality"
+   ],
+   "desc": "man on white ladder working at ceiling",
+   "photographer": "H&CO|hngstrm"
+  },
+  {
+   "id": "photo-1666015448028-e9f437b4113e",
+   "topics": [
+    "before: dirty stovetop"
+   ],
+   "demos": [
+    "jamericanhospitality"
+   ],
+   "desc": "close-up of an old dirty stove",
+   "photographer": "Ian Talmacs|iantalmacs"
+  },
+  {
+   "id": "photo-1546532706-6cbd7895080c",
+   "topics": [
+    "after: clean stovetop"
+   ],
+   "demos": [
+    "jamericanhospitality"
+   ],
+   "desc": "white electric coil range",
+   "photographer": "Omar Rodriguez|e90two"
   }
  ],
  "examplePairs": [
@@ -620,6 +741,11 @@
    "tab": "Painting",
    "before": "photo-1635513262547-520ac21726ce",
    "after": "photo-1548685913-fe6678babe8d"
+  },
+  {
+   "tab": "Stovetop",
+   "before": "photo-1666015448028-e9f437b4113e",
+   "after": "photo-1546532706-6cbd7895080c"
   }
  ]
 }
