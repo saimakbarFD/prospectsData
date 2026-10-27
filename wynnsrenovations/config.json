@@ -12,8 +12,8 @@
     "announce": "Now booking remodels and home repairs across {city} and the Miami Valley",
     "eyebrow": "{city} renovations & handyman",
     "h1": [
-     "Small fixes.",
-     "Big remodels.",
+     "Quick fixes.",
+     "New rooms.",
      "One crew."
     ],
     "sub": "Kitchen and bathroom remodels, flooring, drywall, painting and everyday handyman repairs across {city}. One local crew from the first fix to the finished room.",
@@ -89,10 +89,10 @@
      }
     ],
     "baTitle": "Before and after.",
-    "baSub": "Example photos. Your own turnovers and repairs will go here.",
+    "baSub": "Example photos. Your own before and after shots will go here.",
     "baTabs": [
-     "Stovetop",
-     "Walls"
+     "Walls",
+     "Deck"
     ],
     "galleryTitle": "The kind of work we take on",
     "cmpTitle": "Hiring around vs. one call to Wynn's",
@@ -230,8 +230,86 @@
    },
    "logoUrl": "",
    "logoMark": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><path d=\"M32 3L57 11.5V29.5C57 45 46.5 55.5 32 61C17.5 55.5 7 45 7 29.5V11.5Z\" fill=\"#33231A\"/><path d=\"M32 7.5L53 14.6V29.7C53 42.6 44.4 51.6 32 56.6C19.6 51.6 11 42.6 11 29.7V14.6Z\" fill=\"none\" stroke=\"#E9C58B\" stroke-width=\"1.6\"/><polyline points=\"18.5,18.5 23.5,34 32,24.5 40.5,34 45.5,18.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"16.5\" y=\"39.5\" width=\"31\" height=\"8\" rx=\"2.5\" fill=\"#E9C58B\"/><rect x=\"26.5\" y=\"41\" width=\"11\" height=\"5\" rx=\"2.5\" fill=\"#0D6E6E\"/><circle cx=\"33.6\" cy=\"43.5\" r=\"1.5\" fill=\"#FFFFFF\"/><line x1=\"21\" y1=\"41.5\" x2=\"21\" y2=\"45.5\" stroke=\"#33231A\" stroke-width=\"1.2\"/><line x1=\"43\" y1=\"41.5\" x2=\"43\" y2=\"45.5\" stroke=\"#33231A\" stroke-width=\"1.2\"/></svg>",
-   "images": {},
-   "credits": [],
+   "images": {
+    "hero": "https://images.unsplash.com/photo-1618090584176-7132b9911657?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1461938337379-4b537cd2db74?auto=format&fit=crop&q=70&w=1000",
+    "benefit-0": "https://images.unsplash.com/photo-1567361808960-dec9cb578182?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1615974679600-665fb9468c4f?auto=format&fit=crop&q=70&w=900",
+    "benefit-2": "https://images.unsplash.com/photo-1625585598750-3535fe40efb3?auto=format&fit=crop&q=70&w=900",
+    "service-kitchens": "https://images.unsplash.com/photo-1768486143865-342d8cc12c90?auto=format&fit=crop&q=70&w=900",
+    "service-bathrooms": "https://images.unsplash.com/photo-1792630861778-3072e9d55af6?auto=format&fit=crop&q=70&w=900",
+    "service-repairs": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?auto=format&fit=crop&q=70&w=900",
+    "service-drywall": "https://images.unsplash.com/photo-1652829069834-2c05031199c5?auto=format&fit=crop&q=70&w=900",
+    "service-flooring": "https://images.unsplash.com/photo-1731185752376-a4cf3e8556fa?auto=format&fit=crop&q=70&w=900",
+    "service-decks": "https://images.unsplash.com/photo-1792628953008-3be837e036c0?auto=format&fit=crop&q=70&w=1100",
+    "service-installs": "https://images.unsplash.com/photo-1583275477830-7e8e9d56d15f?auto=format&fit=crop&q=70&w=1100",
+    "before-0": "https://images.unsplash.com/photo-1694415847950-973e7dcca94d?auto=format&fit=crop&q=70&w=1400",
+    "after-0": "https://images.unsplash.com/photo-1533628635777-112b2239b1c7?auto=format&fit=crop&q=70&w=1400",
+    "before-1": "https://images.unsplash.com/photo-1597687774545-332d884a7cc3?auto=format&fit=crop&q=70&w=1400",
+    "after-1": "https://images.unsplash.com/photo-1632359552106-2599db65f51c?auto=format&fit=crop&q=70&w=1400"
+   },
+   "credits": [
+    {
+     "n": "James Kovin",
+     "u": "james2k"
+    },
+    {
+     "n": "David Siglin",
+     "u": "dsiglin"
+    },
+    {
+     "n": "Louis Hansel",
+     "u": "louishansel"
+    },
+    {
+     "n": "Valentina Giarre",
+     "u": "valentinagiarre"
+    },
+    {
+     "n": "Andrew Neel",
+     "u": "andrewtneel"
+    },
+    {
+     "n": "Clay Banks",
+     "u": "claybanks"
+    },
+    {
+     "n": "Josh Lemmon",
+     "u": "wolfie_website"
+    },
+    {
+     "n": "Theme Photos",
+     "u": "themephotos"
+    },
+    {
+     "n": "Callum Hill",
+     "u": "inkyhills"
+    },
+    {
+     "n": "Ernys",
+     "u": "ernys"
+    },
+    {
+     "n": "Marcos Paulo Prado",
+     "u": "marcospradobr"
+    },
+    {
+     "n": "Lallaoke",
+     "u": "lallaoke"
+    },
+    {
+     "n": "thomas heintz",
+     "u": "thomas2006"
+    },
+    {
+     "n": "Eric Prouzet",
+     "u": "eprouzet"
+    },
+    {
+     "n": "Se. Tsuchiya",
+     "u": "s_tsuchiya"
+    }
+   ],
    "showTemplatePanel": false
   },
   "about": {
