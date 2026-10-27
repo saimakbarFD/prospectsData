@@ -1,11 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 100" width="430" height="100">
-  <svg x="6" y="10" width="80" height="80" viewBox="0 0 64 64">
-    <path d="M32 3L56 11.5V30C56 45 46 55.5 32 61C18 55.5 8 45 8 30V11.5Z" fill="#2E1A3D" stroke="#7EDDC0" stroke-width="2" stroke-linejoin="round"/>
-    <path d="M28 16C29.6 26.4 32 28.8 42.4 30.4C32 32 29.6 34.4 28 44.8C26.4 34.4 24 32 13.6 30.4C24 28.8 26.4 26.4 28 16Z" fill="#7EDDC0"/>
-    <path d="M42.5 13C43.1 17.2 44.1 18.2 48.3 18.8C44.1 19.4 43.1 20.4 42.5 24.6C41.9 20.4 40.9 19.4 36.7 18.8C40.9 18.2 41.9 17.2 42.5 13Z" fill="#E0507E"/>
-  </svg>
-  <text x="100" y="50" font-family="Georgia, 'DejaVu Serif', serif" font-size="40" font-weight="700" fill="#2E1A3D" letter-spacing="-0.5">Jamerican</text>
-  <text x="102" y="72" font-family="'DejaVu Sans', Arial, sans-serif" font-size="13" font-weight="700" fill="#A62B55" letter-spacing="4.2">HOSPITALITY</text>
-  <circle cx="250" cy="67.5" r="2.6" fill="#7EDDC0"/>
-  <text x="260" y="72" font-family="'DejaVu Sans', Arial, sans-serif" font-size="13" fill="#5B4A66" letter-spacing="0.6">Cleaning &amp; Handyman</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 100" width="412" height="100">
+  <svg x="4" y="8" width="84" height="84" viewBox="0 0 64 64"><path d="M11 53C11 27 27 9 55 9C42 23 27 40 11 53Z" fill="#009B3A"/><path d="M55 9C55 37 37 53 11 53C27 40 42 23 55 9Z" fill="#14233F"/><path d="M11 53C11 27 27 9 55 9C55 37 37 53 11 53Z" fill="none" stroke="#E8EDF4" stroke-width="1.4"/><path d="M37.5 35.4L38.6 38.5L41.9 38.6L39.3 40.6L40.2 43.7L37.5 41.9L34.8 43.7L35.7 40.6L33.1 38.6L36.4 38.5Z" fill="#FFFFFF"/><path d="M4 60C7 58 9 55.5 11 53C27 40 42 23 55 9" fill="none" stroke="#FFC72C" stroke-width="2.4" stroke-linecap="round"/></svg>
+  <text x="98" y="54" font-family="'DejaVu Sans', Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-1"><tspan fill="#007A45">Jam</tspan><tspan fill="#14233F">erican</tspan></text>
+  <text x="100" y="76" font-family="'DejaVu Sans', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#14233F" letter-spacing="3.6">HOSPITALITY</text>
+  <rect x="236" y="68" width="7" height="7" rx="1.5" transform="rotate(45 239.5 71.5)" fill="#FFC72C"/>
+  <text x="252" y="76" font-family="'DejaVu Sans', Arial, sans-serif" font-size="12.5" fill="#4A5670" letter-spacing="0.4">Cleaning &amp; Handyman</text>
 </svg>
