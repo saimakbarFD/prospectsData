@@ -1,0 +1,296 @@
+{
+ "slug": "elitecontracting",
+ "title": "Elite Contracting | Remodeling & General Contractor in Detroit, MI",
+ "description": "Elite Contracting remodels bathrooms, kitchens and basements and builds custom feature walls in Detroit, MI. Free estimates. Call (313) 244-2000.",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@3e225216da8e85691150edbd397abc2841a8d04d/elitecontracting/favicon.webp",
+ "demo": {
+  "presets": {
+   "remodel": {
+    "label": "Remodeling contractor",
+    "noun": "Remodeling & General Contracting",
+    "demoBrand": "Elite Contracting",
+    "announce": "Free estimates · Now booking bathroom, kitchen and basement remodels in {city}",
+    "eyebrow": "{city} remodeling & general contracting",
+    "h1": [
+     "Bathrooms.",
+     "Kitchens.",
+     "Done right."
+    ],
+    "sub": "Bathroom and kitchen remodels, basements, tile and custom feature walls across {city} and the suburbs. Clean craftsmanship and a written quote before work begins.",
+    "badge": {
+     "big": "Detail first",
+     "small": "from tile to trim"
+    },
+    "badgeNote": "",
+    "trust": [
+     "Free estimates",
+     "Written quotes",
+     "Clean job sites"
+    ],
+    "ticker": [
+     [
+      "Free estimates",
+      "Booking now"
+     ],
+     [
+      "Bathrooms",
+      "Full remodels"
+     ],
+     [
+      "Kitchens",
+      "& basements"
+     ],
+     [
+      "Tile & stone",
+      "Precise layout"
+     ],
+     [
+      "Feature walls",
+      "& fireplaces"
+     ],
+     [
+      "{city} area",
+      "Serving now"
+     ]
+    ],
+    "sunTitle": [
+     "Design",
+     "Build",
+     "Finish"
+    ],
+    "benefits": [
+     {
+      "t": "Detail you can see",
+      "d": "Straight tile lines, tight trim and clean caulk. The small things are what make a remodel look finished."
+     },
+     {
+      "t": "A plan in writing",
+      "d": "Scope, materials, price and timeline on paper before demo day."
+     },
+     {
+      "t": "Respect for your home",
+      "d": "Floors protected, dust controlled and the site cleaned up at the end of every day."
+     }
+    ],
+    "stepsTitle": "From first visit to final walk-through",
+    "stepsSub": "A clear process, so you always know what's next.",
+    "steps": [
+     {
+      "t": "Free walk-through",
+      "d": "We look at the space, talk through ideas and take measurements."
+     },
+     {
+      "t": "Written proposal",
+      "d": "You get scope, materials, price and timeline in writing. No pressure."
+     },
+     {
+      "t": "Build and finish",
+      "d": "We do the work, walk it with you and fix anything before we call it done."
+     }
+    ],
+    "baTitle": "Before and after.",
+    "baSub": "From our recent work: a plain wall turned into a slat feature wall with a built-in fireplace.",
+    "baTabs": [
+     "Feature wall"
+    ],
+    "galleryTitle": "Recent work and the projects we take on",
+    "cmpTitle": "Patchwork fixes vs. a real remodel",
+    "cmpBad": "Patchwork fixes",
+    "bad": [
+     "Mismatched tile and trim",
+     "No plan, just guesses",
+     "Days with no one on site",
+     "Surprise costs halfway in",
+     "Mess left behind"
+    ],
+    "good": [
+     "Finishes that match and line up",
+     "A written plan and price",
+     "A steady crew until it's done",
+     "Changes agreed in writing first",
+     "A clean home at the end of each day"
+    ],
+    "svcTitle": "What we build",
+    "svcSub": "Remodels and finish work for {city} homes.",
+    "services": [
+     {
+      "slug": "bathrooms",
+      "name": "Bathroom remodeling",
+      "d": "Walk-in showers, tubs, vanities, lighting and full tile work."
+     },
+     {
+      "slug": "kitchens",
+      "name": "Kitchen remodeling",
+      "d": "Cabinets, counters, backsplash and lighting."
+     },
+     {
+      "slug": "basements",
+      "name": "Basement finishing",
+      "d": "Framing, drywall, flooring and lighting for new living space."
+     },
+     {
+      "slug": "tile",
+      "name": "Tile & flooring",
+      "d": "Porcelain, stone, LVP and hardwood, laid straight and level."
+     },
+     {
+      "slug": "painting",
+      "name": "Drywall & painting",
+      "d": "Patches, new walls and clean, even paint."
+     },
+     {
+      "slug": "feature-walls",
+      "name": "Feature walls & fireplaces",
+      "d": "Slat walls, TV walls, floating shelves and electric fireplaces."
+     },
+     {
+      "slug": "renovations",
+      "name": "Whole-home renovations",
+      "d": "Multi-room projects planned and run by one contractor."
+     }
+    ],
+    "sticker": {
+     "top": "{city}",
+     "big": "Remodels",
+     "band": "Bath · Kitchen · Basement"
+    },
+    "reviews": [
+     {
+      "q": "Our master bath came out better than the pictures we showed them. The tile work is perfect and they cleaned up every day.",
+      "n": "Nicole R."
+     },
+     {
+      "q": "They turned a blank living room wall into a slat wall with a fireplace. Everyone who visits asks who did it.",
+      "n": "Hassan A."
+     },
+     {
+      "q": "Clear quote, on schedule and easy to reach the whole time. Our basement finally feels like part of the house.",
+      "n": "Mike & Dana T."
+     }
+    ],
+    "faqs": [
+     {
+      "q": "What kind of projects do you take on?",
+      "a": "Bathrooms, kitchens, basements, tile, drywall and feature walls, from single rooms to multi-room remodels."
+     },
+     {
+      "q": "How does pricing work?",
+      "a": "After a free walk-through you get a written proposal with scope, materials, price and timeline before work begins."
+     },
+     {
+      "q": "Can I pick my own materials?",
+      "a": "Yes. Bring your own tile and fixtures or we can help you choose options that fit your budget."
+     },
+     {
+      "q": "Which areas do you serve?",
+      "a": "{city} and the nearby suburbs listed above. Call {phone} if you're not sure you're in range."
+     }
+    ],
+    "ctaTitle": "Get your free estimate",
+    "ctaSub": "Tell us about your project and we'll call you back to set up a walk-through.",
+    "formAsk": "What are you planning?"
+   }
+  },
+  "settings": {
+   "niche": "remodel",
+   "brandName": "Elite Contracting",
+   "logoWord": "Elite Contracting",
+   "logoShowName": true,
+   "owner": "Ali",
+   "tagline": "Detroit, MI",
+   "city": "Detroit",
+   "state": "MI",
+   "zip": "",
+   "address": "",
+   "phone": "(313) 244-2000",
+   "email": "",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "Detroit",
+    "Dearborn",
+    "Southfield",
+    "Warren",
+    "Livonia",
+    "Royal Oak",
+    "Ferndale",
+    "Grosse Pointe",
+    "Troy",
+    "Sterling Heights"
+   ],
+   "colors": {
+    "primary": "#141414",
+    "accent": "#D90A0F",
+    "highlight": "#EEECE9",
+    "highlight2": "#DCD8D2",
+    "accentHi": "#FF5A5A"
+   },
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@3e225216da8e85691150edbd397abc2841a8d04d/elitecontracting/logo.webp",
+   "logoMark": "",
+   "baAspect": "452/760",
+   "baMaxWidth": "390px",
+   "images": {
+    "hero": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@3e225216da8e85691150edbd397abc2841a8d04d/elitecontracting/hero.avif",
+    "about": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@3e225216da8e85691150edbd397abc2841a8d04d/elitecontracting/about.avif",
+    "benefit-0": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@3e225216da8e85691150edbd397abc2841a8d04d/elitecontracting/benefit-0.avif",
+    "benefit-1": "https://images.unsplash.com/photo-1503387837-b154d5074bd2?auto=format&fit=crop&q=70&w=900",
+    "benefit-2": "https://images.unsplash.com/photo-1667923006173-9e0d2251f608?auto=format&fit=crop&q=70&w=900",
+    "service-bathrooms": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@3e225216da8e85691150edbd397abc2841a8d04d/elitecontracting/service-bathrooms.avif",
+    "service-kitchens": "https://images.unsplash.com/photo-1560185127-1902ccdc5094?auto=format&fit=crop&q=70&w=900",
+    "service-basements": "https://images.unsplash.com/photo-1646592491741-e79ae5953486?auto=format&fit=crop&q=70&w=900",
+    "service-tile": "https://images.unsplash.com/photo-1523413307857-ef24c53571ae?auto=format&fit=crop&q=70&w=900",
+    "service-painting": "https://images.unsplash.com/photo-1688372199140-cade7ae820fe?auto=format&fit=crop&q=70&w=900",
+    "service-feature-walls": "https://images.unsplash.com/photo-1773867567704-6e39f26a5655?auto=format&fit=crop&q=70&w=1100",
+    "service-renovations": "https://images.unsplash.com/photo-1692890659047-079b769ee3e6?auto=format&fit=crop&q=70&w=1100",
+    "before-0": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@3e225216da8e85691150edbd397abc2841a8d04d/elitecontracting/before-0.avif",
+    "after-0": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@3e225216da8e85691150edbd397abc2841a8d04d/elitecontracting/after-0.avif"
+   },
+   "credits": [
+    {
+     "n": "charlesdeluvio",
+     "u": "charlesdeluvio"
+    },
+    {
+     "n": "Francesca Tosolini",
+     "u": "fromitaly"
+    },
+    {
+     "n": "Point3D Commercial Imaging Ltd.",
+     "u": "3dottawa"
+    },
+    {
+     "n": "Ali Mkumbwa",
+     "u": "mkumbwajr"
+    },
+    {
+     "n": "Franco Debartolo",
+     "u": "francotheshooter"
+    },
+    {
+     "n": "Brett Jordan",
+     "u": "brett_jordan"
+    },
+    {
+     "n": "Daniel McCullough",
+     "u": "d_mccullough"
+    },
+    {
+     "n": "Gabriel Alenius",
+     "u": "gabrielalenius"
+    }
+   ],
+   "showTemplatePanel": false
+  },
+  "about": {
+   "title": "Owner on every project",
+   "sub": "{owner} leads every {brand} job personally, from the first measurements to the last piece of trim.",
+   "points": [
+    "You deal directly with the owner.",
+    "Honest advice on materials and budget.",
+    "Serving {city} and the nearby suburbs."
+   ]
+  }
+ }
+}
