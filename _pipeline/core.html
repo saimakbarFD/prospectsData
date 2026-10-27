@@ -607,7 +607,8 @@ function serviceOptions(){
   return P().services.map(s => `<option>${esc(s.name)}</option>`).join("") + `<option>Something else</option>`;
 }
 
-function render(){
+function render(){ render0(); fitH1(); }
+function render0(){
   planFill();
   const p = P(), B = esc(brand()), phone = esc(S.phone), tel = esc(telHref());
   const root = document.documentElement.style;
@@ -953,6 +954,15 @@ $("tCopy").addEventListener("click", () => {
   } catch (err) { fallback(); }
 });
 
+function fitH1(){
+  const h = document.getElementById("h1"); if (!h) return;
+  h.style.fontSize = "";
+  let size = parseFloat(getComputedStyle(h).fontSize), n = 0;
+  const over = () => h.scrollWidth > h.parentElement.clientWidth + 1;
+  while (over() && size > 18 && n++ < 40) { size *= 0.96; h.style.fontSize = size + "px"; }
+}
+addEventListener("resize", fitH1);
+if (document.fonts) document.fonts.ready.then(fitH1);
 render();
 </script>
 </body>
