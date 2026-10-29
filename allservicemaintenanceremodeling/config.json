@@ -1,0 +1,329 @@
+{
+ "slug": "allservicemaintenanceremodeling",
+ "title": "All Service Maintenance & Remodeling | General Contractor in San Antonio, TX",
+ "description": "All Service Maintenance & Remodeling handles home repairs, maintenance and remodeling in San Antonio, TX. Kitchens, baths, flooring, painting, drywall and patio covers. Free estimates. Call (210) 772-0360.",
+ "favicon": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Cpath%20d%3D%22M7%2061V31a25%2025%200%200%201%2050%200v30Z%22%20fill%3D%22%234A1C2B%22%2F%3E%3Cpath%20d%3D%22M28.5%204h7l-1.2%207h-4.6Z%22%20fill%3D%22%235CC8C0%22%2F%3E%3Cline%20x1%3D%2244%22%20y1%3D%2253%22%20x2%3D%2225%22%20y2%3D%2234%22%20stroke%3D%22%235CC8C0%22%20stroke-width%3D%225.5%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%2221%22%20cy%3D%2230%22%20r%3D%227.5%22%20fill%3D%22%235CC8C0%22%2F%3E%3Cpath%20d%3D%22M16.5%2021.5l5%205-4.5%204.5-5-5Z%22%20fill%3D%22%234A1C2B%22%2F%3E%3Cline%20x1%3D%2220%22%20y1%3D%2253%22%20x2%3D%2239%22%20y2%3D%2234%22%20stroke%3D%22%23FFF8F1%22%20stroke-width%3D%225.5%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpath%20d%3D%22M52.4%2034.7L46.7%2040.4%2032.6%2026.3%2038.3%2020.6Z%22%20fill%3D%22%23FFF8F1%22%2F%3E%3C%2Fsvg%3E",
+ "demo": {
+  "presets": {
+   "gencon": {
+    "label": "General contractor",
+    "noun": "General Contracting & Remodeling",
+    "demoBrand": "All Service Maintenance & Remodeling",
+    "announce": "Free estimates · Now booking repairs and remodels in {city}",
+    "eyebrow": "{city} general contractor",
+    "h1": [
+     "Repairs.",
+     "Remodels.",
+     "Done right."
+    ],
+    "sub": "Home repairs, upkeep and full remodels across {city}. Kitchens, baths, flooring, paint, drywall and patio covers, handled by one contractor with a written quote before work begins.",
+    "badge": {
+     "big": "Built for",
+     "small": "Texas heat"
+    },
+    "badgeNote": "",
+    "trust": [
+     "Free estimates",
+     "Written quotes",
+     "Clean job sites"
+    ],
+    "ticker": [
+     [
+      "Free estimates",
+      "Booking now"
+     ],
+     [
+      "Repairs",
+      "Big or small"
+     ],
+     [
+      "Remodels",
+      "Inside & out"
+     ],
+     [
+      "Written quotes",
+      "Before we start"
+     ],
+     [
+      "One contractor",
+      "Start to finish"
+     ],
+     [
+      "San Antonio",
+      "Serving now"
+     ]
+    ],
+    "sunTitle": [
+     "Fix",
+     "Refresh",
+     "Remodel"
+    ],
+    "benefits": [
+     {
+      "t": "One call for repairs and remodels",
+      "d": "From a leaky faucet to a full kitchen, you have one number to call and one team on the job."
+     },
+     {
+      "t": "Craftsmanship that shows",
+      "d": "Straight tile lines, tight trim and clean paint edges. The details make the job."
+     },
+     {
+      "t": "Built for South Texas heat",
+      "d": "Materials and finishes chosen to hold up to long, hot San Antonio summers."
+     }
+    ],
+    "stepsTitle": "How your project runs",
+    "stepsSub": "Simple, clear and planned around your schedule.",
+    "steps": [
+     {
+      "t": "Free walk-through",
+      "d": "We visit, listen to what you need and take measurements."
+     },
+     {
+      "t": "Written quote",
+      "d": "You get scope, price and timeline in writing. No pressure."
+     },
+     {
+      "t": "Work and walk-through",
+      "d": "We do the work, walk it with you and make sure you're happy."
+     }
+    ],
+    "baTitle": "Before and after the work.",
+    "baSub": "Example photos. Your finished projects will go here.",
+    "baTabs": [
+     "Floors",
+     "Walls",
+     "Deck"
+    ],
+    "galleryTitle": "The kind of projects we take on",
+    "cmpTitle": "Juggling trades vs. one general contractor",
+    "cmpBad": "Managing it yourself",
+    "bad": [
+     "Calling five different trades",
+     "Gaps between each crew",
+     "Nobody responsible for the result",
+     "Surprise costs mid-project",
+     "Mess left between visits"
+    ],
+    "good": [
+     "One number to call",
+     "Crews scheduled back to back",
+     "One contractor accountable",
+     "A written price up front",
+     "A clean site every day"
+    ],
+    "svcTitle": "What we do",
+    "svcSub": "Repairs, maintenance and remodels for {city} homes.",
+    "services": [
+     {
+      "slug": "kitchens",
+      "name": "Kitchen remodeling",
+      "d": "Cabinets, countertops, backsplashes, lighting and full layout changes."
+     },
+     {
+      "slug": "bathrooms",
+      "name": "Bathroom remodeling",
+      "d": "Walk-in showers, tub swaps, vanities and tile."
+     },
+     {
+      "slug": "repairs",
+      "name": "Home repairs & maintenance",
+      "d": "Doors, fixtures, leaks and the to-do list you keep putting off."
+     },
+     {
+      "slug": "flooring",
+      "name": "Flooring installation",
+      "d": "Tile, luxury vinyl plank and laminate, installed level and clean."
+     },
+     {
+      "slug": "painting",
+      "name": "Interior & exterior painting",
+      "d": "Walls, trim, cabinets and exteriors with careful prep."
+     },
+     {
+      "slug": "drywall",
+      "name": "Drywall & ceiling repair",
+      "d": "Holes, cracks, water damage and texture matching that blends in."
+     },
+     {
+      "slug": "patios",
+      "name": "Patio covers & decks",
+      "d": "Shade for those Texas summers: patio covers, pergolas and decks built to last."
+     }
+    ],
+    "sticker": {
+     "top": "San Antonio",
+     "big": "Contractor",
+     "band": "Repairs & remodels"
+    },
+    "reviews": [
+     {
+      "q": "Tim's crew redid our kitchen and fixed a few things we'd been putting off for years. Clear quote, steady progress, clean site.",
+      "n": "Laura M."
+     },
+     {
+      "q": "New tile floors and fresh paint through the whole house. They showed up when they said they would and finished on time.",
+      "n": "Ray & Diana G."
+     },
+     {
+      "q": "Built us a patio cover just before summer. Fair price and great communication the whole way.",
+      "n": "Steve P."
+     }
+    ],
+    "faqs": [
+     {
+      "q": "What kind of jobs do you take on?",
+      "a": "Everything from repairs and regular upkeep to kitchen and bath remodels, flooring, painting, drywall and patio covers. Tell us about the job and we'll take a look."
+     },
+     {
+      "q": "How does pricing work?",
+      "a": "After a free walk-through, you get a written quote with scope, price and timeline before work begins."
+     },
+     {
+      "q": "Do you handle small repairs too?",
+      "a": "Yes. Small repairs and maintenance are a big part of what we do, and we can bundle several items into one visit."
+     },
+     {
+      "q": "Which areas do you serve?",
+      "a": "{city} and the nearby cities listed above. Call {phone} if you're not sure you're in range."
+     }
+    ],
+    "ctaTitle": "Get your free estimate",
+    "ctaSub": "Tell us about your project and we'll call you back to set up a walk-through.",
+    "formAsk": "What do you need done?"
+   }
+  },
+  "settings": {
+   "niche": "gencon",
+   "brandName": "All Service Maintenance & Remodeling",
+   "logoWord": "All Service",
+   "logoShowName": true,
+   "owner": "Tim",
+   "tagline": "San Antonio, TX",
+   "city": "San Antonio",
+   "state": "TX",
+   "zip": "",
+   "address": "",
+   "phone": "(210) 772-0360",
+   "email": "allservice.maint@gmail.com",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "San Antonio",
+    "Alamo Heights",
+    "Stone Oak",
+    "Helotes",
+    "Leon Valley",
+    "Live Oak",
+    "Universal City",
+    "Schertz",
+    "Converse",
+    "Boerne",
+    "New Braunfels"
+   ],
+   "colors": {
+    "primary": "#4A1C2B",
+    "accent": "#A3401A",
+    "highlight": "#5CC8C0",
+    "highlight2": "#48B3AB",
+    "accentHi": "#D9693A"
+   },
+   "logoMark": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><path d=\"M7 61V31a25 25 0 0 1 50 0v30Z\" fill=\"#4A1C2B\"/><path d=\"M28.5 4h7l-1.2 7h-4.6Z\" fill=\"#5CC8C0\"/><line x1=\"44\" y1=\"53\" x2=\"25\" y2=\"34\" stroke=\"#5CC8C0\" stroke-width=\"5.5\" stroke-linecap=\"round\"/><circle cx=\"21\" cy=\"30\" r=\"7.5\" fill=\"#5CC8C0\"/><path d=\"M16.5 21.5l5 5-4.5 4.5-5-5Z\" fill=\"#4A1C2B\"/><line x1=\"20\" y1=\"53\" x2=\"39\" y2=\"34\" stroke=\"#FFF8F1\" stroke-width=\"5.5\" stroke-linecap=\"round\"/><path d=\"M52.4 34.7L46.7 40.4 32.6 26.3 38.3 20.6Z\" fill=\"#FFF8F1\"/></svg>",
+   "images": {
+    "hero": "https://images.unsplash.com/photo-1780427670049-43aa7921e3f0?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1595844730289-b248c919d6f9?auto=format&fit=crop&q=70&w=1000",
+    "benefit-0": "https://images.unsplash.com/photo-1595844730298-b960ff98fee0?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1617873229215-11589e502703?auto=format&fit=crop&q=70&w=900",
+    "benefit-2": "https://images.unsplash.com/photo-1757362141189-8d2f7af341b0?auto=format&fit=crop&q=70&w=900",
+    "service-kitchens": "https://images.unsplash.com/photo-1785535573603-c814a46d7152?auto=format&fit=crop&q=70&w=900",
+    "service-bathrooms": "https://images.unsplash.com/photo-1587527901949-ab0341697c1e?auto=format&fit=crop&q=70&w=900",
+    "service-repairs": "https://images.unsplash.com/photo-1676210134188-4c05dd172f89?auto=format&fit=crop&q=70&w=900",
+    "service-flooring": "https://images.unsplash.com/photo-1761053130711-2515ef532bb5?auto=format&fit=crop&q=70&w=900",
+    "service-painting": "https://images.unsplash.com/photo-1688372198189-de6a51777a81?auto=format&fit=crop&q=70&w=900",
+    "service-drywall": "https://images.unsplash.com/photo-1768839725085-829e6ac7ac26?auto=format&fit=crop&q=70&w=1100",
+    "service-patios": "https://images.unsplash.com/photo-1707241978171-43e8d8dbd98b?auto=format&fit=crop&q=70&w=1100",
+    "before-0": "https://images.unsplash.com/photo-1607160264020-3dca1d62c3d3?auto=format&fit=crop&q=70&w=1400",
+    "after-0": "https://images.unsplash.com/photo-1573869908170-64b53a60d8da?auto=format&fit=crop&q=70&w=1400",
+    "before-1": "https://images.unsplash.com/photo-1668079334321-e51822308968?auto=format&fit=crop&q=70&w=1400",
+    "after-1": "https://images.unsplash.com/photo-1533628635777-112b2239b1c7?auto=format&fit=crop&q=70&w=1400",
+    "before-2": "https://images.unsplash.com/photo-1597687774545-332d884a7cc3?auto=format&fit=crop&q=70&w=1400",
+    "after-2": "https://images.unsplash.com/photo-1632359552106-2599db65f51c?auto=format&fit=crop&q=70&w=1400"
+   },
+   "credits": [
+    {
+     "n": "Clay Banks",
+     "u": "claybanks"
+    },
+    {
+     "n": "Callum Hill",
+     "u": "inkyhills"
+    },
+    {
+     "n": "Valentina Giarre",
+     "u": "valentinagiarre"
+    },
+    {
+     "n": "Justin Wolff",
+     "u": "jayphoto"
+    },
+    {
+     "n": "Franco Debartolo",
+     "u": "francotheshooter"
+    },
+    {
+     "n": "99.films",
+     "u": "99films"
+    },
+    {
+     "n": "Timur Shakerzianov",
+     "u": "shaker_jpg"
+    },
+    {
+     "n": "Alex Cooper",
+     "u": "alexcooper13"
+    },
+    {
+     "n": "Ali Mkumbwa",
+     "u": "mkumbwajr"
+    },
+    {
+     "n": "Sasun Bughdaryan",
+     "u": "sasun1990"
+    },
+    {
+     "n": "Charles Moll",
+     "u": "charlesmollphoto"
+    },
+    {
+     "n": "Krakograff Textures",
+     "u": "krakograff"
+    },
+    {
+     "n": "thomas heintz",
+     "u": "thomas2006"
+    },
+    {
+     "n": "Eric Prouzet",
+     "u": "eprouzet"
+    },
+    {
+     "n": "Se. Tsuchiya",
+     "u": "s_tsuchiya"
+    }
+   ],
+   "showTemplatePanel": false,
+   "logoUrl": ""
+  },
+  "about": {
+   "title": "Owner-led, start to finish",
+   "sub": "{owner} runs {brand} and stays on your job from the first walk-through to the final clean-up.",
+   "points": [
+    "You talk to Tim, not a call center.",
+    "Straight answers on cost, timing and options.",
+    "Serving {city}, Alamo Heights, Stone Oak and nearby cities."
+   ]
+  }
+ }
+}

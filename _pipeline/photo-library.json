@@ -180,7 +180,8 @@
     "Drywall repair"
    ],
    "demos": [
-    "jchandyman"
+    "jchandyman",
+    "allservicemaintenanceremodeling"
    ]
   },
   {
@@ -456,7 +457,8 @@
     "general contractor about"
    ],
    "demos": [
-    "globaldynamicresources"
+    "globaldynamicresources",
+    "allservicemaintenanceremodeling"
    ]
   },
   {
@@ -847,6 +849,116 @@
    "desc": "Man in a cap installing a pendant light fixture by a window",
    "photographer": "Marcos Paulo Prado",
    "username": "marcospradobr"
+  },
+  {
+   "id": "photo-1780427670049-43aa7921e3f0",
+   "topics": [
+    "general contractor hero"
+   ],
+   "demos": [
+    "allservicemaintenanceremodeling"
+   ],
+   "desc": "Spacious open living room and kitchen with wooden built-in shelves",
+   "photographer": "Clay Banks (@claybanks)"
+  },
+  {
+   "id": "photo-1595844730289-b248c919d6f9",
+   "topics": [
+    "general contractor about"
+   ],
+   "demos": [
+    "allservicemaintenanceremodeling"
+   ],
+   "desc": "Builder measuring between framing beams with a power tool",
+   "photographer": "Callum Hill (@inkyhills)"
+  },
+  {
+   "id": "photo-1617873229215-11589e502703",
+   "topics": [
+    "general contractor benefit-1"
+   ],
+   "demos": [
+    "allservicemaintenanceremodeling"
+   ],
+   "desc": "Custom built-in closet woodworking detail",
+   "photographer": "Valentina Giarre (@valentinagiarre)"
+  },
+  {
+   "id": "photo-1757362141189-8d2f7af341b0",
+   "topics": [
+    "general contractor benefit-2"
+   ],
+   "demos": [
+    "allservicemaintenanceremodeling"
+   ],
+   "desc": "Texas home with stone accents, New Braunfels",
+   "photographer": "Justin Wolff (@jayphoto)"
+  },
+  {
+   "id": "photo-1785535573603-c814a46d7152",
+   "topics": [
+    "general contractor service-kitchens"
+   ],
+   "demos": [
+    "allservicemaintenanceremodeling"
+   ],
+   "desc": "Tall modern kitchen with island and cabinetry",
+   "photographer": "Franco Debartolo (@francotheshooter)"
+  },
+  {
+   "id": "photo-1587527901949-ab0341697c1e",
+   "topics": [
+    "general contractor service-bathrooms"
+   ],
+   "demos": [
+    "allservicemaintenanceremodeling"
+   ],
+   "desc": "Renovated bathroom with marble-tile glass shower",
+   "photographer": "99.films (@99films)"
+  },
+  {
+   "id": "photo-1676210134188-4c05dd172f89",
+   "topics": [
+    "general contractor service-repairs"
+   ],
+   "demos": [
+    "allservicemaintenanceremodeling"
+   ],
+   "desc": "Man repairing a pipe in a wall",
+   "photographer": "Timur Shakerzianov (@shaker_jpg)"
+  },
+  {
+   "id": "photo-1761053130711-2515ef532bb5",
+   "topics": [
+    "general contractor service-flooring"
+   ],
+   "demos": [
+    "allservicemaintenanceremodeling"
+   ],
+   "desc": "Close-up of a herringbone wood floor",
+   "photographer": "Alex Cooper (@alexcooper13)"
+  },
+  {
+   "id": "photo-1688372198189-de6a51777a81",
+   "topics": [
+    "general contractor service-painting"
+   ],
+   "demos": [
+    "allservicemaintenanceremodeling"
+   ],
+   "desc": "Painter rolling paint on an interior wall",
+   "photographer": "Ali Mkumbwa (@mkumbwajr)"
+  },
+  {
+   "id": "photo-1707241978171-43e8d8dbd98b",
+   "topics": [
+    "general contractor service-patios"
+   ],
+   "demos": [
+    "allservicemaintenanceremodeling"
+   ],
+   "desc": "Covered patio with chairs under a blue sky",
+   "photographer": "Charles Moll (@charlesmollphoto)"
   }
  ],
  "examplePairs": [
