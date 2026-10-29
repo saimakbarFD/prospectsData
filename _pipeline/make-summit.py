@@ -18,7 +18,8 @@ assert '1330roof' not in css
 extra = r"""
 /* ===== Demo additions (no visual change to the original layout) ===== */
 html,main,.footer{overflow-x:clip}
-.logo{display:flex;align-items:center;gap:12px;color:var(--white)}
+.logo{display:flex;align-items:center;gap:12px}
+.logo .word{color:var(--white)}
 .logo .mark{width:56px;height:56px;flex:none;display:block}
 .logo .mark svg{width:100%;height:100%;display:block}
 .logo .word{display:grid;line-height:1.1;min-width:0}
@@ -104,7 +105,7 @@ document.getElementById("app").innerHTML = `
         <small>Need Help? Call Us Today</small>
         <a href="${tel}">${esc(S.phone)}</a>
       </div>
-      <a href="#contact" class="btn btn-primary">Get A Free Estimate</a>
+      <a href="#contact" class="btn btn-primary">Get A Consultation</a>
       <button class="menu-toggle" id="menuToggle" aria-label="Open menu" aria-expanded="false" aria-controls="mobileMenu">
         <span></span><span></span><span></span>
       </button>
@@ -166,7 +167,7 @@ document.getElementById("app").innerHTML = `
       </div>
       <a href="${tel}" class="call-line reveal">
         ${ICON.call}
-        <span><strong>${esc(S.phone)}</strong><small>Call For A Free Estimate</small></span>
+        <span><strong>${esc(S.phone)}</strong><small>Call For A Consultation</small></span>
       </a>
       </div>
     </div>
@@ -206,8 +207,8 @@ document.getElementById("app").innerHTML = `
       <div class="trust">${(P.trust || []).slice(0, 3).map(t => `<span>${ICON.check}${T(t)}</span>`).join("")}</div>
     </div>
     <form class="contact-form reveal from-right d1" id="contactForm" novalidate>
-      <h3>Request A Free Estimate</h3>
-      <p class="sub">Fill out the form and we'll be in touch to schedule your free estimate.</p>
+      <h3>Request A Consultation</h3>
+      <p class="sub">Fill out the form and we'll be in touch to schedule your consultation.</p>
       <div class="f-grid">
         <div class="field"><label for="cf-name">Full Name <b>*</b></label><input id="cf-name" name="name" type="text" autocomplete="name" required></div>
         <div class="field"><label for="cf-phone">Phone <b>*</b></label><input id="cf-phone" name="phone" type="tel" autocomplete="tel" required></div>
@@ -244,7 +245,7 @@ document.getElementById("app").innerHTML = `
       <h2>${T(P.ctaBandTitle || "Ready To Start Your Project?")}</h2>
       <p>${T(P.ctaBandText || ((P.trust || []).join(", ") + ". Let's talk about your project and get you taken care of."))}</p>
     </div>
-    <a href="#contact" class="btn btn-primary reveal d2">Get A Free Estimate</a>
+    <a href="#contact" class="btn btn-primary reveal d2">Get A Consultation</a>
   </div>
 </section>
 </main>
