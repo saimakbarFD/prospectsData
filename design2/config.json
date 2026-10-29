@@ -1,0 +1,326 @@
+{
+ "slug": "design2",
+ "title": "Wynn's Renovations and Handyman Services | Remodeling & Home Repairs in Dayton, OH",
+ "description": "Wynn's Renovations and Handyman Services handles kitchen and bathroom remodels, flooring, drywall, painting and handyman repairs in Dayton, OH. Call (326) 758-9817.",
+ "favicon": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Cpath%20d%3D%22M32%203L57%2011.5V29.5C57%2045%2046.5%2055.5%2032%2061C17.5%2055.5%207%2045%207%2029.5V11.5Z%22%20fill%3D%22%2333231A%22/%3E%3Cpath%20d%3D%22M32%207.5L53%2014.6V29.7C53%2042.6%2044.4%2051.6%2032%2056.6C19.6%2051.6%2011%2042.6%2011%2029.7V14.6Z%22%20fill%3D%22none%22%20stroke%3D%22%23E9C58B%22%20stroke-width%3D%221.6%22/%3E%3Cpolyline%20points%3D%2218.5%2C18.5%2023.5%2C34%2032%2C24.5%2040.5%2C34%2045.5%2C18.5%22%20fill%3D%22none%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%225%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22/%3E%3Crect%20x%3D%2216.5%22%20y%3D%2239.5%22%20width%3D%2231%22%20height%3D%228%22%20rx%3D%222.5%22%20fill%3D%22%23E9C58B%22/%3E%3Crect%20x%3D%2226.5%22%20y%3D%2241%22%20width%3D%2211%22%20height%3D%225%22%20rx%3D%222.5%22%20fill%3D%22%230D6E6E%22/%3E%3Ccircle%20cx%3D%2233.6%22%20cy%3D%2243.5%22%20r%3D%221.5%22%20fill%3D%22%23FFFFFF%22/%3E%3Cline%20x1%3D%2221%22%20y1%3D%2241.5%22%20x2%3D%2221%22%20y2%3D%2245.5%22%20stroke%3D%22%2333231A%22%20stroke-width%3D%221.2%22/%3E%3Cline%20x1%3D%2243%22%20y1%3D%2241.5%22%20x2%3D%2243%22%20y2%3D%2245.5%22%20stroke%3D%22%2333231A%22%20stroke-width%3D%221.2%22/%3E%3C/svg%3E",
+ "demo": {
+  "presets": {
+   "handyman": {
+    "label": "Renovations & handyman",
+    "noun": "Renovations & Handyman Services",
+    "demoBrand": "Wynn's Renovations and Handyman Services",
+    "announce": "Now booking remodels and home repairs across {city} and the Miami Valley",
+    "eyebrow": "{city} renovations & handyman",
+    "h1": [
+     "Quick fixes.",
+     "New rooms.",
+     "One crew."
+    ],
+    "sub": "Kitchen and bathroom remodels, flooring, drywall, painting and everyday handyman repairs across {city}. One local crew from the first fix to the finished room.",
+    "badge": {
+     "big": "Fix + Remodel",
+     "small": "One call"
+    },
+    "badgeNote": "",
+    "trust": [
+     "Free estimates",
+     "Owner on every job",
+     "Clean job sites"
+    ],
+    "ticker": [
+     [
+      "Kitchens",
+      "Remodeled"
+     ],
+     [
+      "Bathrooms",
+      "Updated"
+     ],
+     [
+      "Repairs",
+      "Done right"
+     ],
+     [
+      "Drywall",
+      "Patched smooth"
+     ],
+     [
+      "Floors",
+      "Laid level"
+     ],
+     [
+      "{city}",
+      "Booking now"
+     ]
+    ],
+    "sunTitle": [
+     "Fix",
+     "Build",
+     "Finish"
+    ],
+    "benefits": [
+     {
+      "t": "One crew for small and big jobs",
+      "d": "The leaky faucet today and the bathroom remodel next spring. Same people, same standards, one number to call."
+     },
+     {
+      "t": "Clear prices up front",
+      "d": "You get a written estimate before any work starts, so there are no surprises when the job is done."
+     },
+     {
+      "t": "Respect for your home",
+      "d": "Floors covered, dust kept down and the work area cleaned up at the end of every day."
+     }
+    ],
+    "stepsTitle": "How it works",
+    "stepsSub": "Simple from the first call to the final walkthrough.",
+    "steps": [
+     {
+      "t": "Tell us about the project",
+      "d": "Call or send a message with what needs fixing or the room you want to change."
+     },
+     {
+      "t": "Get a free estimate",
+      "d": "We take a look, talk through options and give you a clear price."
+     },
+     {
+      "t": "We do the work and walk it with you",
+      "d": "We finish the job, clean up and walk through it with you before we call it done."
+     }
+    ],
+    "baTitle": "Before and after.",
+    "baSub": "Example photos. Your own before and after shots will go here.",
+    "baTabs": [
+     "Walls",
+     "Deck"
+    ],
+    "galleryTitle": "The kind of work we take on",
+    "cmpTitle": "Hiring around vs. one call to Wynn's",
+    "cmpBad": "Juggling different contractors",
+    "bad": [
+     "A different person for every job",
+     "Small repairs nobody wants",
+     "Vague prices that grow",
+     "Mess left behind",
+     "Hard to reach once paid"
+    ],
+    "good": [
+     "One crew for repairs and remodels",
+     "No job too small",
+     "Written estimate up front",
+     "Clean site every day",
+     "Owner answers the phone"
+    ],
+    "svcTitle": "What we take care of",
+    "svcSub": "Renovations and handyman work for homes across {city} and nearby towns.",
+    "services": [
+     {
+      "slug": "kitchens",
+      "name": "Kitchen remodeling",
+      "d": "Cabinets, countertops, backsplashes, lighting and layout updates that make the kitchen work for you."
+     },
+     {
+      "slug": "bathrooms",
+      "name": "Bathroom remodeling",
+      "d": "New vanities, tile, tubs and showers, from quick updates to full gut remodels."
+     },
+     {
+      "slug": "repairs",
+      "name": "Handyman repairs",
+      "d": "Doors, trim, hinges, shelves, leaks and the list of small things around the house."
+     },
+     {
+      "slug": "drywall",
+      "name": "Drywall & painting",
+      "d": "Holes patched, cracks fixed and walls painted clean and even."
+     },
+     {
+      "slug": "flooring",
+      "name": "Flooring installation",
+      "d": "Luxury vinyl, laminate, tile and hardwood laid flat and finished right."
+     },
+     {
+      "slug": "decks",
+      "name": "Decks & exterior repairs",
+      "d": "Deck boards, railings, steps, siding and trim repaired or rebuilt before Ohio weather does more damage."
+     },
+     {
+      "slug": "installs",
+      "name": "Fixtures & installs",
+      "d": "Light fixtures, ceiling fans, faucets, toilets, blinds and TV mounts installed safely."
+     }
+    ],
+    "sticker": {
+     "top": "Dayton",
+     "big": "Fix & Remodel",
+     "band": "One crew"
+    },
+    "reviews": [
+     {
+      "q": "We had a running list of repairs and a dated bathroom. They knocked out the list in a day and came back to remodel the bathroom. Great work.",
+      "n": "Lisa M."
+     },
+     {
+      "q": "New flooring through the whole first floor. Everything is level, the trim looks clean and they left the house spotless.",
+      "n": "Greg H."
+     },
+     {
+      "q": "Called about a hole in the drywall and a sticking door. Both fixed the same afternoon at the price they quoted.",
+      "n": "Tanya W."
+     }
+    ],
+    "faqs": [
+     {
+      "q": "Do you take small handyman jobs?",
+      "a": "Yes. No job is too small. Put together your list of repairs and we'll handle it in one visit."
+     },
+     {
+      "q": "Do you do full kitchen and bathroom remodels?",
+      "a": "Yes. From a simple refresh to a full remodel, we'll walk you through options and give you a written estimate."
+     },
+     {
+      "q": "How do I get an estimate?",
+      "a": "Call {phone} or fill out the form below. We'll set up a time to look at the project and give you a clear price."
+     },
+     {
+      "q": "Which areas do you serve?",
+      "a": "{city} and the nearby towns listed above. Call {phone} if you're not sure you're in range."
+     }
+    ],
+    "ctaTitle": "Get your free estimate",
+    "ctaSub": "Tell us what needs fixing or the room you want to change. We'll call you back with a price.",
+    "formAsk": "What do you need done?"
+   }
+  },
+  "settings": {
+   "niche": "handyman",
+   "brandName": "Wynn's Renovations and Handyman Services",
+   "logoWord": "Wynn's",
+   "logoShowName": true,
+   "owner": "Buddy",
+   "tagline": "Dayton, OH",
+   "city": "Dayton",
+   "state": "OH",
+   "zip": "",
+   "address": "",
+   "phone": "(326) 758-9817",
+   "email": "wynnb4107@gmail.com",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "Dayton",
+    "Kettering",
+    "Beavercreek",
+    "Centerville",
+    "Huber Heights",
+    "Miamisburg",
+    "Fairborn",
+    "Xenia",
+    "Vandalia",
+    "Englewood"
+   ],
+   "colors": {
+    "primary": "#33231A",
+    "accent": "#0D6E6E",
+    "highlight": "#E9C58B",
+    "highlight2": "#D4A35F",
+    "accentHi": "#13807F"
+   },
+   "logoUrl": "",
+   "logoMark": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><path d=\"M32 3L57 11.5V29.5C57 45 46.5 55.5 32 61C17.5 55.5 7 45 7 29.5V11.5Z\" fill=\"#33231A\"/><path d=\"M32 7.5L53 14.6V29.7C53 42.6 44.4 51.6 32 56.6C19.6 51.6 11 42.6 11 29.7V14.6Z\" fill=\"none\" stroke=\"#E9C58B\" stroke-width=\"1.6\"/><polyline points=\"18.5,18.5 23.5,34 32,24.5 40.5,34 45.5,18.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"16.5\" y=\"39.5\" width=\"31\" height=\"8\" rx=\"2.5\" fill=\"#E9C58B\"/><rect x=\"26.5\" y=\"41\" width=\"11\" height=\"5\" rx=\"2.5\" fill=\"#0D6E6E\"/><circle cx=\"33.6\" cy=\"43.5\" r=\"1.5\" fill=\"#FFFFFF\"/><line x1=\"21\" y1=\"41.5\" x2=\"21\" y2=\"45.5\" stroke=\"#33231A\" stroke-width=\"1.2\"/><line x1=\"43\" y1=\"41.5\" x2=\"43\" y2=\"45.5\" stroke=\"#33231A\" stroke-width=\"1.2\"/></svg>",
+   "images": {
+    "hero": "https://images.unsplash.com/photo-1618090584176-7132b9911657?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1461938337379-4b537cd2db74?auto=format&fit=crop&q=70&w=1000",
+    "benefit-0": "https://images.unsplash.com/photo-1567361808960-dec9cb578182?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1615974679600-665fb9468c4f?auto=format&fit=crop&q=70&w=900",
+    "benefit-2": "https://images.unsplash.com/photo-1625585598750-3535fe40efb3?auto=format&fit=crop&q=70&w=900",
+    "service-kitchens": "https://images.unsplash.com/photo-1768486143865-342d8cc12c90?auto=format&fit=crop&q=70&w=900",
+    "service-bathrooms": "https://images.unsplash.com/photo-1792630861778-3072e9d55af6?auto=format&fit=crop&q=70&w=900",
+    "service-repairs": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?auto=format&fit=crop&q=70&w=900",
+    "service-drywall": "https://images.unsplash.com/photo-1652829069834-2c05031199c5?auto=format&fit=crop&q=70&w=900",
+    "service-flooring": "https://images.unsplash.com/photo-1731185752376-a4cf3e8556fa?auto=format&fit=crop&q=70&w=900",
+    "service-decks": "https://images.unsplash.com/photo-1792628953008-3be837e036c0?auto=format&fit=crop&q=70&w=1100",
+    "service-installs": "https://images.unsplash.com/photo-1583275477830-7e8e9d56d15f?auto=format&fit=crop&q=70&w=1100",
+    "before-0": "https://images.unsplash.com/photo-1694415847950-973e7dcca94d?auto=format&fit=crop&q=70&w=1400",
+    "after-0": "https://images.unsplash.com/photo-1533628635777-112b2239b1c7?auto=format&fit=crop&q=70&w=1400",
+    "before-1": "https://images.unsplash.com/photo-1597687774545-332d884a7cc3?auto=format&fit=crop&q=70&w=1400",
+    "after-1": "https://images.unsplash.com/photo-1632359552106-2599db65f51c?auto=format&fit=crop&q=70&w=1400"
+   },
+   "credits": [
+    {
+     "n": "James Kovin",
+     "u": "james2k"
+    },
+    {
+     "n": "David Siglin",
+     "u": "dsiglin"
+    },
+    {
+     "n": "Louis Hansel",
+     "u": "louishansel"
+    },
+    {
+     "n": "Valentina Giarre",
+     "u": "valentinagiarre"
+    },
+    {
+     "n": "Andrew Neel",
+     "u": "andrewtneel"
+    },
+    {
+     "n": "Clay Banks",
+     "u": "claybanks"
+    },
+    {
+     "n": "Josh Lemmon",
+     "u": "wolfie_website"
+    },
+    {
+     "n": "Theme Photos",
+     "u": "themephotos"
+    },
+    {
+     "n": "Callum Hill",
+     "u": "inkyhills"
+    },
+    {
+     "n": "Ernys",
+     "u": "ernys"
+    },
+    {
+     "n": "Marcos Paulo Prado",
+     "u": "marcospradobr"
+    },
+    {
+     "n": "Lallaoke",
+     "u": "lallaoke"
+    },
+    {
+     "n": "thomas heintz",
+     "u": "thomas2006"
+    },
+    {
+     "n": "Eric Prouzet",
+     "u": "eprouzet"
+    },
+    {
+     "n": "Se. Tsuchiya",
+     "u": "s_tsuchiya"
+    }
+   ],
+   "showTemplatePanel": false
+  },
+  "about": {
+   "title": "Owner-run, detail-minded",
+   "sub": "{owner} runs {brand} and treats every home like his own, whether it's a quick repair or a full remodel.",
+   "points": [
+    "You talk to the owner, not a call center.",
+    "Written estimates before any work starts.",
+    "Serving {city} and the surrounding Miami Valley towns."
+   ]
+  }
+ },
+ "design": "summit"
+}
