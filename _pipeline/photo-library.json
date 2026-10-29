@@ -805,10 +805,12 @@
   {
    "id": "photo-1562259929-b4e1fd3aef09",
    "topics": [
-    "handyman & renovations service-repairs"
+    "handyman & renovations service-repairs",
+    "remodeling & repairs service-repairs"
    ],
    "demos": [
-    "wynnsrenovations"
+    "wynnsrenovations",
+    "reliableremodelingrepairs"
    ],
    "desc": "Close-up of hands using a cordless drill on a repair",
    "photographer": "Theme Photos",
@@ -959,6 +961,162 @@
    ],
    "desc": "Covered patio with chairs under a blue sky",
    "photographer": "Charles Moll (@charlesmollphoto)"
+  },
+  {
+   "id": "photo-1770751188011-8ab6c81552bf",
+   "topics": [
+    "remodeling & repairs hero"
+   ],
+   "demos": [
+    "reliableremodelingrepairs"
+   ],
+   "desc": "Bright modern kitchen with island opening to living room",
+   "photographer": "Ronnie George",
+   "username": "realestateron"
+  },
+  {
+   "id": "photo-1789656435285-02cd411e5ffd",
+   "topics": [
+    "remodeling & repairs about"
+   ],
+   "demos": [
+    "reliableremodelingrepairs"
+   ],
+   "desc": "Hands holding a nail against a pale wall with a hammer raised",
+   "photographer": "Barney Goodman",
+   "username": "bgoodpic"
+  },
+  {
+   "id": "photo-1762146828422-50a8bd416d3c",
+   "topics": [
+    "remodeling & repairs benefit-0"
+   ],
+   "demos": [
+    "reliableremodelingrepairs"
+   ],
+   "desc": "Architectural blueprints spread out on a surface",
+   "photographer": "Marina Zvada",
+   "username": "zvada_photo"
+  },
+  {
+   "id": "photo-1646119955125-7ef8819c813a",
+   "topics": [
+    "remodeling & repairs benefit-1"
+   ],
+   "demos": [
+    "reliableremodelingrepairs"
+   ],
+   "desc": "Carpenter with work gloves measuring a board with a folding rule",
+   "photographer": "Jimmy Nilsson Masth",
+   "username": "jimmynilssonmasth"
+  },
+  {
+   "id": "photo-1707872732780-f98cf7592e2c",
+   "topics": [
+    "remodeling & repairs benefit-2"
+   ],
+   "demos": [
+    "reliableremodelingrepairs"
+   ],
+   "desc": "Two-story brick home with a large front yard in Texas",
+   "photographer": "AccuPhotography",
+   "username": "accuphotography"
+  },
+  {
+   "id": "photo-1782105000540-55c8b285fe08",
+   "topics": [
+    "remodeling & repairs service-kitchens"
+   ],
+   "demos": [
+    "reliableremodelingrepairs"
+   ],
+   "desc": "Tall modern kitchen with island and brown and white cabinets",
+   "photographer": "Franco Debartolo",
+   "username": "francotheshooter"
+  },
+  {
+   "id": "photo-1682888818704-6dc91e9d7532",
+   "topics": [
+    "remodeling & repairs service-bathrooms"
+   ],
+   "demos": [
+    "reliableremodelingrepairs"
+   ],
+   "desc": "Bathroom with green vanity cabinets and marble shower",
+   "photographer": "Zac Gudakov",
+   "username": "zacgudakov"
+  },
+  {
+   "id": "photo-1786020843199-9f86e68d4bb7",
+   "topics": [
+    "remodeling & repairs service-flooring"
+   ],
+   "demos": [
+    "reliableremodelingrepairs"
+   ],
+   "desc": "Shiny wood floor in a herringbone pattern",
+   "photographer": "Madalozzo",
+   "username": "madalozzo"
+  },
+  {
+   "id": "photo-1562259949-e8e7689d7828",
+   "topics": [
+    "remodeling & repairs service-drywall"
+   ],
+   "demos": [
+    "reliableremodelingrepairs"
+   ],
+   "desc": "Paint roller applying blue paint to a white wall",
+   "photographer": "Theme Photos",
+   "username": "themephotos"
+  },
+  {
+   "id": "photo-1694885090746-d90472e11c0e",
+   "topics": [
+    "remodeling & repairs service-fences"
+   ],
+   "demos": [
+    "reliableremodelingrepairs"
+   ],
+   "desc": "Covered patio with a grill and a table",
+   "photographer": "Brian Wangenheim",
+   "username": "brianwangenheim"
+  },
+  {
+   "id": "photo-1685022515887-c2a10c137162",
+   "topics": [
+    "remodeling & repairs service-carpentry"
+   ],
+   "demos": [
+    "reliableremodelingrepairs"
+   ],
+   "desc": "Man working on a piece of wood",
+   "photographer": "Jean-Baptiste D.",
+   "username": "jbonunsplash"
+  },
+  {
+   "id": "photo-1694415847950-973e7dcca94d",
+   "topics": [
+    "remodeling & repairs before-0"
+   ],
+   "demos": [
+    "reliableremodelingrepairs"
+   ],
+   "desc": "Damaged wall before repair",
+   "photographer": "Lallaoke",
+   "username": "lallaoke"
+  },
+  {
+   "id": "photo-1533628635777-112b2239b1c7",
+   "topics": [
+    "remodeling & repairs after-0"
+   ],
+   "demos": [
+    "reliableremodelingrepairs"
+   ],
+   "desc": "Smooth finished wall after repair",
+   "photographer": "thomas heintz",
+   "username": "thomas2006"
   }
  ],
  "examplePairs": [
