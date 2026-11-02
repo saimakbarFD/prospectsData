@@ -2,7 +2,7 @@
  "slug": "brhomes",
  "title": "BR Homes & Consulting | General Contractor in Toledo, OH",
  "description": "BR Homes & Consulting builds new homes, remodels, additions and commercial build-outs in Toledo, OH, with construction consulting for owners and investors. Free estimates. Call (419) 345-6072.",
- "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@d757e679b2a2802207d9a3913def90f0f11e36f1/brhomes/favicon.webp",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@2fa95eec29db065741bf7c0217987669f9a51ed4/brhomes/favicon.webp",
  "demo": {
   "presets": {
    "gencon": {
@@ -14,7 +14,7 @@
     "h1": [
      "Homes.",
      "Businesses.",
-     "Built to last."
+     "Built solid."
     ],
     "sub": "New homes, remodels, additions and commercial build-outs across {city} and northwest Ohio, plus straight advice for owners and investors planning their next project.",
     "badge": {
@@ -91,8 +91,7 @@
     "baTitle": "Before and after the crew.",
     "baSub": "Example photos. Your finished projects will go here.",
     "baTabs": [
-     "Walls",
-     "Floors"
+     "Walls"
     ],
     "galleryTitle": "The kind of projects we take on",
     "cmpTitle": "Juggling trades vs. one general contractor",
@@ -131,7 +130,7 @@
      },
      {
       "slug": "commercial",
-      "name": "Commercial build-outs",
+      "name": "Commercial projects",
       "d": "Storefronts, offices and tenant spaces ready to open for business."
      },
      {
@@ -228,9 +227,9 @@
     "highlight2": "#C9972A",
     "accentHi": "#E8BE55"
    },
-   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@d757e679b2a2802207d9a3913def90f0f11e36f1/brhomes/logo.webp",
-   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@d757e679b2a2802207d9a3913def90f0f11e36f1/brhomes/logo-dark.webp",
-   "logoHeight": "76px",
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@2fa95eec29db065741bf7c0217987669f9a51ed4/brhomes/logo.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@2fa95eec29db065741bf7c0217987669f9a51ed4/brhomes/logo-dark.webp",
+   "logoHeight": "66px",
    "logoMark": "",
    "images": {
     "hero": "https://images.unsplash.com/photo-1786859864999-2a969564ae2e?auto=format&fit=crop&q=70&w=1800",
@@ -240,20 +239,18 @@
     "benefit-2": "https://images.unsplash.com/photo-1577992141014-c211608c9038?auto=format&fit=crop&q=70&w=900",
     "service-new-homes": "https://images.unsplash.com/photo-1676802037786-3697d60497ae?auto=format&fit=crop&q=70&w=900",
     "service-remodels": "https://images.unsplash.com/photo-1634586648651-f1fb9ec10d90?auto=format&fit=crop&q=70&w=900",
-    "service-additions": "https://images.unsplash.com/photo-1556156657-b2925b706f19?auto=format&fit=crop&q=70&w=900",
-    "service-commercial": "https://images.unsplash.com/photo-1790737073979-92a338b8c044?auto=format&fit=crop&q=70&w=900",
+    "service-additions": "https://images.unsplash.com/photo-1593786267440-550458cc882a?auto=format&fit=crop&q=70&w=900",
+    "service-commercial": "https://images.unsplash.com/photo-1768321917129-80494daec0e9?auto=format&fit=crop&q=70&w=900",
     "service-rehabs": "https://images.unsplash.com/photo-1444419988131-046ed4e5ffd6?auto=format&fit=crop&q=70&w=900",
     "service-consulting": "https://images.unsplash.com/photo-1608303588026-884930af2559?auto=format&fit=crop&q=70&w=1100",
     "service-kitchens-baths": "https://images.unsplash.com/photo-1682888813795-192fca4a10d9?auto=format&fit=crop&q=70&w=1100",
     "before-0": "https://images.unsplash.com/photo-1694415847950-973e7dcca94d?auto=format&fit=crop&q=70&w=1400",
-    "after-0": "https://images.unsplash.com/photo-1533628635777-112b2239b1c7?auto=format&fit=crop&q=70&w=1400",
-    "before-1": "https://images.unsplash.com/photo-1607160264020-3dca1d62c3d3?auto=format&fit=crop&q=70&w=1400",
-    "after-1": "https://images.unsplash.com/photo-1573869908170-64b53a60d8da?auto=format&fit=crop&q=70&w=1400"
+    "after-0": "https://images.unsplash.com/photo-1533628635777-112b2239b1c7?auto=format&fit=crop&q=70&w=1400"
    },
    "credits": [
     {
-     "n": "Avel Chuklanov",
-     "u": "chuklanov"
+     "n": "Brett Jordan",
+     "u": "brett_jordan"
     },
     {
      "n": "Emmanuel Ikwuegbu",
@@ -262,10 +259,6 @@
     {
      "n": "Erik Mclean",
      "u": "introspectivedsgn"
-    },
-    {
-     "n": "Irving Yu",
-     "u": "shiroiyoru"
     },
     {
      "n": "Josh Olalde",
@@ -278,6 +271,10 @@
     {
      "n": "Nolan Issac",
      "u": "nolanissac"
+    },
+    {
+     "n": "Olek Buzunov",
+     "u": "olek_bznv_photo"
     },
     {
      "n": "Pedro Miranda",

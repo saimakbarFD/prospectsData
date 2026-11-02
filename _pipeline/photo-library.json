@@ -237,8 +237,7 @@
     "Home additions"
    ],
    "demos": [
-    "dalmerconstruction",
-    "brhomes"
+    "dalmerconstruction"
    ],
    "desc": "new wooden-framed building / addition",
    "photographer": "Avel Chuklanov|chuklanov"
@@ -1177,15 +1176,26 @@
    "photographer": "Stefan Lehner"
   },
   {
-   "id": "photo-1790737073979-92a338b8c044",
+   "id": "photo-1593786267440-550458cc882a",
+   "topics": [
+    "general contractor service-additions"
+   ],
+   "demos": [
+    "brhomes"
+   ],
+   "desc": "Home extension building work going up on an existing house",
+   "photographer": "Brett Jordan"
+  },
+  {
+   "id": "photo-1768321917129-80494daec0e9",
    "topics": [
     "general contractor service-commercial"
    ],
    "demos": [
     "brhomes"
    ],
-   "desc": "Worker inside a shop under renovation with a yellow ladder",
-   "photographer": "Irving Yu"
+   "desc": "Interior room under construction with metal studs and unfinished walls",
+   "photographer": "Olek Buzunov"
   },
   {
    "id": "photo-1444419988131-046ed4e5ffd6",
