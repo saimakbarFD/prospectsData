@@ -52,7 +52,8 @@
     "Additions & framing"
    ],
    "demos": [
-    "mrgeneralconstruction"
+    "mrgeneralconstruction",
+    "brhomes"
    ]
   },
   {
@@ -236,7 +237,8 @@
     "Home additions"
    ],
    "demos": [
-    "dalmerconstruction"
+    "dalmerconstruction",
+    "brhomes"
    ],
    "desc": "new wooden-framed building / addition",
    "photographer": "Avel Chuklanov|chuklanov"
@@ -478,7 +480,8 @@
     "general contractor benefit-0"
    ],
    "demos": [
-    "globaldynamicresources"
+    "globaldynamicresources",
+    "brhomes"
    ]
   },
   {
@@ -1117,6 +1120,105 @@
    "desc": "Smooth finished wall after repair",
    "photographer": "thomas heintz",
    "username": "thomas2006"
+  },
+  {
+   "id": "photo-1786859864999-2a969564ae2e",
+   "topics": [
+    "general contractor hero"
+   ],
+   "demos": [
+    "brhomes"
+   ],
+   "desc": "House frame under construction silhouetted against a warm sunrise sky, tradies on site",
+   "photographer": "Troy Mortier"
+  },
+  {
+   "id": "photo-1621905253185-95614217f357",
+   "topics": [
+    "general contractor about"
+   ],
+   "demos": [
+    "brhomes"
+   ],
+   "desc": "Builder in a hard hat standing on a building site",
+   "photographer": "Emmanuel Ikwuegbu"
+  },
+  {
+   "id": "photo-1608613304899-ea8098577e38",
+   "topics": [
+    "general contractor benefit-1"
+   ],
+   "demos": [
+    "brhomes"
+   ],
+   "desc": "Close-up woodworking cut with a miter saw",
+   "photographer": "Samantha Fortney"
+  },
+  {
+   "id": "photo-1577992141014-c211608c9038",
+   "topics": [
+    "general contractor benefit-2"
+   ],
+   "demos": [
+    "brhomes"
+   ],
+   "desc": "House exterior in snow, cold-climate home",
+   "photographer": "Erik Mclean"
+  },
+  {
+   "id": "photo-1634586648651-f1fb9ec10d90",
+   "topics": [
+    "general contractor service-remodels"
+   ],
+   "demos": [
+    "brhomes"
+   ],
+   "desc": "Room under renovation with support poles, debris and tools",
+   "photographer": "Stefan Lehner"
+  },
+  {
+   "id": "photo-1790737073979-92a338b8c044",
+   "topics": [
+    "general contractor service-commercial"
+   ],
+   "demos": [
+    "brhomes"
+   ],
+   "desc": "Worker inside a shop under renovation with a yellow ladder",
+   "photographer": "Irving Yu"
+  },
+  {
+   "id": "photo-1444419988131-046ed4e5ffd6",
+   "topics": [
+    "general contractor service-rehabs"
+   ],
+   "demos": [
+    "brhomes"
+   ],
+   "desc": "Abandoned room with peeling wallpaper and damaged floor, fixer-upper",
+   "photographer": "Nolan Issac"
+  },
+  {
+   "id": "photo-1608303588026-884930af2559",
+   "topics": [
+    "general contractor service-consulting"
+   ],
+   "demos": [
+    "brhomes"
+   ],
+   "desc": "People reviewing architectural blueprints on a desk",
+   "photographer": "Pedro Miranda"
+  },
+  {
+   "id": "photo-1682888813795-192fca4a10d9",
+   "topics": [
+    "general contractor service-kitchens-baths"
+   ],
+   "demos": [
+    "brhomes"
+   ],
+   "desc": "Large modern kitchen with center island and marble counters",
+   "photographer": "Zac Gudakov"
   }
  ],
  "examplePairs": [
