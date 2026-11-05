@@ -1,0 +1,274 @@
+{
+ "slug": "nicksmithandsonsconstruction",
+ "title": "Nick Smith And Sons Construction LLC | General Contractor in Fairborn, OH",
+ "description": "Nick Smith And Sons Construction LLC remodels kitchens, builds sunrooms and adds custom carpentry in Fairborn, OH. Free estimates. Call (937) 603-4650.",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@126bad21c6e173b57c4c1d1f9d43fab380888e79/nicksmithandsonsconstruction/favicon.webp",
+ "demo": {
+  "presets": {
+   "gencon": {
+    "label": "General contractor",
+    "noun": "General Contracting & Remodeling",
+    "demoBrand": "Nick Smith And Sons Construction LLC",
+    "announce": "Free estimates · Now booking kitchens, sunrooms and remodels in {city} and the Miami Valley",
+    "eyebrow": "{city} general contractor",
+    "h1": [
+     "Built right",
+     "by Nick",
+     "and sons."
+    ],
+    "sub": "Kitchens, sunrooms, fireplaces and full remodels across {city}, Dayton and the Miami Valley. One family crew for the whole job, with a written quote before work begins.",
+    "badge": {
+     "big": "Family",
+     "small": "name on every job"
+    },
+    "badgeNote": "",
+    "trust": [
+     "Free estimates",
+     "Written quotes",
+     "Clean job sites"
+    ],
+    "ticker": [
+     [
+      "Free estimates",
+      "Booking now"
+     ],
+     [
+      "Remodels",
+      "Inside & out"
+     ],
+     [
+      "Additions",
+      "More room"
+     ],
+     [
+      "Written quotes",
+      "Before we start"
+     ],
+     [
+      "Father & sons",
+      "Start to finish"
+     ],
+     [
+      "Miami Valley",
+      "Serving now"
+     ]
+    ],
+    "sunTitle": [
+     "Plan",
+     "Build",
+     "Finish"
+    ],
+    "benefits": [
+     {
+      "t": "A clear plan up front",
+      "d": "Scope, price and timeline in writing before a single board is cut, so you know where the job stands."
+     },
+     {
+      "t": "Craftsmanship that shows",
+      "d": "Square corners, tight trim and finishes that line up. Our name is on the truck, so the details matter."
+     },
+     {
+      "t": "Built for Ohio weather",
+      "d": "Proper framing, insulation and flashing so your home holds up through humid summers and freezing winters."
+     }
+    ],
+    "stepsTitle": "How your project runs",
+    "stepsSub": "Simple, clear and planned around your schedule.",
+    "steps": [
+     {
+      "t": "Free walk-through",
+      "d": "We visit, listen to what you want and take measurements."
+     },
+     {
+      "t": "Written proposal",
+      "d": "You get scope, price and timeline in writing. No pressure."
+     },
+     {
+      "t": "Build and hand over",
+      "d": "We do the work, walk it with you and make sure you're happy."
+     }
+    ],
+    "baTitle": "Before and after the crew.",
+    "baSub": "Your finished projects will go here.",
+    "baTabs": [
+     "Floors",
+     "Walls",
+     "Deck"
+    ],
+    "galleryTitle": "The kind of projects we take on",
+    "cmpTitle": "Juggling trades vs. one general contractor",
+    "cmpBad": "Managing it yourself",
+    "bad": [
+     "Calling five different trades",
+     "Gaps between each crew",
+     "Nobody responsible for the result",
+     "Surprise costs mid-project",
+     "Mess left between visits"
+    ],
+    "good": [
+     "One number to call",
+     "Crews scheduled back to back",
+     "One contractor accountable",
+     "A written price up front",
+     "A clean site every day"
+    ],
+    "svcTitle": "What we build",
+    "svcSub": "Kitchens, sunrooms and custom carpentry for {city} and Miami Valley homes.",
+    "services": [
+     {
+      "slug": "kitchens",
+      "name": "Kitchen remodels",
+      "d": "Cabinets, stone counters, tile, flooring and lighting.",
+      "long": "New cabinets, stone counters, subway tile backsplashes, flooring and lighting. One crew carries your kitchen from demo to the final walk-through."
+     },
+     {
+      "slug": "sunrooms",
+      "name": "Sunrooms & enclosures",
+      "d": "Sunrooms, patio enclosures and covered carports.",
+      "long": "Turn your patio into a bright room you can use most of the year. We build sunrooms, enclosures and covered carports, tied cleanly into your existing home."
+     },
+     {
+      "slug": "carpentry",
+      "name": "Fireplaces & carpentry",
+      "d": "Shiplap walls, fireplace surrounds, mantels and tray ceilings.",
+      "long": "Shiplap accent walls, fireplace surrounds, rough-sawn mantels and tray ceilings. This is the custom finish work that gives a room its character."
+     },
+     {
+      "slug": "bathrooms",
+      "name": "Bathroom remodels",
+      "d": "Walk-in showers, vanities, tile and full renovations.",
+      "long": "Walk-in showers, new vanities, tile and full gut renovations, with waterproofing done right behind the walls where it counts most."
+     },
+     {
+      "slug": "additions",
+      "name": "Home additions",
+      "d": "Extra bedrooms, bigger kitchens and new living space, framed and finished."
+     },
+     {
+      "slug": "basements",
+      "name": "Basement finishing",
+      "d": "Framing, insulation, drywall and flooring for new living space."
+     },
+     {
+      "slug": "decks",
+      "name": "Decks & porches",
+      "d": "New builds, rebuilds, railings and stairs."
+     }
+    ],
+    "sticker": {
+     "top": "Miami Valley",
+     "big": "Builder",
+     "band": "Father & sons"
+    },
+    "reviews": [
+     {
+      "q": "They enclosed our back patio into a sunroom and it looks like it was always there. Clear quote, steady progress, clean site.",
+      "n": "Karen L."
+     },
+     {
+      "q": "Our old bathroom is now the nicest room in the house. Nick and his sons showed up when they said they would.",
+      "n": "Tom & Erica S."
+     },
+     {
+      "q": "New kitchen, new floors and that black ceiling detail we now get compliments on. Fair price and great communication the whole way.",
+      "n": "Mike H."
+     }
+    ],
+    "faqs": [
+     {
+      "q": "What kind of projects do you take on?",
+      "a": "Kitchens, sunrooms, fireplaces and carpentry, baths, additions, basements and decks. Tell us about the project and we will take a look."
+     },
+     {
+      "q": "How does pricing work?",
+      "a": "After a free walk-through, you get a written proposal with scope, price and timeline before work begins."
+     },
+     {
+      "q": "Can you work through the winter?",
+      "a": "Yes. Interior projects like kitchens, baths and basements run year-round, and we plan exterior work around Ohio weather."
+     },
+     {
+      "q": "Which areas do you serve?",
+      "a": "{city} and the nearby cities listed above. Call {phone} if you are not sure you are in range."
+     }
+    ],
+    "ctaTitle": "Get your free estimate",
+    "ctaSub": "Tell us about your project and we'll call you back to set up a walk-through.",
+    "formAsk": "What's the project?"
+   }
+  },
+  "settings": {
+   "niche": "gencon",
+   "brandName": "Nick Smith And Sons Construction LLC",
+   "logoWord": "Nick Smith And Sons",
+   "logoShowName": false,
+   "owner": "Nick",
+   "tagline": "Fairborn, OH",
+   "city": "Fairborn",
+   "state": "OH",
+   "zip": "",
+   "address": "",
+   "phone": "(937) 603-4650",
+   "email": "nicksmithandsons@yahoo.com",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "Fairborn",
+    "Dayton",
+    "Beavercreek",
+    "Riverside",
+    "Huber Heights",
+    "Kettering",
+    "Xenia",
+    "Enon",
+    "New Carlisle",
+    "Yellow Springs"
+   ],
+   "colors": {
+    "primary": "#1D1D1D",
+    "accent": "#970000",
+    "highlight": "#F0635A",
+    "highlight2": "#D9463E",
+    "accentHi": "#F0635A"
+   },
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@126bad21c6e173b57c4c1d1f9d43fab380888e79/nicksmithandsonsconstruction/logo.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@126bad21c6e173b57c4c1d1f9d43fab380888e79/nicksmithandsonsconstruction/logo-dark.webp",
+   "logoHeight": "36px",
+   "logoMark": "",
+   "images": {
+    "hero": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@769dc78b1514e0a94c35fdc65b558fc0653b55d5/nicksmithandsonsconstruction/job-kitchen-wide.webp",
+    "about": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@769dc78b1514e0a94c35fdc65b558fc0653b55d5/nicksmithandsonsconstruction/job-sunroom-inside.webp",
+    "benefit-0": "https://images.unsplash.com/photo-1772442198624-4fc4d7281e89?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@769dc78b1514e0a94c35fdc65b558fc0653b55d5/nicksmithandsonsconstruction/job-counter.webp",
+    "service-kitchens": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@769dc78b1514e0a94c35fdc65b558fc0653b55d5/nicksmithandsonsconstruction/job-kitchen-ceiling.webp",
+    "service-sunrooms": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@769dc78b1514e0a94c35fdc65b558fc0653b55d5/nicksmithandsonsconstruction/job-sunroom-outside.webp",
+    "service-carpentry": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@769dc78b1514e0a94c35fdc65b558fc0653b55d5/nicksmithandsonsconstruction/job-fireplace.webp",
+    "service-bathrooms": "https://images.unsplash.com/photo-1696987007764-7f8b85dd3033?auto=format&fit=crop&q=70&w=900"
+   },
+   "credits": [
+    {
+     "n": "GN Group",
+     "u": "gnhearingglobal"
+    },
+    {
+     "n": "Clay Banks",
+     "u": "claybanks"
+    }
+   ],
+   "showTemplatePanel": false,
+   "stateName": "Ohio"
+  },
+  "about": {
+   "title": "A family name on every job",
+   "sub": "{owner} runs {brand} with his sons and stays involved from the first walk-through to the final clean-up.",
+   "points": [
+    "You talk to the owner, not a call center.",
+    "Straight answers on cost, timing and options.",
+    "Serving {city}, Dayton and the surrounding Miami Valley."
+   ]
+  }
+ },
+ "design": "summit"
+}
