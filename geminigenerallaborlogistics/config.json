@@ -222,11 +222,11 @@
     "Alamo Heights"
    ],
    "colors": {
-    "primary": "#2B2326",
-    "accent": "#76545C",
-    "highlight": "#D8B465",
-    "highlight2": "#C9A3AA",
-    "accentHi": "#9A707A"
+    "primary": "#252B17",
+    "accent": "#C2410C",
+    "highlight": "#F5A524",
+    "highlight2": "#D9C48F",
+    "accentHi": "#F97316"
    },
    "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@631c62a048fcb74015e9610d48087a6893a2559d/geminigenerallaborlogistics/logo.webp",
    "images": {
