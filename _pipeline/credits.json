@@ -277,45 +277,15 @@
   "Clay Banks|claybanks"
  ],
  "geminigenerallaborlogistics": [
-  {
-   "n": "Vitaly Gariev",
-   "u": "silverkblack"
-  },
-  {
-   "n": "Amina Atar",
-   "u": "minaslens"
-  },
-  {
-   "n": "Kevin Grieve",
-   "u": "grievek1610begur"
-  },
-  {
-   "n": "Barney Goodman",
-   "u": "bgoodpic"
-  },
-  {
-   "n": "Timur Shakerzianov",
-   "u": "shaker_jpg"
-  },
-  {
-   "n": "Ernys",
-   "u": "ernys"
-  },
-  {
-   "n": "Giorgio Trovato",
-   "u": "giorgiotrovato"
-  },
-  {
-   "n": "Jean-Baptiste D.",
-   "u": "jbonunsplash"
-  },
-  {
-   "n": "Lallaoke",
-   "u": "lallaoke"
-  },
-  {
-   "n": "thomas heintz",
-   "u": "thomas2006"
-  }
+  "Vitaly Gariev|silverkblack",
+  "Amina Atar|minaslens",
+  "Kevin Grieve|grievek1610begur",
+  "Barney Goodman|bgoodpic",
+  "Timur Shakerzianov|shaker_jpg",
+  "Ernys|ernys",
+  "Giorgio Trovato|giorgiotrovato",
+  "Jean-Baptiste D.|jbonunsplash",
+  "Lallaoke|lallaoke",
+  "thomas heintz|thomas2006"
  ]
 }
