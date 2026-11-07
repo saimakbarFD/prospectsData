@@ -503,7 +503,7 @@
     "dalmerconstruction"
    ],
    "desc": "carpenter's hands on a table saw, dark",
-   "photographer": "Minh Đức|meanduck"
+   "photographer": "Minh \u0110\u1ee9c|meanduck"
   },
   {
    "id": "photo-1556156653-e5a7c69cc263",
@@ -926,7 +926,8 @@
     "general contractor service-repairs"
    ],
    "demos": [
-    "allservicemaintenanceremodeling"
+    "allservicemaintenanceremodeling",
+    "geminigenerallaborlogistics"
    ],
    "desc": "Man repairing a pipe in a wall",
    "photographer": "Timur Shakerzianov (@shaker_jpg)"
@@ -1251,6 +1252,83 @@
    ],
    "desc": "Finished bathroom with double vanity and shower",
    "photographer": "Clay Banks"
+  },
+  {
+   "id": "photo-1758523670991-ee93bc48d81d",
+   "topics": [
+    "moving & handyman benefit-0 moving boxes"
+   ],
+   "demos": [
+    "geminigenerallaborlogistics"
+   ],
+   "desc": "Couple carrying moving boxes into a new home",
+   "photographer": "Vitaly Gariev (@silverkblack)"
+  },
+  {
+   "id": "photo-1681505531034-8d67054e07f6",
+   "topics": [
+    "moving & handyman benefit-1 handshake estimate"
+   ],
+   "demos": [
+    "geminigenerallaborlogistics"
+   ],
+   "desc": "Handshake over signed paperwork",
+   "photographer": "Amina Atar (@minaslens)"
+  },
+  {
+   "id": "photo-1625148230889-8195e85aae6b",
+   "topics": [
+    "moving & handyman benefit-2 power tool"
+   ],
+   "demos": [
+    "geminigenerallaborlogistics"
+   ],
+   "desc": "Man holding a yellow and black power drill",
+   "photographer": "Kevin Grieve (@grievek1610begur)"
+  },
+  {
+   "id": "photo-1789841417999-67a24a247c90",
+   "topics": [
+    "moving & handyman service-painting"
+   ],
+   "demos": [
+    "geminigenerallaborlogistics"
+   ],
+   "desc": "Person painting a wall with a roller",
+   "photographer": "Barney Goodman (@bgoodpic)"
+  },
+  {
+   "id": "photo-1624574470112-46944be68409",
+   "topics": [
+    "moving & handyman service-flooring"
+   ],
+   "demos": [
+    "geminigenerallaborlogistics"
+   ],
+   "desc": "Installer laying floor planks in an empty room",
+   "photographer": "Ernys (@ernys)"
+  },
+  {
+   "id": "photo-1681853108586-f29b4ef5c0fb",
+   "topics": [
+    "moving & handyman service-landscaping"
+   ],
+   "demos": [
+    "geminigenerallaborlogistics"
+   ],
+   "desc": "Grassy yard with wood fence and house",
+   "photographer": "Giorgio Trovato (@giorgiotrovato)"
+  },
+  {
+   "id": "photo-1685022515813-c42e8348639b",
+   "topics": [
+    "moving & handyman service-custom-builds"
+   ],
+   "demos": [
+    "geminigenerallaborlogistics"
+   ],
+   "desc": "Craftsman working wood in a workshop",
+   "photographer": "Jean-Baptiste D. (@jbonunsplash)"
   }
  ],
  "examplePairs": [

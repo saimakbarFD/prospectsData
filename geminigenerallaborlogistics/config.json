@@ -1,0 +1,307 @@
+{
+ "slug": "geminigenerallaborlogistics",
+ "title": "Gemini General Labor & Logistics | Moving & Handyman Services in San Antonio, TX",
+ "description": "Gemini General Labor & Logistics: moving, TV mounting, painting, landscaping, home repairs and custom builds in San Antonio, TX. Call or text (210) 889-9233 for a free estimate.",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@631c62a048fcb74015e9610d48087a6893a2559d/geminigenerallaborlogistics/favicon.webp",
+ "demo": {
+  "presets": {
+   "handyman": {
+    "label": "Moving & handyman",
+    "noun": "Moving & Handyman Services",
+    "demoBrand": "Gemini General Labor & Logistics",
+    "announce": "Now booking moves, TV mounts and home projects across {city}",
+    "eyebrow": "{city} moving & handyman",
+    "h1": [
+     "Move it.",
+     "Mount it.",
+     "Fix it."
+    ],
+    "sub": "Local moving from $75/hr with no hidden fees, plus TV mounting, painting, lawn care, repairs and custom builds across {city}. One call or text gets it on the schedule.",
+    "badge": {
+     "big": "$75/hr",
+     "small": "Local moves"
+    },
+    "badgeNote": "Lawn care from $45 every two weeks",
+    "trust": [
+     "Free estimates",
+     "Call or text",
+     "No hidden fees"
+    ],
+    "ticker": [
+     [
+      "Moves",
+      "Packed tight"
+     ],
+     [
+      "TVs",
+      "Mounted level"
+     ],
+     [
+      "Walls",
+      "Painted clean"
+     ],
+     [
+      "Lawns",
+      "Kept sharp"
+     ],
+     [
+      "Builds",
+      "Made to fit"
+     ],
+     [
+      "{city}",
+      "Booking now"
+     ]
+    ],
+    "sunTitle": [
+     "Move",
+     "Mount",
+     "Maintain"
+    ],
+    "benefits": [
+     {
+      "t": "Moving and handyman, one crew",
+      "d": "Get moved in, then get the TV mounted, the shelves hung and the walls painted by the same people. One number for all of it."
+     },
+     {
+      "t": "Clear rates, no hidden fees",
+      "d": "Moving starts at $75 an hour and lawn care at $45 every two weeks. Bigger projects get a free written estimate before any work starts."
+     },
+     {
+      "t": "Truck and tools on every job",
+      "d": "We show up with the truck, the tools and the hardware, so the job gets done in one visit instead of three."
+     }
+    ],
+    "stepsTitle": "How it works",
+    "stepsSub": "Simple from the first text to the last box.",
+    "steps": [
+     {
+      "t": "Call or text us",
+      "d": "Tell us what you are moving or what needs fixing. Photos help."
+     },
+     {
+      "t": "Get a clear price",
+      "d": "We give you an hourly rate or a free estimate so you know the cost up front."
+     },
+     {
+      "t": "We show up and get it done",
+      "d": "On time, with the right gear, and we walk it with you before we leave."
+     }
+    ],
+    "baTitle": "Before and after.",
+    "baSub": "Example photos. Your own before and after shots will go here.",
+    "baTabs": [
+     "Walls"
+    ],
+    "galleryTitle": "The kind of work we take on",
+    "cmpTitle": "Hiring around vs. one call to Gemini",
+    "cmpBad": "Juggling different crews",
+    "bad": [
+     "Movers who leave the TV on the floor",
+     "A different person for every job",
+     "Surprise fees on the final bill",
+     "Nobody wants the small jobs",
+     "Hard to reach once paid"
+    ],
+    "good": [
+     "Moving and setup by one crew",
+     "No job too small",
+     "Clear rates, no hidden fees",
+     "Truck and tools on every job",
+     "Marquis answers call or text"
+    ],
+    "svcTitle": "What we take care of",
+    "svcSub": "Moving, labor and home projects for homes across {city} and nearby towns.",
+    "services": [
+     {
+      "slug": "moving",
+      "name": "Local moving",
+      "d": "Furniture wrapped, boxes loaded tight and everything set where you want it. Rates as low as $75/hr."
+     },
+     {
+      "slug": "tvmounting",
+      "name": "TV mounting",
+      "d": "Wall mounts set level into studs, over fireplaces too, with soundbars and cables placed clean."
+     },
+     {
+      "slug": "painting",
+      "name": "Interior & exterior painting",
+      "d": "Rooms, trim, cabinets and exteriors painted fast and even. Free estimates."
+     },
+     {
+      "slug": "repairs",
+      "name": "Home repairs & improvement",
+      "d": "Doors, floors, ceilings, walls and the list of fixes around the house. We do it all."
+     },
+     {
+      "slug": "flooring",
+      "name": "Flooring installation",
+      "d": "Laminate, vinyl plank and wood floors laid flat with clean transitions and trim."
+     },
+     {
+      "slug": "landscaping",
+      "name": "Landscaping & lawn care",
+      "d": "Rock and mulch beds, yard cleanups and regular lawn care starting at $45 every two weeks."
+     },
+     {
+      "slug": "custombuilds",
+      "name": "Custom builds",
+      "d": "Woodwork, storage, firewood racks, repairs and additions built to fit your space and your to do list."
+     }
+    ],
+    "sticker": {
+     "top": "San Antonio",
+     "big": "Move & Fix",
+     "band": "One crew"
+    },
+    "reviews": [
+     {
+      "q": "They packed the whole truck in one evening, nothing moved during the drive, and mounted our TV the next day. One crew, done.",
+      "n": "Danielle R."
+     },
+     {
+      "q": "Marquis mounted a big TV over our fireplace and hid the cables. Level, solid and cleaned up after.",
+      "n": "Chris T."
+     },
+     {
+      "q": "Texted a photo of the yard and a list of repairs. Got a clear price and everything was handled that week.",
+      "n": "Monica L."
+     }
+    ],
+    "faqs": [
+     {
+      "q": "How much does moving cost?",
+      "a": "Local moves start at $75 an hour with no hidden fees. Call or text {phone} and we will give you a price for your move."
+     },
+     {
+      "q": "Do you take small handyman jobs?",
+      "a": "Yes. TV mounts, repairs and small builds are all welcome. Put your list together and we will handle it in one visit."
+     },
+     {
+      "q": "How do I get an estimate?",
+      "a": "Call or text {phone} or fill out the form below. Painting and home improvement estimates are free."
+     },
+     {
+      "q": "Which areas do you serve?",
+      "a": "{city} and the nearby towns listed above. Call or text {phone} if you are not sure you are in range."
+     }
+    ],
+    "ctaTitle": "Get your free estimate",
+    "ctaSub": "Tell us what you are moving or what needs doing. We will call or text you back with a price.",
+    "formAsk": "What do you need done?"
+   }
+  },
+  "settings": {
+   "niche": "handyman",
+   "brandName": "Gemini General Labor & Logistics",
+   "logoWord": "Gemini",
+   "logoShowName": false,
+   "owner": "Marquis",
+   "tagline": "San Antonio, TX",
+   "city": "San Antonio",
+   "state": "TX",
+   "zip": "",
+   "address": "",
+   "phone": "(210) 889-9233",
+   "email": "marquismcmillan12@gmail.com",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "San Antonio",
+    "New Braunfels",
+    "Schertz",
+    "Converse",
+    "Live Oak",
+    "Universal City",
+    "Cibolo",
+    "Boerne",
+    "Helotes",
+    "Leon Valley",
+    "Alamo Heights"
+   ],
+   "colors": {
+    "primary": "#2B2326",
+    "accent": "#76545C",
+    "highlight": "#D8B465",
+    "highlight2": "#C9A3AA",
+    "accentHi": "#9A707A"
+   },
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@631c62a048fcb74015e9610d48087a6893a2559d/geminigenerallaborlogistics/logo.webp",
+   "images": {
+    "hero": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@631c62a048fcb74015e9610d48087a6893a2559d/geminigenerallaborlogistics/hero.webp",
+    "about": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@631c62a048fcb74015e9610d48087a6893a2559d/geminigenerallaborlogistics/about.webp",
+    "benefit-0": "https://images.unsplash.com/photo-1758523670991-ee93bc48d81d?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1681505531034-8d67054e07f6?auto=format&fit=crop&q=70&w=900",
+    "benefit-2": "https://images.unsplash.com/photo-1625148230889-8195e85aae6b?auto=format&fit=crop&q=70&w=900",
+    "service-moving": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@631c62a048fcb74015e9610d48087a6893a2559d/geminigenerallaborlogistics/service-moving.webp",
+    "service-tvmounting": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@631c62a048fcb74015e9610d48087a6893a2559d/geminigenerallaborlogistics/service-tvmounting.webp",
+    "service-painting": "https://images.unsplash.com/photo-1789841417999-67a24a247c90?auto=format&fit=crop&q=70&w=900",
+    "service-repairs": "https://images.unsplash.com/photo-1676210134188-4c05dd172f89?auto=format&fit=crop&q=70&w=900",
+    "service-flooring": "https://images.unsplash.com/photo-1624574470112-46944be68409?auto=format&fit=crop&q=70&w=900",
+    "service-landscaping": "https://images.unsplash.com/photo-1681853108586-f29b4ef5c0fb?auto=format&fit=crop&q=70&w=1100",
+    "service-custombuilds": "https://images.unsplash.com/photo-1685022515813-c42e8348639b?auto=format&fit=crop&q=70&w=1100",
+    "before-0": "https://images.unsplash.com/photo-1694415847950-973e7dcca94d?auto=format&fit=crop&q=70&w=1400",
+    "after-0": "https://images.unsplash.com/photo-1533628635777-112b2239b1c7?auto=format&fit=crop&q=70&w=1400"
+   },
+   "credits": [
+    {
+     "n": "Vitaly Gariev",
+     "u": "silverkblack"
+    },
+    {
+     "n": "Amina Atar",
+     "u": "minaslens"
+    },
+    {
+     "n": "Kevin Grieve",
+     "u": "grievek1610begur"
+    },
+    {
+     "n": "Barney Goodman",
+     "u": "bgoodpic"
+    },
+    {
+     "n": "Timur Shakerzianov",
+     "u": "shaker_jpg"
+    },
+    {
+     "n": "Ernys",
+     "u": "ernys"
+    },
+    {
+     "n": "Giorgio Trovato",
+     "u": "giorgiotrovato"
+    },
+    {
+     "n": "Jean-Baptiste D.",
+     "u": "jbonunsplash"
+    },
+    {
+     "n": "Lallaoke",
+     "u": "lallaoke"
+    },
+    {
+     "n": "thomas heintz",
+     "u": "thomas2006"
+    }
+   ],
+   "showTemplatePanel": false,
+   "stateName": "Texas",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@631c62a048fcb74015e9610d48087a6893a2559d/geminigenerallaborlogistics/logo-dark.webp",
+   "logoHeight": "66px",
+   "instagram": "https://www.instagram.com/geminigeneralllc/"
+  },
+  "about": {
+   "title": "Meet Marquis, owner of Gemini",
+   "sub": "Gemini General Labor & Logistics is a {city} crew that handles the heavy lifting and the finishing touches: moves, TV mounts, paint, yards and custom builds.",
+   "points": [
+    "One call or text covers the move and the setup after it",
+    "Clear hourly rates and free estimates, no hidden fees",
+    "Truck, tools and hardware on every job"
+   ]
+  }
+ },
+ "design": "lift"
+}
