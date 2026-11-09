@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100 200 870 675" width="870" height="675">
+<style>.t{font-family:'Archivo Black','Arial Black',sans-serif}</style>
+<path d="M150 545 A378 335 0 0 1 906 545" fill="none" stroke="#E3262E" stroke-width="13"/>
+<path d="M160 545 A368 324 0 0 1 896 545" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+<path d="M170 545 A358 312 0 0 1 886 545 Z" fill="#CFE1F3" stroke="#2F55E0" stroke-width="15"/>
+<path d="M140 548 L262 362 L308 402 L346 368 L346 296 L402 296 L402 340 L520 278 L700 380 L790 360 L895 528 L948 566 Q528 548 112 566 Z" fill="#2F55E0"/>
+<path d="M520 326 L748 534 L292 534 Z" fill="#FFFFFF"/>
+<rect x="472" y="398" width="96" height="104" fill="#2F55E0"/>
+<rect x="472" y="445" width="96" height="9" fill="#FFFFFF"/><rect x="515" y="398" width="9" height="104" fill="#FFFFFF"/>
+<path d="M262 392 L300 428 L300 500 L224 500 L224 428 Z" fill="#FFFFFF"/>
+<rect x="238" y="434" width="48" height="56" fill="#2F55E0"/><rect x="238" y="458" width="48" height="6" fill="#FFFFFF"/><rect x="259" y="434" width="6" height="56" fill="#FFFFFF"/>
+<path d="M790 388 L826 422 L826 494 L754 494 L754 422 Z" fill="#FFFFFF"/>
+<rect x="770" y="424" width="40" height="58" fill="#2F55E0"/><rect x="787" y="424" width="6" height="58" fill="#FFFFFF"/>
+<rect x="358" y="306" width="13" height="70" fill="#FFFFFF"/>
+<path d="M112 566 Q528 548 948 566 L930 580 Q528 566 128 580 Z" fill="#2F55E0"/>
+<path d="M122 600 Q210 596 296 597 L296 605 Q210 605 122 600 Z" fill="#E3262E"/><path d="M942 600 Q855 596 766 597 L766 605 Q855 605 942 600 Z" fill="#E3262E"/><path d="M126 630 Q210 626 296 627 L296 635 Q210 635 126 630 Z" fill="#E3262E"/><path d="M938 630 Q855 626 766 627 L766 635 Q855 635 938 630 Z" fill="#E3262E"/><path d="M130 660 Q210 656 296 657 L296 665 Q210 665 130 660 Z" fill="#E3262E"/><path d="M934 660 Q855 656 766 657 L766 665 Q855 665 934 660 Z" fill="#E3262E"/><path d="M134 690 Q210 686 296 687 L296 695 Q210 695 134 690 Z" fill="#E3262E"/><path d="M930 690 Q855 686 766 687 L766 695 Q855 695 930 690 Z" fill="#E3262E"/><text class="t" x="531" y="718" text-anchor="middle" font-size="170" letter-spacing="22" fill="#FFFFFF">PRZ</text><text class="t" x="537" y="858" text-anchor="middle" font-size="96" textLength="850" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">EXTERIORS LLC</text></svg>
