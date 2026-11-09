@@ -1,0 +1,292 @@
+{
+ "slug": "przexteriors",
+ "title": "PRZ Exteriors | Roofing, Siding & Exterior Contractor in Mesquite, TX",
+ "description": "PRZ Exteriors handles roofing, siding, windows and gutters for homes in Mesquite, Dallas and East Dallas County, TX. Free estimates. Call (214) 837-4860.",
+ "favicon": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Cpath%20d%3D%22M32%204L49%2020H15Z%22%20fill%3D%22%23F4A95C%22/%3E%3Cpath%20d%3D%22M13.5%2024.0H50.5L52.0%2033.5H12.0Z%22%20fill%3D%22%233F86C6%22/%3E%3Cpath%20d%3D%22M8.5%2036.5H55.5L57.0%2046.0H7.0Z%22%20fill%3D%22%233F86C6%22/%3E%3Cpath%20d%3D%22M3.5%2049.0H60.5L62.0%2058.5H2.0Z%22%20fill%3D%22%233F86C6%22/%3E%3C/svg%3E",
+ "demo": {
+  "presets": {
+   "gencon": {
+    "label": "Exterior contractor",
+    "noun": "Roofing, Siding & Exteriors",
+    "demoBrand": "PRZ Exteriors",
+    "announce": "Free estimates · Now booking roofs, siding, windows and gutters in {city} and East Dallas County",
+    "eyebrow": "{city} exterior contractor",
+    "h1": [
+     "Your home's outside,",
+     "built to take",
+     "Texas weather."
+    ],
+    "sub": "Roofing, siding, windows and gutters for homes in {city}, Dallas and the surrounding area. One crew for the whole exterior, with a written quote before work begins.",
+    "badge": {
+     "big": "Free",
+     "small": "exterior inspection"
+    },
+    "badgeNote": "",
+    "trust": [
+     "Free estimates",
+     "Written quotes",
+     "Clean job sites"
+    ],
+    "ticker": [
+     [
+      "Free estimates",
+      "Booking now"
+     ],
+     [
+      "Roofing",
+      "Repair & replace"
+     ],
+     [
+      "Siding",
+      "Fresh & tight"
+     ],
+     [
+      "Written quotes",
+      "Before we start"
+     ],
+     [
+      "One crew",
+      "Roof to gutters"
+     ],
+     [
+      "East Dallas County",
+      "Serving now"
+     ]
+    ],
+    "sunTitle": [
+     "Inspect",
+     "Build",
+     "Protect"
+    ],
+    "benefits": [
+     {
+      "t": "Built for North Texas storms",
+      "d": "Hail, high wind and summer heat are hard on a house. We install roofs, siding and gutters to hold up to the weather that rolls through Dallas County every spring."
+     },
+     {
+      "t": "One crew for the whole exterior",
+      "d": "Roof, siding, windows and gutters handled by one team, so every piece fits together and you have one number to call."
+     },
+     {
+      "t": "A clear price up front",
+      "d": "Scope, price and timeline in writing before work starts, so there are no surprises halfway through the job."
+     }
+    ],
+    "stepsTitle": "How your project runs",
+    "stepsSub": "Simple, clear and planned around your schedule.",
+    "steps": [
+     {
+      "t": "Free inspection",
+      "d": "We look over your roof and exterior and talk through what you need."
+     },
+     {
+      "t": "Written proposal",
+      "d": "You get scope, price and timeline in writing. No pressure."
+     },
+     {
+      "t": "Install and walk-through",
+      "d": "We do the work, clean up and walk the finished job with you."
+     }
+    ],
+    "baTitle": "Before and after the crew.",
+    "baSub": "Example photos. Your finished projects will go here.",
+    "baTabs": [
+     "Roof",
+     "Siding"
+    ],
+    "galleryTitle": "The kind of projects we take on",
+    "cmpTitle": "Juggling trades vs. one exterior contractor",
+    "cmpBad": "Hiring separately",
+    "bad": [
+     "A roofer, a sider and a gutter guy",
+     "Gaps between each crew",
+     "Nobody responsible for the result",
+     "Surprise costs mid-project",
+     "Debris left in the yard"
+    ],
+    "good": [
+     "One number to call",
+     "Crews scheduled back to back",
+     "One contractor accountable",
+     "A written price up front",
+     "Nails and scraps cleaned up daily"
+    ],
+    "svcTitle": "What we do",
+    "svcSub": "Roofing, siding and exterior work for {city} and East Dallas County homes.",
+    "services": [
+     {
+      "slug": "roofing",
+      "name": "Roofing",
+      "d": "Roof repair, full replacement and storm damage work.",
+      "long": "Shingle repairs, full tear-offs and new roofs, plus help after hail and wind storms. We check the decking, flashing and vents so the whole roof works the way it should."
+     },
+     {
+      "slug": "siding",
+      "name": "Siding",
+      "d": "New siding, repairs and replacement of damaged boards.",
+      "long": "Fresh siding changes the whole look of a house. We replace worn or storm damaged boards, install new siding and seal it up tight against Texas heat and rain."
+     },
+     {
+      "slug": "windows",
+      "name": "Windows & doors",
+      "d": "Replacement windows and new entry doors.",
+      "long": "Replacement windows and new entry doors that seal properly, cut drafts and help keep cooling bills down through long Texas summers."
+     },
+     {
+      "slug": "gutters",
+      "name": "Gutters",
+      "d": "New gutters, downspouts and gutter repairs.",
+      "long": "Seamless gutters and downspouts that move heavy spring rain away from your roof, siding and foundation, sized and pitched for your home."
+     },
+     {
+      "slug": "fascia",
+      "name": "Fascia & soffit",
+      "d": "Rotted fascia and soffit replaced and sealed."
+     },
+     {
+      "slug": "painting",
+      "name": "Exterior painting",
+      "d": "Trim, siding and full exterior repaints."
+     },
+     {
+      "slug": "fencing",
+      "name": "Fences & patios",
+      "d": "Wood fences, patio covers and outdoor upgrades."
+     }
+    ],
+    "sticker": {
+     "top": "East Dallas County",
+     "big": "Exteriors",
+     "band": "Roof to gutters"
+    },
+    "reviews": [
+     {
+      "q": "After the spring hail storm they replaced our roof and gutters in a few days. Clear quote and the yard was spotless when they left.",
+      "n": "Linda R."
+     },
+     {
+      "q": "New siding and windows and the house looks brand new. Cesar kept us updated the whole way.",
+      "n": "James & Maria T."
+     },
+     {
+      "q": "Fair price, showed up when they said they would, and the new roof looks great from the street.",
+      "n": "Robert K."
+     }
+    ],
+    "faqs": [
+     {
+      "q": "What kind of work do you do?",
+      "a": "Roofing, siding, windows and doors, gutters, fascia and soffit, exterior painting and fences. Tell us about the project and we will take a look."
+     },
+     {
+      "q": "How does pricing work?",
+      "a": "After a free inspection, you get a written proposal with scope, price and timeline before work begins."
+     },
+     {
+      "q": "Can you help after a hail or wind storm?",
+      "a": "Yes. We look over the damage, explain what needs fixing and give you a written estimate you can use with your insurance claim."
+     },
+     {
+      "q": "Which areas do you serve?",
+      "a": "{city} and the nearby cities listed above. Call {phone} if you are not sure you are in range."
+     }
+    ],
+    "ctaTitle": "Get your free estimate",
+    "ctaSub": "Tell us about your project and we'll call you back to set up a free inspection.",
+    "formAsk": "What's the project?"
+   }
+  },
+  "settings": {
+   "niche": "gencon",
+   "brandName": "PRZ Exteriors",
+   "logoWord": "PRZ Exteriors",
+   "logoShowName": true,
+   "owner": "Cesar",
+   "tagline": "Mesquite, TX",
+   "city": "Mesquite",
+   "state": "TX",
+   "zip": "",
+   "address": "",
+   "phone": "(214) 837-4860",
+   "email": "przexterios@gmail.com",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "Mesquite",
+    "Dallas",
+    "Garland",
+    "Balch Springs",
+    "Sunnyvale",
+    "Forney",
+    "Rowlett",
+    "Seagoville",
+    "Rockwall",
+    "Terrell"
+   ],
+   "colors": {
+    "primary": "#2A1A35",
+    "accent": "#22679C",
+    "highlight": "#F4A95C",
+    "highlight2": "#3F86C6",
+    "accentHi": "#F4A95C"
+   },
+   "logoUrl": "",
+   "logoUrlDark": "",
+   "logoMark": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><path d=\"M32 4L49 20H15Z\" fill=\"#F4A95C\"/><path d=\"M13.5 24.0H50.5L52.0 33.5H12.0Z\" fill=\"#3F86C6\"/><path d=\"M8.5 36.5H55.5L57.0 46.0H7.0Z\" fill=\"#3F86C6\"/><path d=\"M3.5 49.0H60.5L62.0 58.5H2.0Z\" fill=\"#3F86C6\"/></svg>",
+   "images": {
+    "hero": "https://images.unsplash.com/photo-1773427657182-4776c4f5b363?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1647579350413-a6ada4e480ed?auto=format&fit=crop&q=70&w=1000",
+    "benefit-0": "https://images.unsplash.com/photo-1778060125303-b2493e6cc7fb?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1793922014224-ca6db8d65e73?auto=format&fit=crop&q=70&w=900",
+    "service-roofing": "https://images.unsplash.com/photo-1573876384005-dabc14a8ccbd?auto=format&fit=crop&q=70&w=900",
+    "service-siding": "https://images.unsplash.com/photo-1792628951758-acf1d3411300?auto=format&fit=crop&q=70&w=900",
+    "service-windows": "https://images.unsplash.com/photo-1607900840367-a83dcd63296d?auto=format&fit=crop&q=70&w=900",
+    "service-gutters": "https://images.unsplash.com/photo-1786073912562-ac2a68268b23?auto=format&fit=crop&q=70&w=900"
+   },
+   "credits": [
+    {
+     "n": "Roger Starnes Sr",
+     "u": "rstar50"
+    },
+    {
+     "n": "Eric Ardito",
+     "u": "ericardito"
+    },
+    {
+     "n": "ESMA // 에스마",
+     "u": "esima1311"
+    },
+    {
+     "n": "Hal Gatewood",
+     "u": "halacious"
+    },
+    {
+     "n": "Josh Lemmon",
+     "u": "wolfie_website"
+    },
+    {
+     "n": "Viktor Forgacs",
+     "u": "sonance"
+    },
+    {
+     "n": "O. P. Breno",
+     "u": "opbreno"
+    }
+   ],
+   "showTemplatePanel": false,
+   "stateName": "Texas"
+  },
+  "about": {
+   "title": "One crew, roof to gutters",
+   "sub": "{owner} runs {brand} and stays involved from the first inspection to the final clean-up.",
+   "points": [
+    "You talk to the owner, not a call center.",
+    "Straight answers on cost, timing and materials.",
+    "Serving {city}, Dallas and East Dallas County."
+   ]
+  }
+ },
+ "design": "summit"
+}
