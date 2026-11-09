@@ -503,7 +503,7 @@
     "dalmerconstruction"
    ],
    "desc": "carpenter's hands on a table saw, dark",
-   "photographer": "Minh \u0110\u1ee9c|meanduck"
+   "photographer": "Minh Đức|meanduck"
   },
   {
    "id": "photo-1556156653-e5a7c69cc263",
@@ -671,7 +671,8 @@
     "Handyman repairs"
    ],
    "demos": [
-    "jamericanhospitality"
+    "jamericanhospitality",
+    "interstatepropertysolutions"
    ],
    "desc": "cordless drill, hammer, stud finder on carpet (portrait)",
    "photographer": "Sam Clarke|clarke_designs_photography"
@@ -949,7 +950,8 @@
     "general contractor service-painting"
    ],
    "demos": [
-    "allservicemaintenanceremodeling"
+    "allservicemaintenanceremodeling",
+    "interstatepropertysolutions"
    ],
    "desc": "Painter rolling paint on an interior wall",
    "photographer": "Ali Mkumbwa (@mkumbwajr)"
@@ -1303,7 +1305,8 @@
     "moving & handyman service-flooring"
    ],
    "demos": [
-    "geminigenerallaborlogistics"
+    "geminigenerallaborlogistics",
+    "interstatepropertysolutions"
    ],
    "desc": "Installer laying floor planks in an empty room",
    "photographer": "Ernys (@ernys)"
@@ -1329,6 +1332,105 @@
    ],
    "desc": "Craftsman working wood in a workshop",
    "photographer": "Jean-Baptiste D. (@jbonunsplash)"
+  },
+  {
+   "id": "photo-1785019028623-adb2149e4aaa",
+   "topics": [
+    "general contractor hero"
+   ],
+   "demos": [
+    "interstatepropertysolutions"
+   ],
+   "desc": "restored white two-story Ohio frame home with red door",
+   "photographer": "Roger Starnes Sr|rstar50"
+  },
+  {
+   "id": "photo-1711897398239-053bec49b255",
+   "topics": [
+    "general contractor about"
+   ],
+   "demos": [
+    "interstatepropertysolutions"
+   ],
+   "desc": "crew framing a wall on a build site",
+   "photographer": "Brad Weaver|bweaver"
+  },
+  {
+   "id": "photo-1450101499163-c8848c66ca85",
+   "topics": [
+    "general contractor benefit-0"
+   ],
+   "demos": [
+    "interstatepropertysolutions"
+   ],
+   "desc": "hand signing a paper contract",
+   "photographer": "Scott Graham|amstram"
+  },
+  {
+   "id": "photo-1698678282956-6e2a4d29abbd",
+   "topics": [
+    "general contractor benefit-1 rentals"
+   ],
+   "demos": [
+    "interstatepropertysolutions"
+   ],
+   "desc": "modern beige duplex with two garages",
+   "photographer": "Danielle-Claude Bélanger|dcbelanger"
+  },
+  {
+   "id": "photo-1769409302549-48176f1b0c3f",
+   "topics": [
+    "general contractor benefit-2 winter weather"
+   ],
+   "demos": [
+    "interstatepropertysolutions"
+   ],
+   "desc": "aerial of snow-covered suburban neighborhood at sunset",
+   "photographer": "Tyler Fulk|arrowview"
+  },
+  {
+   "id": "photo-1776395159815-8141205a2d6c",
+   "topics": [
+    "kitchen remodel service"
+   ],
+   "demos": [
+    "interstatepropertysolutions"
+   ],
+   "desc": "modern kitchen with marble backsplash and white cabinets",
+   "photographer": "Franco Debartolo|francotheshooter"
+  },
+  {
+   "id": "photo-1630699144339-420f59b4747b",
+   "topics": [
+    "rental turnover service"
+   ],
+   "demos": [
+    "interstatepropertysolutions"
+   ],
+   "desc": "empty unit with white walls and wood floor",
+   "photographer": "Point3D Commercial Imaging Ltd.|3dottawa"
+  },
+  {
+   "id": "photo-1787094410381-733537cad4a7",
+   "topics": [
+    "siding windows doors exterior service"
+   ],
+   "demos": [
+    "interstatepropertysolutions"
+   ],
+   "desc": "restored two-story home with grey siding and yellow door, Ohio",
+   "photographer": "Roger Starnes Sr|rstar50"
+  },
+  {
+   "id": "photo-1792630862523-e76c8fa6c7da",
+   "topics": [
+    "deck porch service"
+   ],
+   "demos": [
+    "interstatepropertysolutions"
+   ],
+   "desc": "grey painted deck with railings and steps behind a ranch house, Ohio",
+   "photographer": "Josh Lemmon|wolfie_website"
   }
  ],
  "examplePairs": [
@@ -1375,6 +1477,19 @@
      "thomas heintz",
      "thomas2006"
     ]
+   ]
+  },
+  {
+   "tab": "Floors",
+   "before": "photo-1724918113146-228a4fc812a7",
+   "after": "photo-1792787425736-e15d4202ab6b",
+   "demos": [
+    "interstatepropertysolutions"
+   ],
+   "desc": "worn painted wood boards vs new wood plank floor",
+   "credits": [
+    "Askara Svarga|askarasvarga",
+    "David Vonlanthen|vonlanda"
    ]
   }
  ]

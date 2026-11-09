@@ -91,9 +91,7 @@
     "baTitle": "Before and after the crew.",
     "baSub": "Example photos. Your finished projects will go here.",
     "baTabs": [
-     "Floors",
-     "Walls",
-     "Deck"
+     "Floors"
     ],
     "galleryTitle": "The kind of projects we take on",
     "cmpTitle": "Juggling trades vs. one property contractor",
@@ -232,8 +230,76 @@
    "logoUrl": "",
    "logoUrlDark": "",
    "logoMark": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><rect x=\"2\" y=\"2\" width=\"60\" height=\"60\" rx=\"11\" fill=\"#D01E1A\"/><rect x=\"6.5\" y=\"6.5\" width=\"51\" height=\"51\" rx=\"7.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"3\"/><path d=\"M32 12L42 19.5V25H22V19.5Z\" fill=\"#FFFFFF\"/><path d=\"M28.5 28L17 54M35.5 28L47 54\" stroke=\"#FFFFFF\" stroke-width=\"3.6\" stroke-linecap=\"round\"/><path d=\"M31 29H33V33H31ZM30.4 37H33.6V42.5H30.4ZM29.8 46.5H34.2V54H29.8Z\" fill=\"#131316\"/></svg>",
-   "images": {},
-   "credits": [],
+   "images": {
+    "hero": "https://images.unsplash.com/photo-1785019028623-adb2149e4aaa?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1711897398239-053bec49b255?auto=format&fit=crop&q=70&w=1000",
+    "benefit-0": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1698678282956-6e2a4d29abbd?auto=format&fit=crop&q=70&w=900",
+    "benefit-2": "https://images.unsplash.com/photo-1769409302549-48176f1b0c3f?auto=format&fit=crop&q=70&w=900",
+    "service-remodels": "https://images.unsplash.com/photo-1776395159815-8141205a2d6c?auto=format&fit=crop&q=70&w=900",
+    "service-repairs": "https://images.unsplash.com/photo-1606676539940-12768ce0e762?auto=format&fit=crop&q=70&w=900",
+    "service-turnovers": "https://images.unsplash.com/photo-1630699144339-420f59b4747b?auto=format&fit=crop&q=70&w=900",
+    "service-flooring": "https://images.unsplash.com/photo-1624574470112-46944be68409?auto=format&fit=crop&q=70&w=900",
+    "service-exteriors": "https://images.unsplash.com/photo-1787094410381-733537cad4a7?auto=format&fit=crop&q=70&w=1100",
+    "service-decks": "https://images.unsplash.com/photo-1792630862523-e76c8fa6c7da?auto=format&fit=crop&q=70&w=1100",
+    "service-painting": "https://images.unsplash.com/photo-1688372198189-de6a51777a81?auto=format&fit=crop&q=70&w=900",
+    "before-0": "https://images.unsplash.com/photo-1724918113146-228a4fc812a7?auto=format&fit=crop&q=70&w=1400",
+    "after-0": "https://images.unsplash.com/photo-1792787425736-e15d4202ab6b?auto=format&fit=crop&q=70&w=1400"
+   },
+   "credits": [
+    {
+     "n": "Roger Starnes Sr",
+     "u": "rstar50"
+    },
+    {
+     "n": "Brad Weaver",
+     "u": "bweaver"
+    },
+    {
+     "n": "Scott Graham",
+     "u": "amstram"
+    },
+    {
+     "n": "Danielle-Claude Bélanger",
+     "u": "dcbelanger"
+    },
+    {
+     "n": "Tyler Fulk",
+     "u": "arrowview"
+    },
+    {
+     "n": "Franco Debartolo",
+     "u": "francotheshooter"
+    },
+    {
+     "n": "Sam Clarke",
+     "u": "clarke_designs_photography"
+    },
+    {
+     "n": "Point3D Commercial Imaging Ltd.",
+     "u": "3dottawa"
+    },
+    {
+     "n": "Ernys",
+     "u": "ernys"
+    },
+    {
+     "n": "Josh Lemmon",
+     "u": "wolfie_website"
+    },
+    {
+     "n": "Ali Mkumbwa",
+     "u": "mkumbwajr"
+    },
+    {
+     "n": "Askara Svarga",
+     "u": "askarasvarga"
+    },
+    {
+     "n": "David Vonlanthen",
+     "u": "vonlanda"
+    }
+   ],
    "showTemplatePanel": false,
    "stateName": "Ohio"
   },
