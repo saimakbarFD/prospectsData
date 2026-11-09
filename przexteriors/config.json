@@ -1,8 +1,8 @@
 {
  "slug": "przexteriors",
- "title": "PRZ Exteriors | Roofing, Siding & Exterior Contractor in Mesquite, TX",
+ "title": "PRZ Exteriors LLC | Roofing, Siding & Exterior Contractor in Mesquite, TX",
  "description": "PRZ Exteriors handles roofing, siding, windows and gutters for homes in Mesquite, Dallas and East Dallas County, TX. Free estimates. Call (214) 837-4860.",
- "favicon": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Cpath%20d%3D%22M32%204L49%2020H15Z%22%20fill%3D%22%23F4A95C%22/%3E%3Cpath%20d%3D%22M13.5%2024.0H50.5L52.0%2033.5H12.0Z%22%20fill%3D%22%233F86C6%22/%3E%3Cpath%20d%3D%22M8.5%2036.5H55.5L57.0%2046.0H7.0Z%22%20fill%3D%22%233F86C6%22/%3E%3Cpath%20d%3D%22M3.5%2049.0H60.5L62.0%2058.5H2.0Z%22%20fill%3D%22%233F86C6%22/%3E%3C/svg%3E",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@f76c65c1b01f352d46763eff543b7f13021da873/przexteriors/favicon.webp",
  "demo": {
   "presets": {
    "gencon": {
@@ -198,9 +198,9 @@
   },
   "settings": {
    "niche": "gencon",
-   "brandName": "PRZ Exteriors",
+   "brandName": "PRZ Exteriors LLC",
    "logoWord": "PRZ Exteriors",
-   "logoShowName": true,
+   "logoShowName": false,
    "owner": "Cesar",
    "tagline": "Mesquite, TX",
    "city": "Mesquite",
@@ -226,15 +226,14 @@
     "Terrell"
    ],
    "colors": {
-    "primary": "#2A1A35",
-    "accent": "#22679C",
-    "highlight": "#F4A95C",
-    "highlight2": "#3F86C6",
-    "accentHi": "#F4A95C"
+    "primary": "#0E1A4F",
+    "accent": "#1F3FBF",
+    "highlight": "#A9C8F0",
+    "highlight2": "#E3262E",
+    "accentHi": "#A9C8F0"
    },
-   "logoUrl": "",
-   "logoUrlDark": "",
-   "logoMark": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><path d=\"M32 4L49 20H15Z\" fill=\"#F4A95C\"/><path d=\"M13.5 24.0H50.5L52.0 33.5H12.0Z\" fill=\"#3F86C6\"/><path d=\"M8.5 36.5H55.5L57.0 46.0H7.0Z\" fill=\"#3F86C6\"/><path d=\"M3.5 49.0H60.5L62.0 58.5H2.0Z\" fill=\"#3F86C6\"/></svg>",
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@f76c65c1b01f352d46763eff543b7f13021da873/przexteriors/logo.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@f76c65c1b01f352d46763eff543b7f13021da873/przexteriors/logo-dark.webp",
    "images": {
     "hero": "https://images.unsplash.com/photo-1773427657182-4776c4f5b363?auto=format&fit=crop&q=70&w=1800",
     "about": "https://images.unsplash.com/photo-1647579350413-a6ada4e480ed?auto=format&fit=crop&q=70&w=1000",
@@ -276,7 +275,8 @@
     }
    ],
    "showTemplatePanel": false,
-   "stateName": "Texas"
+   "stateName": "Texas",
+   "logoHeight": "72px"
   },
   "about": {
    "title": "One crew, roof to gutters",
