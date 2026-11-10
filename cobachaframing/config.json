@@ -1,0 +1,286 @@
+{
+ "slug": "cobachaframing",
+ "title": "Cobacha Framing LLC | Framing Contractor in Phoenix, AZ",
+ "description": "Cobacha Framing LLC frames new homes, room additions, roofs and remodels in Phoenix, AZ and the Valley. Free estimates. Call (602) 486-4180.",
+ "favicon": "",
+ "demo": {
+  "presets": {
+   "framing": {
+    "label": "Framing contractor",
+    "noun": "Wood Framing & Carpentry",
+    "demoBrand": "Cobacha Framing LLC",
+    "announce": "Free estimates · Now booking framing for new homes, additions and remodels across {city} and the Valley",
+    "eyebrow": "{city} framing contractor",
+    "h1": [
+     "Strong frames",
+     "for Valley homes",
+     "built square."
+    ],
+    "sub": "New homes, room additions, roof trusses and remodel framing across {city} and the Valley. A framing crew that shows up on schedule and leaves every wall plumb, level and ready for the next trade.",
+    "badge": {
+     "big": "Framing",
+     "small": "is all we do"
+    },
+    "badgeNote": "",
+    "trust": [
+     "Free estimates",
+     "Written quotes",
+     "On-schedule crews"
+    ],
+    "ticker": [
+     [
+      "Free estimates",
+      "Booking now"
+     ],
+     [
+      "New homes",
+      "Ground up"
+     ],
+     [
+      "Additions",
+      "More room"
+     ],
+     [
+      "Roof framing",
+      "Trusses & rafters"
+     ],
+     [
+      "Written quotes",
+      "Before we start"
+     ],
+     [
+      "The Valley",
+      "Serving now"
+     ]
+    ],
+    "sunTitle": [
+     "Layout",
+     "Frame",
+     "Inspect"
+    ],
+    "benefits": [
+     {
+      "t": "Plumb, level and square",
+      "d": "Walls, openings and roof lines checked as we go, so drywall, cabinets and trim go on without fighting the frame."
+     },
+     {
+      "t": "Ready for the next trade",
+      "d": "Clean, accurate framing that is ready for inspection and lets your plumber, electrician and HVAC crew get straight to work."
+     },
+     {
+      "t": "Built for desert heat",
+      "d": "Tight framing and solid connections that hold up to Phoenix summers, monsoon winds and years of hard sun."
+     }
+    ],
+    "stepsTitle": "How your framing job runs",
+    "stepsSub": "Clear, on schedule and planned around your build.",
+    "steps": [
+     {
+      "t": "Plans and walk-through",
+      "d": "Send your plans or have us visit the site. We go over scope and timing."
+     },
+     {
+      "t": "Written quote",
+      "d": "You get the price and schedule in writing. No pressure."
+     },
+     {
+      "t": "Frame and hand over",
+      "d": "We frame it, walk it with you and get it ready for inspection."
+     }
+    ],
+    "baTitle": "Before and after the framing crew.",
+    "baSub": "Your finished framing jobs will go here.",
+    "baTabs": [
+     "Floors",
+     "Walls",
+     "Deck"
+    ],
+    "galleryTitle": "The kind of framing we take on",
+    "cmpTitle": "A rushed framer vs. a framing crew that cares",
+    "cmpBad": "A rushed framer",
+    "bad": [
+     "Walls out of plumb",
+     "Missed start dates",
+     "Openings in the wrong place",
+     "Problems found at inspection",
+     "Scrap left all over the lot"
+    ],
+    "good": [
+     "Plumb, level and square",
+     "Crews that show up on time",
+     "Openings framed to plan",
+     "Framing ready for inspection",
+     "A clean lot every day"
+    ],
+    "svcTitle": "What we frame",
+    "svcSub": "Framing for new homes, additions and remodels across {city} and the Valley.",
+    "services": [
+     {
+      "slug": "new-home-framing",
+      "name": "New home framing",
+      "d": "Floors, walls and roofs framed to plan for custom and spec homes.",
+      "long": "Floor systems, wall framing, sheathing and roof framing for custom and spec homes. We follow your plans closely and keep the frame on schedule for your builder."
+     },
+     {
+      "slug": "additions",
+      "name": "Room additions",
+      "d": "New bedrooms, family rooms and second stories tied into your home.",
+      "long": "Extra bedrooms, family rooms and second stories framed and tied cleanly into your existing home, so the new space looks like it was always there."
+     },
+     {
+      "slug": "roof-framing",
+      "name": "Roof framing & trusses",
+      "d": "Truss setting, rafters and roof sheathing done right.",
+      "long": "Truss setting, hand-cut rafters, bracing and roof sheathing. A straight, solid roof line that is ready for your roofer."
+     },
+     {
+      "slug": "interior-framing",
+      "name": "Remodel & interior framing",
+      "d": "Wall moves, new openings and interior framing for remodels.",
+      "long": "Moving walls, new door and window openings, soffits and interior framing for remodels and tenant improvements, done neatly so finishes go on smooth."
+     },
+     {
+      "slug": "patio-covers",
+      "name": "Patio covers & ramadas",
+      "d": "Shade structures framed for Arizona backyards.",
+      "long": "Wood patio covers and ramadas that bring real shade to your backyard."
+     },
+     {
+      "slug": "casitas",
+      "name": "Casitas & guest houses",
+      "d": "Detached casitas, guest houses and garages framed from the slab up."
+     },
+     {
+      "slug": "structural-repairs",
+      "name": "Framing repairs",
+      "d": "Damaged studs, joists and headers repaired or replaced."
+     }
+    ],
+    "sticker": {
+     "top": "Phoenix & the Valley",
+     "big": "Framer",
+     "band": "Plumb · Level · Square"
+    },
+    "reviews": [
+     {
+      "q": "They framed our addition and tied it into the old house perfectly. Showed up when they said and kept the site clean.",
+      "n": "Daniel R."
+     },
+     {
+      "q": "Our framing passed inspection the first time and the drywall crew said it was some of the straightest walls they had seen.",
+      "n": "Lisa & Marco T."
+     },
+     {
+      "q": "Fair written quote, steady progress and great communication. We will use them on our next build.",
+      "n": "Steve K."
+     }
+    ],
+    "faqs": [
+     {
+      "q": "What kind of framing do you do?",
+      "a": "New homes, room additions, roof framing and trusses, remodel and interior framing, patio covers, casitas and framing repairs. Tell us about the project and we will take a look."
+     },
+     {
+      "q": "Do you work with builders and homeowners?",
+      "a": "Yes. We frame for builders and general contractors, and we also work directly with homeowners on additions and remodels."
+     },
+     {
+      "q": "How does pricing work?",
+      "a": "Send your plans or set up a site visit, and you get a written quote with price and schedule before work begins."
+     },
+     {
+      "q": "Which areas do you serve?",
+      "a": "{city} and the nearby Valley cities listed above. Call {phone} if you are not sure you are in range."
+     }
+    ],
+    "ctaTitle": "Get your free framing estimate",
+    "ctaSub": "Tell us about your project and we'll call you back to go over plans and timing.",
+    "formAsk": "What are we framing?"
+   }
+  },
+  "settings": {
+   "niche": "framing",
+   "brandName": "Cobacha Framing LLC",
+   "logoWord": "Cobacha",
+   "logoShowName": true,
+   "owner": "",
+   "tagline": "Phoenix, AZ",
+   "city": "Phoenix",
+   "state": "AZ",
+   "zip": "",
+   "address": "",
+   "phone": "(602) 486-4180",
+   "email": "jcariv77cobacha@hotmail.com",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "Phoenix",
+    "Glendale",
+    "Scottsdale",
+    "Tempe",
+    "Mesa",
+    "Chandler",
+    "Gilbert",
+    "Peoria",
+    "Surprise",
+    "Goodyear"
+   ],
+   "colors": {
+    "primary": "#2B1B3F",
+    "accent": "#A3451A",
+    "highlight": "#F0A33C",
+    "highlight2": "#FBE3B8",
+    "accentHi": "#F0A33C"
+   },
+   "logoUrl": "",
+   "logoUrlDark": "",
+   "logoMark": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M19 30L23.3 46L32 14L40.7 46L45 30\" stroke=\"#FBE3B8\" stroke-width=\"3.6\"/><path d=\"M5 46L32 13L59 46Z\" stroke=\"#F0A33C\" stroke-width=\"5.5\"/><path d=\"M13 54H51\" stroke=\"#F0A33C\" stroke-width=\"4\"/></g></svg>",
+   "images": {
+    "hero": "https://images.unsplash.com/photo-1630444945993-ffe41629055e?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1787422660647-3be04b53f8d2?auto=format&fit=crop&q=70&w=1000",
+    "benefit-0": "https://images.unsplash.com/photo-1787422660734-f52c9ea768c7?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1704742950992-9815a104820c?auto=format&fit=crop&q=70&w=900",
+    "service-new-home-framing": "https://images.unsplash.com/photo-1556156653-e5a7c69cc263?auto=format&fit=crop&q=70&w=1100",
+    "service-additions": "https://images.unsplash.com/photo-1556156657-b2925b706f19?auto=format&fit=crop&q=70&w=900",
+    "service-roof-framing": "https://images.unsplash.com/photo-1563874093519-ca5eda5cd776?auto=format&fit=crop&q=70&w=900",
+    "service-interior-framing": "https://images.unsplash.com/photo-1625600103239-35c023ec52b8?auto=format&fit=crop&q=70&w=900"
+   },
+   "credits": [
+    {
+     "n": "Rosemary Media",
+     "u": "rosemarymedia"
+    },
+    {
+     "n": "PJ Wallace",
+     "u": "pjdoesvideo"
+    },
+    {
+     "n": "Taylor Heery",
+     "u": "taylorheeryphoto"
+    },
+    {
+     "n": "Avel Chuklanov",
+     "u": "chuklanov"
+    },
+    {
+     "n": "Greg Rosenke",
+     "u": "greg_rosenke"
+    }
+   ],
+   "showTemplatePanel": false,
+   "stateName": "Arizona"
+  },
+  "about": {
+   "title": "Framing is all we do",
+   "sub": "{brand} is a Phoenix framing crew focused on one thing: solid, accurate frames that keep your build moving.",
+   "points": [
+    "You talk directly with the crew lead, not a call center.",
+    "Straight answers on price, schedule and plans.",
+    "Serving {city} and cities across the Valley."
+   ]
+  }
+ },
+ "design": "summit"
+}

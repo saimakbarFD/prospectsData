@@ -237,7 +237,8 @@
     "Home additions"
    ],
    "demos": [
-    "dalmerconstruction"
+    "dalmerconstruction",
+    "cobachaframing"
    ],
    "desc": "new wooden-framed building / addition",
    "photographer": "Avel Chuklanov|chuklanov"
@@ -511,7 +512,8 @@
     "general contractor benefit-2"
    ],
    "demos": [
-    "dalmerconstruction"
+    "dalmerconstruction",
+    "cobachaframing"
    ],
    "desc": "house wood framing, walls and roof trusses",
    "photographer": "Avel Chuklanov|chuklanov"
@@ -1642,6 +1644,78 @@
    ],
    "desc": "carpenter working wood in a workshop",
    "photographer": "Minh Đức"
+  },
+  {
+   "id": "photo-1630444945993-ffe41629055e",
+   "topics": [
+    "framing hero"
+   ],
+   "demos": [
+    "cobachaframing"
+   ],
+   "desc": "New home wood framing at the construction stage, wide shot",
+   "photographer": "Rosemary Media",
+   "username": "rosemarymedia"
+  },
+  {
+   "id": "photo-1787422660647-3be04b53f8d2",
+   "topics": [
+    "framing about"
+   ],
+   "demos": [
+    "cobachaframing"
+   ],
+   "desc": "Two workers lifting a wooden wall frame on site",
+   "photographer": "PJ Wallace",
+   "username": "pjdoesvideo"
+  },
+  {
+   "id": "photo-1787422660734-f52c9ea768c7",
+   "topics": [
+    "framing benefit-0"
+   ],
+   "demos": [
+    "cobachaframing"
+   ],
+   "desc": "Long spirit level held against a wooden wall frame",
+   "photographer": "PJ Wallace",
+   "username": "pjdoesvideo"
+  },
+  {
+   "id": "photo-1704742950992-9815a104820c",
+   "topics": [
+    "framing benefit-1"
+   ],
+   "demos": [
+    "cobachaframing"
+   ],
+   "desc": "Room with exposed wood stud framing",
+   "photographer": "Taylor Heery",
+   "username": "taylorheeryphoto"
+  },
+  {
+   "id": "photo-1563874093519-ca5eda5cd776",
+   "topics": [
+    "framing service-roof-framing"
+   ],
+   "demos": [
+    "cobachaframing"
+   ],
+   "desc": "Wooden roof frame against a blue sky",
+   "photographer": "Greg Rosenke",
+   "username": "greg_rosenke"
+  },
+  {
+   "id": "photo-1625600103239-35c023ec52b8",
+   "topics": [
+    "framing service-interior-framing"
+   ],
+   "demos": [
+    "cobachaframing"
+   ],
+   "desc": "Interior wood framing on a job site",
+   "photographer": "Rosemary Media",
+   "username": "rosemarymedia"
   }
  ],
  "examplePairs": [
