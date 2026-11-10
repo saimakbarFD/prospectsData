@@ -1069,7 +1069,8 @@
     "remodeling & repairs service-drywall"
    ],
    "demos": [
-    "reliableremodelingrepairs"
+    "reliableremodelingrepairs",
+    "metroplexhousedoctors"
    ],
    "desc": "Paint roller applying blue paint to a white wall",
    "photographer": "Theme Photos",
@@ -1117,7 +1118,8 @@
     "remodeling & repairs after-0"
    ],
    "demos": [
-    "reliableremodelingrepairs"
+    "reliableremodelingrepairs",
+    "metroplexhousedoctors"
    ],
    "desc": "Smooth finished wall after repair",
    "photographer": "thomas heintz",
@@ -1519,6 +1521,127 @@
    ],
    "desc": "White downspout and gutter on a red brick wall under the roof eave, PRZ Exteriors Mesquite TX",
    "photographer": "O. P. Breno|opbreno"
+  },
+  {
+   "id": "photo-1647996179012-66b87eba3d17",
+   "topics": [
+    "painting & remodeling hero"
+   ],
+   "demos": [
+    "metroplexhousedoctors"
+   ],
+   "desc": "bright remodeled living room with fireplace",
+   "photographer": "Steven Ungermann"
+  },
+  {
+   "id": "photo-1613844044163-1ad2f2d0b152",
+   "topics": [
+    "painting about"
+   ],
+   "demos": [
+    "metroplexhousedoctors"
+   ],
+   "desc": "painter rolling white paint on a house exterior",
+   "photographer": "Flow Clark"
+  },
+  {
+   "id": "photo-1574359411659-15573a27fd0c",
+   "topics": [
+    "assessing a wall"
+   ],
+   "demos": [
+    "metroplexhousedoctors"
+   ],
+   "desc": "two workers on a ladder at a wall",
+   "photographer": "Ricky Singh"
+  },
+  {
+   "id": "photo-1719597410814-4c733c6dabf3",
+   "topics": [
+    "peeling paint prep"
+   ],
+   "demos": [
+    "metroplexhousedoctors"
+   ],
+   "desc": "white wall with peeling paint",
+   "photographer": "Annie Spratt"
+  },
+  {
+   "id": "photo-1628624747186-a941c476b7ef",
+   "topics": [
+    "sunny house exterior"
+   ],
+   "demos": [
+    "metroplexhousedoctors"
+   ],
+   "desc": "white and brown house in full sun",
+   "photographer": "Zac Gudakov"
+  },
+  {
+   "id": "photo-1742900280864-bcc27353ceba",
+   "topics": [
+    "exterior painting"
+   ],
+   "demos": [
+    "metroplexhousedoctors"
+   ],
+   "desc": "painter working on a house exterior",
+   "photographer": "Savannah du Toit"
+  },
+  {
+   "id": "photo-1592506119503-c0b18879bd5a",
+   "topics": [
+    "kitchen remodel"
+   ],
+   "demos": [
+    "metroplexhousedoctors"
+   ],
+   "desc": "white and wood remodeled kitchen",
+   "photographer": "Lotus Design N Print"
+  },
+  {
+   "id": "photo-1638799869566-b17fa794c4de",
+   "topics": [
+    "bathroom remodel"
+   ],
+   "demos": [
+    "metroplexhousedoctors"
+   ],
+   "desc": "bathroom with tub and walk-in shower",
+   "photographer": "Lotus Design N Print"
+  },
+  {
+   "id": "photo-1761986757577-140af8859587",
+   "topics": [
+    "drywall repair"
+   ],
+   "demos": [
+    "metroplexhousedoctors"
+   ],
+   "desc": "man plastering a wall with a trowel",
+   "photographer": "Derrick Pare"
+  },
+  {
+   "id": "photo-1665507279638-5b48073c637b",
+   "topics": [
+    "cabinet painting"
+   ],
+   "demos": [
+    "metroplexhousedoctors"
+   ],
+   "desc": "kitchen with white painted cabinets",
+   "photographer": "Zac Gudakov"
+  },
+  {
+   "id": "photo-1779031242515-205111711b23",
+   "topics": [
+    "carpentry repairs"
+   ],
+   "demos": [
+    "metroplexhousedoctors"
+   ],
+   "desc": "carpenter working wood in a workshop",
+   "photographer": "Minh Đức"
   }
  ],
  "examplePairs": [
