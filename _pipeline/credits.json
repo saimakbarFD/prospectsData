@@ -327,25 +327,10 @@
   "thomas heintz|thomas2006"
  ],
  "cobachaframing": [
-  {
-   "n": "Rosemary Media",
-   "u": "rosemarymedia"
-  },
-  {
-   "n": "PJ Wallace",
-   "u": "pjdoesvideo"
-  },
-  {
-   "n": "Taylor Heery",
-   "u": "taylorheeryphoto"
-  },
-  {
-   "n": "Avel Chuklanov",
-   "u": "chuklanov"
-  },
-  {
-   "n": "Greg Rosenke",
-   "u": "greg_rosenke"
-  }
+  "Rosemary Media|rosemarymedia",
+  "PJ Wallace|pjdoesvideo",
+  "Taylor Heery|taylorheeryphoto",
+  "Avel Chuklanov|chuklanov",
+  "Greg Rosenke|greg_rosenke"
  ]
 }
