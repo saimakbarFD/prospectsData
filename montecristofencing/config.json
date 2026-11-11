@@ -1,0 +1,293 @@
+{
+ "slug": "montecristofencing",
+ "title": "Monte Cristo Fencing | Fence Contractor in Leander, TX",
+ "description": "Monte Cristo Fencing builds wood and cedar privacy fences, ornamental iron fences, custom gates and ranch fencing in Leander, Cedar Park and Liberty Hill, TX. Free estimates. Call (512) 945-8975.",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@12514c2a6d7393cf930df314eaa090dd6e23c73f/montecristofencing/favicon.webp",
+ "demo": {
+  "presets": {
+   "fencing": {
+    "label": "Fence contractor",
+    "noun": "Fencing & Gates",
+    "demoBrand": "Monte Cristo Fencing",
+    "announce": "Free estimates · Now booking fences and gates in {city}, Cedar Park and Liberty Hill",
+    "eyebrow": "{city} fence contractor",
+    "h1": [
+     "Strong fences,",
+     "clean lines,",
+     "built to last."
+    ],
+    "sub": "{brand} builds wood, iron and ranch fences and custom gates for homes and land around {city}. Straight runs, solid posts and a quote you can understand.",
+    "badge": {
+     "big": "Free",
+     "small": "on-site estimate"
+    },
+    "badgeNote": "",
+    "trust": [
+     "Free estimates",
+     "Written quotes",
+     "Clean job sites"
+    ],
+    "ticker": [
+     [
+      "Free estimates",
+      "Booking now"
+     ],
+     [
+      "Cedar fences",
+      "Privacy & style"
+     ],
+     [
+      "Iron fences",
+      "Clean & strong"
+     ],
+     [
+      "Custom gates",
+      "Walk & drive"
+     ],
+     [
+      "Written quotes",
+      "Before we start"
+     ],
+     [
+      "Ranch fencing",
+      "Acreage ready"
+     ]
+    ],
+    "sunTitle": [
+     "Measure",
+     "Build",
+     "Protect"
+    ],
+    "benefits": [
+     {
+      "t": "Built For Texas Weather",
+      "d": "Posts set deep in concrete and quality materials that stand up to Hill Country heat, wind and heavy spring storms."
+     },
+     {
+      "t": "Straight Lines, Clean Finish",
+      "d": "Every run is strung, measured and checked so your fence sits level and true, even on sloped Leander lots."
+     },
+     {
+      "t": "Clear Quotes, On-Time Crews",
+      "d": "You get a written price before we start and a crew that shows up when we say, then leaves your yard clean."
+     }
+    ],
+    "stepsTitle": "How your fence gets built",
+    "stepsSub": "Simple from the first call to the last post.",
+    "steps": [
+     {
+      "t": "Free on-site estimate",
+      "d": "We walk your property line, talk through style and height, and measure everything."
+     },
+     {
+      "t": "Clear written quote",
+      "d": "You get one price with materials, gates and timeline spelled out. No surprises."
+     },
+     {
+      "t": "Build and walkthrough",
+      "d": "Our crew builds it, cleans up, and walks the finished fence with you."
+     }
+    ],
+    "baTitle": "Before and after the crew.",
+    "baSub": "Example photos. Your finished fences will go here.",
+    "baTabs": [],
+    "galleryTitle": "The kind of fences we build",
+    "cmpTitle": "Why homeowners call {brand}",
+    "cmpBad": "Typical fence crew",
+    "bad": [
+     "Vague quote, extra charges later",
+     "Shallow posts that lean in a year",
+     "Crooked runs on sloped yards",
+     "Missed start dates",
+     "Scrap left in your yard"
+    ],
+    "good": [
+     "One written price up front",
+     "Posts set deep in concrete",
+     "Strung, level, straight lines",
+     "A crew that shows up on time",
+     "Full cleanup before we leave"
+    ],
+    "svcTitle": "Fences and gates for every property",
+    "svcSub": "From backyard privacy to acreage, built for {city} homes and land.",
+    "services": [
+     {
+      "slug": "wood-fencing",
+      "name": "Wood & Cedar Privacy Fences",
+      "d": "Cedar and pine privacy fences, side by side or board on board, built tall and tight.",
+      "long": "Cedar and pine privacy fences in side by side, board on board and horizontal styles. Built with steel or treated posts set in concrete, with top caps and trim options that give your backyard a finished, custom look."
+     },
+     {
+      "slug": "iron-fencing",
+      "name": "Ornamental Iron & Steel Fences",
+      "d": "Clean, strong iron and steel fencing for front yards, pools and property lines.",
+      "long": "Ornamental iron and steel fences that add security without blocking the view. A great fit for front yards, pool areas and property lines, finished to resist rust and built to last for years."
+     },
+     {
+      "slug": "gates",
+      "name": "Custom Gates & Entry Gates",
+      "d": "Walk gates, double drive gates and entry gates built to swing true and latch right.",
+      "long": "Walk gates, double drive gates and custom entry gates in wood or steel. Framed so they don't sag, hung so they swing true, and ready for latches, locks or an automatic opener."
+     },
+     {
+      "slug": "ranch-fencing",
+      "name": "Ranch & Farm Fencing",
+      "d": "Pipe, wire and post and rail fencing for acreage around {city} and Liberty Hill.",
+      "long": "Pipe fence, field fence, barbed wire and post and rail fencing for acreage and small farms around {city} and Liberty Hill. Built to keep livestock in and to stand up to rocky Hill Country ground."
+     },
+     {
+      "slug": "fence-repair",
+      "name": "Fence Repair & Replacement",
+      "d": "Leaning posts, broken pickets and storm damage fixed fast, or a full replacement."
+     },
+     {
+      "slug": "pool-fencing",
+      "name": "Pool Fences",
+      "d": "Safe, good looking fencing around pools with self closing gates."
+     },
+     {
+      "slug": "chain-link",
+      "name": "Chain Link Fences",
+      "d": "Affordable, durable chain link for yards, pets and commercial lots."
+     }
+    ],
+    "sticker": {
+     "top": "Leander, TX",
+     "big": "Fencing",
+     "band": "Wood · Iron · Gates"
+    },
+    "reviews": [
+     {
+      "q": "They put in a cedar privacy fence around our whole backyard in Leander. Straight, solid and they cleaned up every scrap.",
+      "n": "Homeowner, Leander"
+     },
+     {
+      "q": "Clear quote, showed up on the day they said, and our new drive gate swings perfectly. Would hire again.",
+      "n": "Homeowner, Cedar Park"
+     },
+     {
+      "q": "Fenced ten acres for our horses on rocky ground. Great crew and a fair price.",
+      "n": "Landowner, Liberty Hill"
+     }
+    ],
+    "faqs": [
+     {
+      "q": "How much does a new fence cost?",
+      "a": "It depends on length, height, material and gates. We measure on site and give you one written price before any work starts."
+     },
+     {
+      "q": "How long does it take to build a fence?",
+      "a": "Most backyard fences are built in one to three days once materials arrive. We give you a clear start date up front."
+     },
+     {
+      "q": "Do you handle HOA requirements?",
+      "a": "Yes. Tell us your HOA rules and we'll match the style, height and materials so approval is easy."
+     },
+     {
+      "q": "Can you fix my old fence instead of replacing it?",
+      "a": "Often, yes. We look at the posts and boards and tell you honestly whether a repair or a replacement makes more sense."
+     }
+    ],
+    "ctaTitle": "Get your free fence estimate",
+    "ctaSub": "Tell us about your project and {owner} will get back to you fast.",
+    "formAsk": "What kind of fence do you need?",
+    "ctaBandTitle": "Ready For A New Fence?"
+   }
+  },
+  "settings": {
+   "niche": "fencing",
+   "brandName": "Monte Cristo Fencing",
+   "logoWord": "Monte Cristo",
+   "logoShowName": false,
+   "owner": "Marisol",
+   "tagline": "Leander, TX",
+   "city": "Leander",
+   "state": "TX",
+   "zip": "",
+   "address": "",
+   "phone": "(512) 945-8975",
+   "email": "montecristofencing512@gmail.com",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "Leander",
+    "Cedar Park",
+    "Liberty Hill",
+    "Georgetown",
+    "Round Rock",
+    "Jonestown",
+    "Lago Vista",
+    "Hutto",
+    "Pflugerville",
+    "Northwest Austin"
+   ],
+   "colors": {
+    "primary": "#1A1511",
+    "accent": "#9A5C32",
+    "highlight": "#D9CBB4",
+    "accentHi": "#D9A070"
+   },
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@12514c2a6d7393cf930df314eaa090dd6e23c73f/montecristofencing/logo.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@12514c2a6d7393cf930df314eaa090dd6e23c73f/montecristofencing/logo-dark.webp",
+   "images": {
+    "hero": "https://images.unsplash.com/photo-1792628953592-e42aa7649e88?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1601042860368-debed90085e0?auto=format&fit=crop&q=70&w=1000",
+    "benefit-0": "https://images.unsplash.com/photo-1778612337235-442dade903c6?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1593285247650-cd7bb44adcfd?auto=format&fit=crop&q=70&w=900",
+    "service-wood-fencing": "https://images.unsplash.com/photo-1645005047304-223bb24b355a?auto=format&fit=crop&q=70&w=900",
+    "service-iron-fencing": "https://images.unsplash.com/photo-1619322704995-5215d5f47a75?auto=format&fit=crop&q=70&w=900",
+    "service-gates": "https://images.unsplash.com/photo-1656483461011-a20df474deae?auto=format&fit=crop&q=70&w=900",
+    "service-ranch-fencing": "https://images.unsplash.com/photo-1773505152933-abce5bf2b6a0?auto=format&fit=crop&q=70&w=900"
+   },
+   "credits": [
+    {
+     "n": "Josh Lemmon",
+     "u": "wolfie_website"
+    },
+    {
+     "n": "Daniel Janzen",
+     "u": "paladin_community"
+    },
+    {
+     "n": "aurélie sgnl",
+     "u": "entre2vue"
+    },
+    {
+     "n": "Sergio Lapunin",
+     "u": "lapunin"
+    },
+    {
+     "n": "Nenyasha Manzvera",
+     "u": "thedrinkbreak"
+    },
+    {
+     "n": "Joshua Olsen",
+     "u": "photowolf"
+    },
+    {
+     "n": "Heather Wilde",
+     "u": "heather_wilde"
+    },
+    {
+     "n": "Cristina Anne Costello",
+     "u": "lightupphotos"
+    }
+   ],
+   "showTemplatePanel": false,
+   "stateName": "Texas",
+   "logoHeight": "84px"
+  },
+  "about": {
+   "title": "Fences built right the first time",
+   "sub": "{owner} and the {brand} crew build fences and gates across {city} and the Hill Country, with care on every post and panel.",
+   "points": [
+    "You get straight answers on cost, materials and timing.",
+    "We treat your yard like our own and leave it clean.",
+    "Serving {city}, Cedar Park, Liberty Hill and nearby towns."
+   ]
+  }
+ },
+ "design": "summit"
+}
