@@ -1790,18 +1790,6 @@
    "username": "photowolf"
   },
   {
-   "id": "photo-1656483461011-a20df474deae",
-   "topics": [
-    "fencing service-gates"
-   ],
-   "demos": [
-    "montecristofencing"
-   ],
-   "desc": "Wooden gate set in a stone wall",
-   "photographer": "Heather Wilde",
-   "username": "heather_wilde"
-  },
-  {
    "id": "photo-1773505152933-abce5bf2b6a0",
    "topics": [
     "fencing service-ranch-fencing"
@@ -1812,6 +1800,18 @@
    "desc": "Black ranch fence in front of green pasture and blue sky",
    "photographer": "Cristina Anne Costello",
    "username": "lightupphotos"
+  },
+  {
+   "id": "photo-1789846976811-bc6af2b17152",
+   "topics": [
+    "fencing service-gates wooden double drive gate brick pillars"
+   ],
+   "demos": [
+    "montecristofencing"
+   ],
+   "desc": "Large wooden double driveway gate between brick pillars, gravel drive",
+   "photographer": "Alex G",
+   "username": "grizzlyil"
   }
  ],
  "examplePairs": [
