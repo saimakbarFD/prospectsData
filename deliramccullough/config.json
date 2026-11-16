@@ -1,0 +1,290 @@
+{
+ "slug": "deliramccullough",
+ "title": "De Lira & McCullough Construction LLC | General Contractor in Indianapolis, IN",
+ "description": "De Lira & McCullough Construction LLC handles remodels, home additions, kitchens, baths and decks in Indianapolis, IN. Free estimates. Call (317) 496-9871.",
+ "favicon": "",
+ "demo": {
+  "presets": {
+   "gencon": {
+    "label": "General contractor",
+    "noun": "General Construction & Remodeling",
+    "demoBrand": "De Lira & McCullough Construction LLC",
+    "announce": "Free estimates · Now booking remodels, additions and decks across {city} and Central Indiana",
+    "eyebrow": "{city} general contractor",
+    "h1": [
+     "Built solid",
+     "for Central",
+     "Indiana homes."
+    ],
+    "sub": "Remodels, additions, kitchens, baths and decks across {city} and the surrounding suburbs. One crew runs your project from the first measurement to the final walk-through.",
+    "badge": {
+     "big": "Local",
+     "small": "owners on every job"
+    },
+    "badgeNote": "",
+    "trust": [
+     "Free estimates",
+     "Written quotes",
+     "Clean job sites"
+    ],
+    "ticker": [
+     [
+      "Free estimates",
+      "Booking now"
+     ],
+     [
+      "Remodels",
+      "Inside & out"
+     ],
+     [
+      "Additions",
+      "More room"
+     ],
+     [
+      "Written quotes",
+      "Before we start"
+     ],
+     [
+      "One crew",
+      "Start to finish"
+     ],
+     [
+      "Central Indiana",
+      "Serving now"
+     ]
+    ],
+    "sunTitle": [
+     "Plan",
+     "Build",
+     "Finish"
+    ],
+    "benefits": [
+     {
+      "t": "Written plan and price",
+      "d": "Scope, price and timeline on paper before work starts, so you always know where your project stands."
+     },
+     {
+      "t": "Built for Indiana seasons",
+      "d": "Proper framing, flashing and insulation so your home holds up through humid summers, spring storms and icy winters."
+     },
+     {
+      "t": "One crew, start to finish",
+      "d": "The same team carries your job from demo to the last trim piece. No juggling trades, no gaps between crews."
+     }
+    ],
+    "stepsTitle": "How your project runs",
+    "stepsSub": "Simple, clear and planned around your schedule.",
+    "steps": [
+     {
+      "t": "Free walk-through",
+      "d": "We visit, listen to what you want and take measurements."
+     },
+     {
+      "t": "Written proposal",
+      "d": "You get scope, price and timeline in writing. No pressure."
+     },
+     {
+      "t": "Build and hand over",
+      "d": "We do the work, walk it with you and make sure you're happy."
+     }
+    ],
+    "baTitle": "Before and after the crew.",
+    "baSub": "Your finished projects will go here.",
+    "baTabs": [],
+    "galleryTitle": "The kind of projects we take on",
+    "cmpTitle": "Juggling trades vs. one general contractor",
+    "cmpBad": "Managing it yourself",
+    "bad": [
+     "Calling five different trades",
+     "Gaps between each crew",
+     "Nobody responsible for the result",
+     "Surprise costs mid-project",
+     "Mess left between visits"
+    ],
+    "good": [
+     "One number to call",
+     "Crews scheduled back to back",
+     "One contractor accountable",
+     "A written price up front",
+     "A clean site every day"
+    ],
+    "svcTitle": "What we build",
+    "svcSub": "Remodels, additions and outdoor living for {city} and Central Indiana homes.",
+    "services": [
+     {
+      "slug": "remodeling",
+      "name": "Home remodeling",
+      "d": "Living rooms, basements and whole-floor updates.",
+      "long": "Open up a floor plan, refresh dated rooms or update a whole level. We handle demo, framing, drywall, flooring and trim so the space feels new from wall to wall."
+     },
+     {
+      "slug": "additions",
+      "name": "Home additions",
+      "d": "Bedrooms, family rooms and second stories.",
+      "long": "Need more room without moving? We frame and finish additions that tie cleanly into your existing roofline, siding and floors, so it looks like it was always there."
+     },
+     {
+      "slug": "kitchens",
+      "name": "Kitchens & baths",
+      "d": "Cabinets, counters, tile, showers and vanities.",
+      "long": "New cabinets, stone counters, backsplashes, walk-in showers and vanities. One crew carries your kitchen or bathroom from demo to the final walk-through."
+     },
+     {
+      "slug": "decks",
+      "name": "Decks & porches",
+      "d": "New decks, covered porches and railings.",
+      "long": "Wood and composite decks, covered porches and new railings, built on solid footings so you can enjoy your backyard from spring through fall."
+     },
+     {
+      "slug": "basements",
+      "name": "Basement finishing",
+      "d": "Family rooms, bedrooms and bars below grade."
+     },
+     {
+      "slug": "exteriors",
+      "name": "Siding & exteriors",
+      "d": "Siding, trim, windows and exterior repairs."
+     },
+     {
+      "slug": "repairs",
+      "name": "Repairs & small projects",
+      "d": "Drywall, framing, doors and punch lists."
+     }
+    ],
+    "sticker": {
+     "top": "Free",
+     "big": "Estimate",
+     "band": "Call today"
+    },
+    "reviews": [
+     {
+      "q": "Anthony and his crew finished our addition on schedule and kept the site clean every single day. It looks like it was always part of the house.",
+      "n": "Homeowner, Carmel"
+     },
+     {
+      "q": "We got a written price before anything started and there were no surprises. Our new kitchen is exactly what we pictured.",
+      "n": "Homeowner, Fishers"
+     },
+     {
+      "q": "They rebuilt our back deck and covered porch. Solid work, fair price and easy to reach the whole time.",
+      "n": "Homeowner, Greenwood"
+     }
+    ],
+    "faqs": [
+     {
+      "q": "Do you give free estimates?",
+      "a": "Yes. We'll come out, look at the project, take measurements and follow up with a written quote."
+     },
+     {
+      "q": "What areas do you serve?",
+      "a": "{city} and the surrounding Central Indiana suburbs, including Carmel, Fishers, Greenwood and Noblesville."
+     },
+     {
+      "q": "Can you handle the whole project?",
+      "a": "Yes. We manage the job from demo through framing, finish work and clean-up, so you have one contractor to call."
+     },
+     {
+      "q": "How soon can you start?",
+      "a": "It depends on the size of the job. Call us and we'll give you an honest timeline during the walk-through."
+     }
+    ],
+    "ctaTitle": "Ready to start your project?",
+    "ctaSub": "Tell us what you have in mind and we'll set up a free walk-through.",
+    "formAsk": "What can we build for you?"
+   }
+  },
+  "settings": {
+   "niche": "gencon",
+   "brandName": "De Lira & McCullough Construction LLC",
+   "logoWord": "DL&M",
+   "logoShowName": true,
+   "owner": "Anthony",
+   "tagline": "Construction · Indianapolis, IN",
+   "city": "Indianapolis",
+   "state": "IN",
+   "zip": "",
+   "address": "",
+   "phone": "(317) 496-9871",
+   "email": "akmcculloughventuresllc@gmail.com",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "Indianapolis",
+    "Carmel",
+    "Fishers",
+    "Noblesville",
+    "Greenwood",
+    "Westfield",
+    "Zionsville",
+    "Avon",
+    "Plainfield",
+    "Brownsburg",
+    "Lawrence"
+   ],
+   "colors": {
+    "primary": "#2C3320",
+    "accent": "#9E3426",
+    "highlight": "#E2C98F",
+    "highlight2": "#C9A866",
+    "accentHi": "#E2C98F"
+   },
+   "logoUrl": "",
+   "logoUrlDark": "",
+   "logoMark": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><path d=\"M19 3H45L61 19V45L45 61H19L3 45V19Z\" fill=\"#2C3320\" stroke=\"#E2C98F\" stroke-width=\"3\"/><g fill=\"#9E3426\" stroke=\"#E2C98F\" stroke-width=\"1.6\"><rect x=\"12\" y=\"40\" width=\"12.5\" height=\"10\" rx=\"1\"/><rect x=\"25.75\" y=\"40\" width=\"12.5\" height=\"10\" rx=\"1\"/><rect x=\"39.5\" y=\"40\" width=\"12.5\" height=\"10\" rx=\"1\"/><rect x=\"18.9\" y=\"28.5\" width=\"12.5\" height=\"10\" rx=\"1\"/><rect x=\"32.6\" y=\"28.5\" width=\"12.5\" height=\"10\" rx=\"1\"/></g><rect x=\"25.75\" y=\"17\" width=\"12.5\" height=\"10\" rx=\"1\" fill=\"#E2C98F\"/></svg>",
+   "images": {
+    "hero": "https://images.unsplash.com/photo-1786859864972-fbae6f040d48?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1632862378103-8248dccb7e3d?auto=format&fit=crop&q=70&w=1000",
+    "benefit-0": "https://images.unsplash.com/photo-1731702981680-a38f38529d76?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1553550319-d8d5393e1c80?auto=format&fit=crop&q=70&w=900",
+    "service-remodeling": "https://images.unsplash.com/photo-1768321917806-b4b6fbbef837?auto=format&fit=crop&q=70&w=1100",
+    "service-additions": "https://images.unsplash.com/photo-1785585508688-bd34cc669261?auto=format&fit=crop&q=70&w=1100",
+    "service-kitchens": "https://images.unsplash.com/photo-1682888813913-e13f18692019?auto=format&fit=crop&q=70&w=900",
+    "service-decks": "https://images.unsplash.com/photo-1720706439286-a642d2cd0db2?auto=format&fit=crop&q=70&w=900"
+   },
+   "credits": [
+    {
+     "n": "Troy Mortier",
+     "u": "troyscanon"
+    },
+    {
+     "n": "Nate Johnston",
+     "u": "natejohnston"
+    },
+    {
+     "n": "Gallen-Kallelan Museon",
+     "u": "gallenkallelan"
+    },
+    {
+     "n": "Tracy Adams",
+     "u": "twistoflime"
+    },
+    {
+     "n": "Olek Buzunov",
+     "u": "olek_bznv_photo"
+    },
+    {
+     "n": "Zac Gudakov",
+     "u": "zacgudakov"
+    },
+    {
+     "n": "Clay Banks",
+     "u": "claybanks"
+    }
+   ],
+   "showTemplatePanel": false,
+   "stateName": "Indiana"
+  },
+  "about": {
+   "title": "Two names you can count on",
+   "sub": "{brand} is a local Indianapolis builder. {owner} stays involved from the first walk-through to the final clean-up.",
+   "points": [
+    "You talk to the owners, not a call center.",
+    "Straight answers on cost, timing and options.",
+    "Serving {city} and the surrounding Central Indiana suburbs."
+   ]
+  }
+ },
+ "design": "summit"
+}

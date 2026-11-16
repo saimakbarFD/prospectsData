@@ -316,7 +316,8 @@
     "Kitchen remodels"
    ],
    "demos": [
-    "globaldynamicresources"
+    "globaldynamicresources",
+    "deliramccullough"
    ]
   },
   {
@@ -1812,6 +1813,90 @@
    "desc": "Large wooden double driveway gate between brick pillars, gravel drive",
    "photographer": "Alex G",
    "username": "grizzlyil"
+  },
+  {
+   "id": "photo-1786859864972-fbae6f040d48",
+   "topics": [
+    "general construction hero new house wood frame under construction in warm sunrise light"
+   ],
+   "demos": [
+    "deliramccullough"
+   ],
+   "desc": "New house wood frame under construction in warm sunrise light",
+   "photographer": "Troy Mortier",
+   "username": "troyscanon"
+  },
+  {
+   "id": "photo-1632862378103-8248dccb7e3d",
+   "topics": [
+    "general construction about crew of workers building a wood structure together"
+   ],
+   "demos": [
+    "deliramccullough"
+   ],
+   "desc": "Crew of workers building a wood structure together",
+   "photographer": "Nate Johnston",
+   "username": "natejohnston"
+  },
+  {
+   "id": "photo-1731702981680-a38f38529d76",
+   "topics": [
+    "general construction benefit-0 drafting table with blueprints and drafting tools"
+   ],
+   "demos": [
+    "deliramccullough"
+   ],
+   "desc": "Drafting table with blueprints and drafting tools",
+   "photographer": "Gallen-Kallelan Museon",
+   "username": "gallenkallelan"
+  },
+  {
+   "id": "photo-1553550319-d8d5393e1c80",
+   "topics": [
+    "general construction benefit-1 houses covered in snow in winter"
+   ],
+   "demos": [
+    "deliramccullough"
+   ],
+   "desc": "Houses covered in snow in winter",
+   "photographer": "Tracy Adams",
+   "username": "twistoflime"
+  },
+  {
+   "id": "photo-1768321917806-b4b6fbbef837",
+   "topics": [
+    "general construction service-remodeling interior room mid-renovation with exposed framing and ceiling"
+   ],
+   "demos": [
+    "deliramccullough"
+   ],
+   "desc": "Interior room mid-renovation with exposed framing and ceiling",
+   "photographer": "Olek Buzunov",
+   "username": "olek_bznv_photo"
+  },
+  {
+   "id": "photo-1785585508688-bd34cc669261",
+   "topics": [
+    "general construction service-additions new wood framework of a house against a blue sky"
+   ],
+   "demos": [
+    "deliramccullough"
+   ],
+   "desc": "New wood framework of a house against a blue sky",
+   "photographer": "Troy Mortier",
+   "username": "troyscanon"
+  },
+  {
+   "id": "photo-1720706439286-a642d2cd0db2",
+   "topics": [
+    "general construction service-decks two chairs and a table on a house porch"
+   ],
+   "demos": [
+    "deliramccullough"
+   ],
+   "desc": "Two chairs and a table on a house porch",
+   "photographer": "Clay Banks",
+   "username": "claybanks"
   }
  ],
  "examplePairs": [
