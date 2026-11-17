@@ -234,7 +234,7 @@
    "logoHeight": "62px",
    "logoMark": "",
    "images": {
-    "hero": "https://images.unsplash.com/photo-1672627170267-fca17bb54156?auto=format&fit=crop&q=70&w=1800",
+    "hero": "https://images.unsplash.com/photo-1773098587088-f0a3aaab48a8?auto=format&fit=crop&q=70&w=1800",
     "about": "https://images.unsplash.com/photo-1787005241211-b83c98eee330?auto=format&fit=crop&q=70&w=1000",
     "benefit-0": "https://images.unsplash.com/photo-1589233361468-0128345570e8?auto=format&fit=crop&q=70&w=900",
     "benefit-1": "https://images.unsplash.com/photo-1779031242509-af360178ebb3?auto=format&fit=crop&q=70&w=900",
@@ -254,6 +254,10 @@
     "after-2": "https://images.unsplash.com/photo-1632359552106-2599db65f51c?auto=format&fit=crop&q=70&w=1400"
    },
    "credits": [
+    {
+     "n": "Franco Debartolo",
+     "u": "francotheshooter"
+    },
     {
      "n": "Ernie Journeys",
      "u": "erniejourneys"

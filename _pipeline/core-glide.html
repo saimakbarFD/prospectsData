@@ -75,8 +75,6 @@ main{background:var(--mist)}
 /* ===== Hero ===== */
 .hero{position:relative;max-width:95%;margin:0 auto;border-radius:0 0 2rem 2rem;overflow:hidden;background:var(--mist)}
 .hero-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}
-.hero::before{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,rgba(10,13,18,.62) 0%,rgba(10,13,18,.38) 45%,rgba(10,13,18,0) 75%),linear-gradient(180deg,rgba(10,13,18,.35),rgba(10,13,18,0) 22%)}
-@media (max-width:479px){.hero::before{background:linear-gradient(180deg,rgba(10,13,18,.55),rgba(10,13,18,.45))}}
 .hero .wrap{position:relative;z-index:2;padding-top:var(--pad-hero);padding-bottom:39px}
 .hero-copy{max-width:36rem}
 .hero h1{font-size:72px;font-weight:400;line-height:1.05;letter-spacing:-.02em;color:#fff}
@@ -113,13 +111,17 @@ main{background:var(--mist)}
 .rv-track::-webkit-scrollbar{display:none}
 .rv{flex:0 0 calc((100% - 44px)/3);scroll-snap-align:start;min-height:248px;background:#fff;border:1px solid var(--line);border-radius:26px;padding:24px;container-type:inline-size}
 .rv-in{display:grid;grid-template-columns:40px 1fr;column-gap:12px;align-content:start}
-.rv .av{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;font-size:15px;font-weight:600;color:#fff;background:var(--accent)}
+.rv .av{position:relative;width:40px;height:40px;border-radius:50%;display:grid;place-items:center;font-size:15px;font-weight:600;color:#fff;background:var(--accent)}
+.rv .av img{width:40px;height:40px;border-radius:50%;object-fit:cover}
+.rv .av .gb{position:absolute;right:-7px;bottom:-7px;width:23px;height:23px;border-radius:50%;background:#fff;display:grid;place-items:center;box-shadow:0 0 0 1px rgba(0,0,0,.04)}
+.rv .av .gb svg{width:18px;height:18px}
+.rv .tick{display:inline-block;width:14px;height:14px;margin-left:5px;vertical-align:-2px}
 .rv .who{padding-top:1px}
 .rv .nm{display:block;font-size:15px;font-weight:600;line-height:18px;color:#111}
 .rv .when{display:block;margin-top:4px;font-size:12px;line-height:16px;color:rgba(17,17,17,.5)}
 .rv .body{grid-column:1/-1}
 @container (min-width:320px){.rv .body{grid-column:2}}
-.stars{display:flex;gap:0;margin:12px 0 10px;color:#111}
+.stars{display:flex;gap:0;margin:15px 0 6px;color:#111}
 .stars svg{width:17px;height:17px}
 .rv .txt{font-size:14px;line-height:20px;color:#111;display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
 .rv.open .txt{-webkit-line-clamp:unset;display:block}
@@ -310,6 +312,8 @@ const svg = {
   phone: '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"><path d="M5.6 2.2H3.4c-.7 0-1.2.6-1.2 1.3C2.6 9.4 6.6 13.4 12.5 13.8c.7 0 1.3-.5 1.3-1.2v-2.2l-2.9-1.2-1.3 1.4C8 9.9 6.1 8 5.4 6.4l1.4-1.3z"/></svg>',
   pin: '<svg viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M9 16s5.2-4.7 5.2-8.7a5.2 5.2 0 10-10.4 0C3.8 11.3 9 16 9 16z"/><circle cx="9" cy="7.3" r="1.9"/></svg>',
   check: '<svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 6.2l2.3 2.3 4.7-5"/></svg>',
+  g: '<svg viewBox="0 0 48 48"><path fill="#FFC107" d="M43.6 20.1H42V20H24v8h11.3C33.7 32.7 29.2 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 13 4 4 13 4 24s9 20 20 20 20-9 20-20c0-1.3-.1-2.6-.4-3.9z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.7 15.1 19 12 24 12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 16.3 4 9.7 8.3 6.3 14.7z"/><path fill="#4CAF50" d="M24 44c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.1 26.7 36 24 36c-5.2 0-9.6-3.3-11.3-7.9l-6.5 5C9.5 39.6 16.2 44 24 44z"/><path fill="#1976D2" d="M43.6 20.1H42V20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C37 39.2 44 34 44 24c0-1.3-.1-2.6-.4-3.9z"/></svg>',
+  tick: '<svg class="tick" viewBox="0 0 16 16"><circle cx="8" cy="8" r="8" fill="#197bff"/><path d="M4.6 8.2l2.2 2.2 4.6-4.8" fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>',
   star: '<svg viewBox="0 0 20 20" fill="currentColor"><path d="M10 1.6l2.6 5.3 5.8.8-4.2 4.1 1 5.8L10 14.9l-5.2 2.7 1-5.8L1.6 7.7l5.8-.8z"/></svg>'
 };
 
@@ -361,6 +365,8 @@ const h1 = (P.h1 || []).filter(Boolean).join(" ");
 const firstSentence = s => { const m = String(s || "").match(/^.*?[.!?](\s|$)/); return m ? m[0].trim() : String(s || ""); };
 const heroSub = P.heroSub || firstSentence(P.sub);
 const reviews = P.reviews || [];
+/* real Google reviews (settings.reviewsReal true, each {q, n, when, img}) get the full Google look: G badge, verified tick, date. Sample reviews never do. */
+const realRv = !!S.reviewsReal;
 const steps = (P.steps || []).slice(0, 3);
 const initials = n => String(n || "").replace(/&.*$/, "").split(/\s+/).filter(Boolean).map(w => w[0]).join("").slice(0, 2).toUpperCase();
 const areas = (S.areas || []).slice(0, 15);
@@ -424,21 +430,21 @@ document.getElementById("app").innerHTML = `
       </div>
       <label class="consent"><input type="checkbox" name="consent"><span class="box">${svg.check}</span>
         <p>I agreed to the ${esc(brand)} <a href="#" data-soon>privacy</a> &amp; <a href="#" data-soon>terms</a> and receiving automated texts from ${esc(brand)} at this number. Msg &amp; data rates may apply. Reply STOP to cancel, HELP for help</p></label>
-      <button type="submit" class="btn-submit">${T(P.heroBtn || "Get A Free Quote")}</button>
+      <button type="submit" class="btn-submit">${T(P.heroBtn || "Get A Quote In Seconds")}</button>
       <p class="form-done" role="status">Thanks! We got your request and will call you shortly.</p>
-      <div class="notice"><i></i><span>${T(P.heroNote || `Now booking in ${S.city}!`)}</span></div>
+      <div class="notice"><i></i><span>${T(P.heroNote || "Estimates available today!")}</span></div>
     </form>
   </div></div>
 </section>
 
 <section class="reviews" id="reviews">
   <div class="wrap"><div class="container">
-    <h2 class="h2">${T(P.reviewsTitle || `What ${S.city} customers say`)}</h2>
+    <h2 class="h2">${T(P.reviewsTitle || (realRv ? `5-star reviews from real ${brand} customers` : `What ${S.city} customers say`))}</h2>
     <div class="rv-wrap">
       <div class="rv-track" id="rvTrack">${reviews.map(r => `
         <article class="rv"><div class="rv-in">
-          <span class="av" aria-hidden="true">${esc(initials(r.n))}</span>
-          <div class="who"><span class="nm">${esc(r.n)}</span><span class="when">Sample review</span></div>
+          <span class="av" aria-hidden="true">${r.img ? `<img src="${esc(r.img)}" alt="" loading="lazy" referrerpolicy="no-referrer">` : esc(initials(r.n))}${realRv ? `<span class="gb">${svg.g}</span>` : ""}</span>
+          <div class="who"><span class="nm">${esc(r.n)}${realRv ? svg.tick : ""}</span><span class="when">${realRv ? esc(r.when || "") : "Sample review"}</span></div>
           <div class="body">${starRow}<p class="txt">${T(r.q)}</p><button type="button" class="more">Read more</button></div>
         </div></article>`).join("")}
       </div>
@@ -469,7 +475,7 @@ document.getElementById("app").innerHTML = `
 <section class="quote">
   <div class="wrap"><div class="container">
     <img class="quote-img" src="${esc(IMG.about || "")}" alt="${esc(brand)} at work" loading="lazy">
-    <p class="quote-text">${T(P.bigQuote || A.sub || A.title)}</p>
+    <p class="quote-text">${P.bigQuote ? T(P.bigQuote) : realRv && reviews[0] ? "\"" + T(reviews[0].q) + "\"" : T(A.sub || A.title)}</p>
   </div></div>
 </section>
 
