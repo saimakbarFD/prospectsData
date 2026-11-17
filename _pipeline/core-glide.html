@@ -41,7 +41,7 @@ main{background:var(--mist)}
 /* ===== Nav ===== */
 .nav{position:fixed;z-index:50;top:16px;left:0;right:0;padding:0 var(--gutter);pointer-events:none}
 .nav-inner{pointer-events:auto;max-width:80rem;height:64px;margin:0 auto;position:relative;display:flex;align-items:center;justify-content:space-between;padding:0 var(--gutter);border-radius:20px;transition:background .3s,box-shadow .3s}
-.nav-inner::before{content:"";position:absolute;inset:0;border-radius:20px;background:#fff;opacity:0;transition:opacity .3s;z-index:-1}
+.nav-inner::before{content:"";position:absolute;inset:0;border-radius:20px;background:#fff;opacity:.06;transition:opacity .3s;z-index:-1}
 .nav.solid .nav-inner::before{opacity:1}
 .logo{display:flex;align-items:center;gap:10px;text-decoration:none;color:#fff;min-width:0;height:40px}
 .logo img{height:32px;width:auto;max-width:220px;object-fit:contain}
@@ -238,7 +238,7 @@ main{background:var(--mist)}
   .burger{display:flex}
   .nav{top:0;padding:0}
   .nav-inner{border-radius:0;padding:0 var(--gutter)}
-  .nav-inner::before{border-radius:0}
+  .nav-inner::before{border-radius:0;opacity:0}
   .mnav{display:block;position:fixed;z-index:49;top:64px;left:0;right:0;background:#fff;padding:8px var(--gutter) 20px;box-shadow:0 12px 24px rgba(17,24,39,.12);transform:translateY(-8px);opacity:0;visibility:hidden;transition:all .25s}
   .mnav.open{transform:none;opacity:1;visibility:visible}
   .mnav a{display:block;padding:14px 0;border-bottom:1px solid #f1f1f1;font-size:16px;font-weight:500;color:var(--nav-ink);text-decoration:none}
@@ -370,7 +370,7 @@ const h1 = (P.h1 || []).filter(Boolean).join(" ");
 const firstSentence = s => { const m = String(s || "").match(/^.*?[.!?](\s|$)/); return m ? m[0].trim() : String(s || ""); };
 const heroSub = P.heroSub || firstSentence(P.sub);
 const reviews = P.reviews || [];
-/* real Google reviews (settings.reviewsReal true, each {q, n, when, img}) get the full Google look: G badge, verified tick, date. Sample reviews never do. */
+/* Google review design always shows (G badge, tick). Real reviews: settings.reviewsReal true, each {q, n, when, img}; otherwise the date line reads "Example review". */
 const realRv = !!S.reviewsReal;
 const steps = (P.steps || []).slice(0, 3);
 const initials = n => String(n || "").replace(/&.*$/, "").split(/\s+/).filter(Boolean).map(w => w[0]).join("").slice(0, 2).toUpperCase();
@@ -448,8 +448,8 @@ document.getElementById("app").innerHTML = `
     <div class="rv-wrap">
       <div class="rv-track" id="rvTrack">${reviews.map(r => `
         <article class="rv"><div class="rv-in">
-          <span class="av" aria-hidden="true">${r.img ? `<img src="${esc(r.img)}" alt="" loading="lazy" referrerpolicy="no-referrer">` : esc(initials(r.n))}${realRv ? `<span class="gb">${svg.g}</span>` : ""}</span>
-          <div class="who"><span class="nm">${esc(r.n)}${realRv ? svg.tick : ""}</span><span class="when">${realRv ? esc(r.when || "") : "Sample review"}</span></div>
+          <span class="av" aria-hidden="true">${r.img ? `<img src="${esc(r.img)}" alt="" loading="lazy" referrerpolicy="no-referrer">` : esc(initials(r.n))}<span class="gb">${svg.g}</span></span>
+          <div class="who"><span class="nm">${esc(r.n)}${svg.tick}</span><span class="when">${realRv ? esc(r.when || "") : "Example review"}</span></div>
           <div class="body">${starRow}<p class="txt">${T(r.q)}</p><button type="button" class="more">Read more</button></div>
         </div></article>`).join("")}
       </div>
@@ -528,7 +528,7 @@ document.getElementById("app").innerHTML = `
       <div></div>
       ${S.googleRating
         ? `<span class="f-badge"><span class="g">${svg.g}</span><span><span class="st">${svg.star.repeat(5)}</span><span class="tx">${S.googleReviewCount ? `${esc(S.googleReviewCount)}+ Verified ${esc(Math.round(parseFloat(S.googleRating) || 5))}-Star Reviews` : `${esc(S.googleRating)} Stars on Google`}</span></span></span>`
-        : `<span class="f-badge"><img src="${iconUrl("memo")}" alt=""><span><b>${T((P.trust || [])[0] || "Free estimates")}</b>${esc(S.phone)}</span></span>`}
+        : `<span class="f-badge"><span class="g">${svg.g}</span><span><span class="st">${svg.star.repeat(5)}</span><span class="tx">Your Google rating here</span></span></span>`}
     </div>
     <div class="f-div"></div>
     <div class="f-loc" id="areas">
