@@ -12,9 +12,9 @@
     "announce": "Free estimates · Now booking remodels, additions and exterior work in {city}",
     "eyebrow": "{city} general contractor",
     "h1": [
-     "Remodels.",
-     "Additions.",
-     "Built right."
+     "Trusted remodelers",
+     "that fit your",
+     "budget"
     ],
     "sub": "Kitchens, baths, basements, additions, siding and decks across {city} and the Twin Cities. One contractor for the whole job, with a written quote before work begins.",
     "badge": {
@@ -186,17 +186,89 @@
      {
       "q": "Which areas do you serve?",
       "a": "{city} and the nearby cities listed above. Call {phone} if you're not sure you're in range."
+     },
+     {
+      "q": "Do you take on small projects too?",
+      "a": "Yes. Call {phone} and tell us what you have in mind, big or small."
      }
     ],
     "ctaTitle": "Get your free estimate",
     "ctaSub": "Tell us about your project and we'll call you back to set up a walk-through.",
-    "formAsk": "What's the project?"
+    "formAsk": "What's the project?",
+    "heroSub": "Kitchens, baths & additions made easy.",
+    "heroNote": "Estimates available today!",
+    "howTitle": "How Dalmer works",
+    "moreTitle": "More than just remodeling",
+    "moreSub": "Decks? Siding? Yes, we do that too.",
+    "pills": [
+     {
+      "t": "Free estimates",
+      "icon": "memo"
+     },
+     {
+      "t": "Written quotes",
+      "icon": "spiral-notepad"
+     },
+     {
+      "t": "Clean job sites",
+      "icon": "sparkles"
+     },
+     {
+      "t": "One crew, start to finish",
+      "icon": "handshake"
+     },
+     {
+      "t": "Owner on every job",
+      "icon": "speech-balloon"
+     },
+     {
+      "t": "Kitchens & baths",
+      "icon": "bathtub"
+     },
+     {
+      "t": "Home additions",
+      "icon": "building-construction"
+     },
+     {
+      "t": "Built for MN winters",
+      "icon": "snowflake"
+     },
+     {
+      "t": "Decks & porches",
+      "icon": "wood"
+     },
+     {
+      "t": "Basement finishing",
+      "icon": "ladder"
+     }
+    ],
+    "blog": [
+     {
+      "cat": "Remodel Planning & Checklists",
+      "t": "Planning a Home Addition: What to Decide Before the First Board Is Cut",
+      "d": "An addition is the biggest project most homeowners take on. A few early decisions about size, layout and budget make the whole build smoother.",
+      "img": "service-additions"
+     },
+     {
+      "cat": "Kitchen Tips & Ideas",
+      "t": "Kitchen Remodel Must Haves: 8 Upgrades That Pay Off Every Day",
+      "d": "A kitchen remodel is more than new cabinets. The right layout, storage and lighting choices make the room work better for years.",
+      "img": "service-kitchens"
+     },
+     {
+      "cat": "Bathroom Tips & Ideas",
+      "t": "A Step by Step Guide to Planning Your Bathroom Remodel",
+      "d": "From the shower to the vanity, a little planning keeps your bathroom remodel on time and on budget, and avoids costly changes mid-project.",
+      "img": "service-bathrooms"
+     }
+    ],
+    "bigQuote": "From the first walk-through to the final clean-up, you work with the owner."
    }
   },
   "settings": {
    "niche": "gencon",
    "brandName": "Dalmer Construction Inc",
-   "logoWord": "Dalmer Construction",
+   "logoWord": "Dalmer",
    "logoShowName": false,
    "owner": "Dalmer",
    "tagline": "Minneapolis, MN",

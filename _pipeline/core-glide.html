@@ -82,7 +82,7 @@ main{background:var(--mist)}
 .lead-form{width:540px;max-width:100%;background:#fff;border:1px solid #d1d5db;border-radius:20px;padding:24px;color:var(--ink)}
 .f-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:32px}
 .f-in{position:relative}
-.f-in svg{position:absolute;left:16px;top:50%;width:14px;height:14px;transform:translateY(-50%);color:#4b5563;pointer-events:none}
+.f-in svg{position:absolute;left:16px;top:50%;width:16px;height:16px;transform:translateY(-50%);color:#4b5563;pointer-events:none}
 .f-in input{width:100%;min-height:48px;padding:8px 12px 8px 40px;border:1px solid rgba(0,0,0,.05);border-radius:999px;background:#fff;font-size:14px;line-height:20px;color:#333;box-shadow:0 1px 4px rgba(0,0,0,.07);outline:none;transition:border-color .2s}
 .f-in input::placeholder{color:rgba(75,85,99,.6)}
 .f-in input:focus{border-color:var(--accent)}
@@ -113,8 +113,8 @@ main{background:var(--mist)}
 .rv-in{display:grid;grid-template-columns:40px 1fr;column-gap:12px;align-content:start}
 .rv .av{position:relative;width:40px;height:40px;border-radius:50%;display:grid;place-items:center;font-size:15px;font-weight:600;color:#fff;background:var(--accent)}
 .rv .av img{width:40px;height:40px;border-radius:50%;object-fit:cover}
-.rv .av .gb{position:absolute;right:-7px;bottom:-7px;width:23px;height:23px;border-radius:50%;background:#fff;display:grid;place-items:center;box-shadow:0 0 0 1px rgba(0,0,0,.04)}
-.rv .av .gb svg{width:18px;height:18px}
+.rv .av .gb{position:absolute;right:-8px;bottom:-8px;width:24px;height:24px;border-radius:50%;background:#fff;display:grid;place-items:center;box-shadow:0 0 0 1px rgba(0,0,0,.04)}
+.rv .av .gb svg{width:20px;height:20px}
 .rv .tick{display:inline-block;width:14px;height:14px;margin-left:5px;vertical-align:-2px}
 .rv .who{padding-top:1px}
 .rv .nm{display:block;font-size:15px;font-weight:600;line-height:18px;color:#111}
@@ -128,7 +128,10 @@ main{background:var(--mist)}
 .rv .more[hidden]{display:none}
 .rv .more{display:block;border:0;background:none;padding:0;font-size:14px;line-height:20px;color:#006dff;color:var(--accent);cursor:pointer}
 .dots{display:flex;justify-content:center;align-items:center;gap:4px;height:27px}
-.dots button{width:4px;height:4px;padding:0;border:0;border-radius:50%;background:rgba(17,17,17,.3);cursor:pointer}
+.dots button{width:4px;height:4px;padding:0;border:0;border-radius:50%;background:rgba(17,17,17,.45);cursor:pointer}
+.dots button:nth-child(3){width:3px;height:3px;background:rgba(17,17,17,.35)}
+.dots button:nth-child(4){width:2.5px;height:2.5px;background:rgba(17,17,17,.25)}
+.dots button:nth-child(n+5){width:2px;height:2px;background:rgba(17,17,17,.2)}
 .dots button.on{width:6px;height:6px;background:#111}
 
 /* ===== How it works ===== */
@@ -186,7 +189,7 @@ main{background:var(--mist)}
 .post .lm{display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;line-height:20.02px;color:#292d49}
 .post .lm svg{width:16px;height:16px}
 .author{display:flex;align-items:center;gap:16px}
-.author .av{width:40px;height:40px;border-radius:999px;display:grid;place-items:center;font-size:15px;font-weight:600;color:#fff;background:var(--accent)}
+.author .av{width:40px;height:40px;border-radius:999px;overflow:hidden;display:grid;place-items:center;font-size:15px;font-weight:600;color:#fff;background:var(--accent)}
 .author b{display:block;font-size:16px;font-weight:500;line-height:24px}
 .author small{display:block;font-size:14px;line-height:20.02px;color:var(--body)}
 .blog-cta{display:flex;justify-content:center;margin-top:48px}
@@ -208,10 +211,12 @@ main{background:var(--mist)}
 .f-title{font-size:14px;line-height:21px;color:#737373}
 .f-link{font-size:14px;line-height:21px;color:#0a0a0a;text-decoration:none}
 .f-link:hover{text-decoration:underline}
-.f-badge{justify-self:end;width:100%;max-width:237px;aspect-ratio:237/48;display:flex;align-items:center;gap:10px;padding:0 12px;border:1px solid var(--line);border-radius:8px;background:#fff;font-size:11px;line-height:14px;color:#4b5563;text-decoration:none}
-.f-badge .g{flex:none;font-size:22px;font-weight:700;color:var(--accent)}
-.f-badge .st{display:flex;gap:1px;color:#fbbc04}
-.f-badge .st svg{width:12px;height:12px}
+.f-badge{justify-self:end;width:100%;max-width:237px;aspect-ratio:237/48;display:flex;align-items:center;gap:10px;padding:0 15px;border:1px solid var(--line);border-radius:8px;background:#fff;font-size:11px;line-height:14px;color:#4b5563;text-decoration:none}
+.f-badge .g{flex:none;width:32px;height:32px}
+.f-badge .g svg{width:32px;height:32px;display:block}
+.f-badge .st{display:flex;gap:3px;color:#fbbc04;margin-bottom:1px}
+.f-badge .st svg{width:15px;height:15px}
+.f-badge .tx{color:#5a6478;letter-spacing:.01em}
 .f-badge img{flex:none;width:26px;height:26px}
 .f-badge b{display:block;font-size:12px;line-height:15px;color:#111827;font-weight:500}
 .f-div{height:1px;background:#e5e5e5;margin:24px 0}
@@ -429,7 +434,7 @@ document.getElementById("app").innerHTML = `
         <label class="f-in">${svg.pin}<input name="zip" type="text" inputmode="numeric" maxlength="10" placeholder="ZIP Code" autocomplete="postal-code" aria-label="ZIP Code"></label>
       </div>
       <label class="consent"><input type="checkbox" name="consent"><span class="box">${svg.check}</span>
-        <p>I agreed to the ${esc(brand)} <a href="#" data-soon>privacy</a> &amp; <a href="#" data-soon>terms</a> and receiving automated texts from ${esc(brand)} at this number. Msg &amp; data rates may apply. Reply STOP to cancel, HELP for help</p></label>
+        <p>I agreed to the ${esc(short)} <a href="#" data-soon>privacy</a> &amp; <a href="#" data-soon>terms</a> and receiving automated texts from ${esc(short)} at this number. Msg &amp; data rates may apply. Reply STOP to cancel, HELP for help</p></label>
       <button type="submit" class="btn-submit">${T(P.heroBtn || "Get A Quote In Seconds")}</button>
       <p class="form-done" role="status">Thanks! We got your request and will call you shortly.</p>
       <div class="notice"><i></i><span>${T(P.heroNote || "Estimates available today!")}</span></div>
@@ -448,7 +453,7 @@ document.getElementById("app").innerHTML = `
           <div class="body">${starRow}<p class="txt">${T(r.q)}</p><button type="button" class="more">Read more</button></div>
         </div></article>`).join("")}
       </div>
-      <div class="dots" id="rvDots">${reviews.map((_, i) => `<button type="button" aria-label="Review ${i + 1}"${i ? "" : ' class="on"'}></button>`).join("")}</div>
+      <div class="dots" id="rvDots">${reviews.slice(0, 5).map((_, i) => `<button type="button" aria-label="Review ${i + 1}"${i ? "" : ' class="on"'}></button>`).join("")}</div>
     </div>
   </div></div>
 </section>
@@ -500,7 +505,7 @@ document.getElementById("app").innerHTML = `
         <img src="${esc(IMG[b.img] || IMG["service-" + (services[i] || {}).slug] || IMG["benefit-" + i] || "")}" alt="${T(b.t)}" loading="lazy">
         <div class="post-c">
           <div class="post-top"><span class="tag">${T(b.cat)}</span><h3>${T(b.t)}</h3><p class="ex">${T(b.d)}</p><span class="lm">Learn More ${svg.chevR}</span></div>
-          <div class="author"><span class="av" aria-hidden="true">${esc(initials(owner))}</span><div><b>${esc(owner)}</b><small>${esc(b.date || ago([6, 20, 37][i]))}</small></div></div>
+          <div class="author"><span class="av" aria-hidden="true">${S.ownerPhoto ? `<img src="${esc(S.ownerPhoto)}" alt="" style="width:40px;height:40px;object-fit:cover">` : esc(initials(owner))}</span><div><b>${esc(owner)}</b><small>${esc(b.date || ago([6, 20, 37][i]))}</small></div></div>
         </div>
       </a>`).join("")}
     </div>
@@ -522,7 +527,7 @@ document.getElementById("app").innerHTML = `
         ${services.slice(0, 4).map(s => `<a class="f-link" href="#services">${esc(s.name)}</a>`).join("")}</div>
       <div></div>
       ${S.googleRating
-        ? `<span class="f-badge"><span class="g">G</span><span><span class="st">${svg.star.repeat(5)}</span>${S.googleReviewCount ? `${esc(S.googleReviewCount)}+ ` : ""}Google reviews · ${esc(S.googleRating)}</span></span>`
+        ? `<span class="f-badge"><span class="g">${svg.g}</span><span><span class="st">${svg.star.repeat(5)}</span><span class="tx">${S.googleReviewCount ? `${esc(S.googleReviewCount)}+ Verified ${esc(Math.round(parseFloat(S.googleRating) || 5))}-Star Reviews` : `${esc(S.googleRating)} Stars on Google`}</span></span></span>`
         : `<span class="f-badge"><img src="${iconUrl("memo")}" alt=""><span><b>${T((P.trust || [])[0] || "Free estimates")}</b>${esc(S.phone)}</span></span>`}
     </div>
     <div class="f-div"></div>
@@ -532,9 +537,9 @@ document.getElementById("app").innerHTML = `
     </div>
     <div class="f-div"></div>
     <div class="f-legal">
-      <span>${esc(brand)} © ${new Date().getFullYear()}. All rights reserved.</span>
+      <span>${esc(brand)} ©️ ${new Date().getFullYear()}. All rights reserved.</span>
       <a class="f-link" href="#" data-soon>Privacy</a><a class="f-link" href="#" data-soon>Terms</a><a class="f-link" href="#" data-soon>Sitemap</a>
-      <span class="f-link">Web Design By <a href="https://lumeapixel.com" target="_blank" rel="noopener">LumeaPixel</a>${(S.credits || []).length ? `<details class="credits"><summary> · Photo credits</summary> Unsplash: ${(S.credits || []).map(c => `<a href="https://unsplash.com/@${esc(c.u)}" target="_blank" rel="noopener">${esc(c.n)}</a>`).join(", ")}. Icons: Microsoft Fluent Emoji (MIT).</details>` : ""}</span>
+      <span class="f-link">Web Design By <a href="https://lumeapixel.com" target="_blank" rel="noopener" style="text-decoration:none">LumeaPixel</a>${(S.credits || []).length ? `<details class="credits"><summary> · Photo credits</summary> Unsplash: ${(S.credits || []).map(c => `<a href="https://unsplash.com/@${esc(c.u)}" target="_blank" rel="noopener">${esc(c.n)}</a>`).join(", ")}. Icons: Microsoft Fluent Emoji (MIT).</details>` : ""}</span>
     </div>
   </div></div></div>
 </footer>`;
