@@ -272,7 +272,7 @@
    "niche": "landscaping",
    "brandName": "Green Paradise Solutions Inc",
    "logoWord": "Green Paradise",
-   "logoShowName": true,
+   "logoShowName": false,
    "owner": "Lopez",
    "tagline": "Lakeland, FL",
    "city": "Lakeland",
@@ -304,9 +304,9 @@
     "highlight2": "#FF7A59",
     "accentHi": "#A3E635"
    },
-   "logoUrl": "",
-   "logoUrlDark": "",
-   "logoMark": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><circle cx=\"41\" cy=\"23\" r=\"13\" fill=\"#FF7A59\"/><path d=\"M27 56 C29 44 31 34 33 24\" fill=\"none\" stroke=\"#15803D\" stroke-width=\"4.5\" stroke-linecap=\"round\"/><path d=\"M33 23 C26 14 15 14 8 21 C17 19 25 20 33 23Z\" fill=\"#15803D\"/><path d=\"M33 23 C28 25 20 31 17 41 C23 33 28 28 33 23Z\" fill=\"#84CC16\"/><path d=\"M33 23 C38 13 48 10 56 14 C47 15 40 18 33 23Z\" fill=\"#15803D\"/><path d=\"M33 23 C41 22 50 27 53 36 C46 30 40 26 33 23Z\" fill=\"#84CC16\"/><path d=\"M33 23 C32 15 35 8 41 4 C37 11 35 17 33 23Z\" fill=\"#15803D\"/><path d=\"M6 58 C18 52 30 52 42 55 C49 57 54 57 58 56 L58 60 L6 60Z\" fill=\"#84CC16\"/></svg>",
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@b90582c5efb786aa4684b6eed6a67b5112879a37/greenparadisesolutions/logo.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@b90582c5efb786aa4684b6eed6a67b5112879a37/greenparadisesolutions/logo-dark.webp",
+   "logoMark": "",
    "images": {
     "hero": "https://images.unsplash.com/photo-1561831710-3a8abd9657cf?auto=format&fit=crop&q=70&w=1800",
     "about": "https://images.unsplash.com/photo-1759009237149-c0df7135f31f?auto=format&fit=crop&q=70&w=1800",
@@ -352,7 +352,8 @@
     }
    ],
    "showTemplatePanel": false,
-   "stateName": "Florida"
+   "stateName": "Florida",
+   "logoHeight": "36px"
   },
   "about": {
    "title": "Owner-led, start to finish",

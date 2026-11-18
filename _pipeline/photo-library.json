@@ -1897,6 +1897,94 @@
    "desc": "Two chairs and a table on a house porch",
    "photographer": "Clay Banks",
    "username": "claybanks"
+  },
+  {
+   "id": "photo-1561831710-3a8abd9657cf",
+   "topics": [
+    "landscaping hero"
+   ],
+   "demos": [
+    "greenparadisesolutions"
+   ],
+   "desc": "White house with palm trees and lawn in Florida",
+   "photographer": "Tessa Edmiston"
+  },
+  {
+   "id": "photo-1759009237149-c0df7135f31f",
+   "topics": [
+    "landscaping about"
+   ],
+   "demos": [
+    "greenparadisesolutions"
+   ],
+   "desc": "Palm tree in a garden bed with flowers",
+   "photographer": "Ayotunde Ikuesan"
+  },
+  {
+   "id": "photo-1601001815894-4bb6c81416d7",
+   "topics": [
+    "landscaping benefit-0"
+   ],
+   "demos": [
+    "greenparadisesolutions"
+   ],
+   "desc": "Person tending a garden in raised beds",
+   "photographer": "Priscilla Du Preez"
+  },
+  {
+   "id": "photo-1612125595218-1cc8b5fe5543",
+   "topics": [
+    "landscaping benefit-1"
+   ],
+   "demos": [
+    "greenparadisesolutions"
+   ],
+   "desc": "Green plants in pots ready for planting",
+   "photographer": "Caspar Rae"
+  },
+  {
+   "id": "photo-1597868165956-03a6827955b1",
+   "topics": [
+    "landscaping benefit-2"
+   ],
+   "demos": [
+    "greenparadisesolutions"
+   ],
+   "desc": "Hands planting a seedling in a garden bed",
+   "photographer": "Jonathan Kemper"
+  },
+  {
+   "id": "photo-1777428762767-e3a797da389a",
+   "topics": [
+    "landscaping service-landscape-design"
+   ],
+   "demos": [
+    "greenparadisesolutions"
+   ],
+   "desc": "Large house with manicured shrubs and red flowers",
+   "photographer": "QY Liu"
+  },
+  {
+   "id": "photo-1690068023694-053da714f95f",
+   "topics": [
+    "landscaping service-lawn-care"
+   ],
+   "demos": [
+    "greenparadisesolutions"
+   ],
+   "desc": "Person mowing a green lawn with a lawn mower",
+   "photographer": "Carl Tronders"
+  },
+  {
+   "id": "photo-1734079692079-aae7e24a7035",
+   "topics": [
+    "landscaping service-sod"
+   ],
+   "demos": [
+    "greenparadisesolutions"
+   ],
+   "desc": "Hands pressing fresh green sod into soil",
+   "photographer": "FRAEM GmbH"
   }
  ],
  "examplePairs": [
