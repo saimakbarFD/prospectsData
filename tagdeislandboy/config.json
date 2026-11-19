@@ -1,0 +1,297 @@
+{
+ "slug": "tagdeislandboy",
+ "title": "Tag de Island Boy | Pressure Washing in Port St. Lucie, FL",
+ "description": "Tag de Island Boy offers house washing, roof soft washing, driveway and pool deck cleaning in Port St. Lucie, Stuart and Fort Pierce, FL. Free quotes. Call (772) 783-9733.",
+ "favicon": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Cpath%20d%3D%22M32%203C32%203%2011%2027.5%2011%2041.5A21%2021%200%200%200%2053%2041.5C53%2027.5%2032%203%2032%203Z%22%20fill%3D%22%23C2185B%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22/%3E%3Cpath%20d%3D%22M17%2043q7.5-6%2015%200t15%200%22%20fill%3D%22none%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%223.6%22%20stroke-linecap%3D%22round%22/%3E%3Cpath%20d%3D%22M20%2051.5q6-4.8%2012%200t12%200%22%20fill%3D%22none%22%20stroke%3D%22%237FE7F2%22%20stroke-width%3D%223.2%22%20stroke-linecap%3D%22round%22/%3E%3Cpath%20d%3D%22M36%2018L37.8%2024.2L44%2026L37.8%2027.8L36%2034L34.2%2027.8L28%2026L34.2%2024.2Z%22%20fill%3D%22%23FFD23F%22/%3E%3C/svg%3E",
+ "demo": {
+  "presets": {
+   "pressurewash": {
+    "label": "Pressure washing",
+    "noun": "pressure washing",
+    "demoBrand": "Tag de Island Boy",
+    "announce": "Pressure washing and soft washing across {city} and the Treasure Coast. Call {phone}.",
+    "eyebrow": "Pressure Washing in {city}, FL",
+    "h1": [
+     "Pressure washing",
+     "that brings back",
+     "your home's shine"
+    ],
+    "sub": "Florida sun, rain and humidity leave mold, algae and grime on everything. {brand} washes it off your house, roof, driveway and pool deck so your place looks new again.",
+    "badge": {
+     "big": "100%",
+     "small": "Committed To You"
+    },
+    "badgeNote": "",
+    "trust": [
+     "Free quotes",
+     "Soft wash for delicate surfaces",
+     "Local to the Treasure Coast"
+    ],
+    "ticker": [
+     [
+      "House",
+      "washing"
+     ],
+     [
+      "Roof",
+      "soft washing"
+     ],
+     [
+      "Driveway",
+      "cleaning"
+     ],
+     [
+      "Pool deck",
+      "cleaning"
+     ],
+     [
+      "Paver",
+      "cleaning"
+     ],
+     [
+      "Fence & deck",
+      "washing"
+     ]
+    ],
+    "sunTitle": [
+     "Clean",
+     "Bright",
+     "Like new"
+    ],
+    "benefits": [
+     {
+      "t": "Gentle soft wash",
+      "d": "Low pressure and the right cleaners for stucco, siding, screens and roofs, so surfaces get clean without damage."
+     },
+     {
+      "t": "Mold and mildew gone",
+      "d": "We treat the black streaks and green algae Florida humidity leaves behind, not just rinse the surface."
+     },
+     {
+      "t": "Curb appeal you can see",
+      "d": "Clean concrete, walls and pool decks make your home look cared for, whether you are hosting or selling."
+     }
+    ],
+    "stepsTitle": "How it works",
+    "stepsSub": "Getting your home washed is simple.",
+    "steps": [
+     {
+      "t": "Call or send a request",
+      "d": "Tell us what needs cleaning and send a photo if you like."
+     },
+     {
+      "t": "Get a clear quote",
+      "d": "You get a straight price before any work starts."
+     },
+     {
+      "t": "We wash, you enjoy",
+      "d": "We show up, clean everything on the list and leave the place tidy."
+     }
+    ],
+    "baTitle": "See the difference",
+    "baSub": "Example photos.",
+    "baTabs": [],
+    "galleryTitle": "Recent work",
+    "cmpTitle": "Why {city} homeowners call {brand}",
+    "cmpBad": "Doing it yourself",
+    "bad": [
+     "Renting a machine and hauling it home",
+     "High pressure that can etch concrete or strip paint",
+     "Streaks and missed spots",
+     "Mold back in a few weeks",
+     "A whole weekend gone"
+    ],
+    "good": [
+     "We bring the equipment",
+     "Right pressure for every surface",
+     "Even, streak free results",
+     "Treated, not just rinsed",
+     "Your weekend stays free"
+    ],
+    "svcTitle": "Our Services",
+    "svcSub": "Exterior cleaning for homes across {city} and nearby towns.",
+    "services": [
+     {
+      "slug": "house-washing",
+      "name": "House Washing",
+      "d": "Soft wash for stucco, siding and trim that removes dirt, mold and mildew.",
+      "long": "Florida stucco and siding collect dirt, black mildew and green algae fast. We soft wash your walls, trim, soffits and screens with low pressure and the right cleaners, so your home gets clean without damage to paint or plants."
+     },
+     {
+      "slug": "driveway-cleaning",
+      "name": "Driveway & Concrete Cleaning",
+      "d": "Driveways, sidewalks and walkways cleaned of stains, mold and tire marks.",
+      "long": "Driveways and sidewalks take a beating from tires, rust, oil and mold. We surface clean your concrete for an even, bright finish and rinse away the grime, so the front of your home looks sharp again."
+     },
+     {
+      "slug": "roof-soft-washing",
+      "name": "Roof Soft Washing",
+      "d": "Low pressure roof cleaning for tile and shingle roofs.",
+      "long": "Those dark streaks on Florida roofs are usually algae. We clean tile and shingle roofs with a low pressure soft wash, never blasting, so the roof looks clean and the shingles and tiles stay intact."
+     },
+     {
+      "slug": "pool-deck-cleaning",
+      "name": "Pool Deck & Patio Cleaning",
+      "d": "Pool decks, patios and lanais cleaned and made safer underfoot.",
+      "long": "Pool decks and patios get slippery and stained from algae and sunscreen. We clean pavers, concrete and lanai floors around the pool so they look bright and feel safer to walk on."
+     },
+     {
+      "slug": "paver-cleaning",
+      "name": "Paver Cleaning",
+      "d": "Brick and paver surfaces washed and rinsed clean.",
+      "long": ""
+     },
+     {
+      "slug": "fence-deck-washing",
+      "name": "Fence & Deck Washing",
+      "d": "Wood, vinyl and composite fences and decks brightened up.",
+      "long": ""
+     },
+     {
+      "slug": "gutter-brightening",
+      "name": "Gutter Brightening",
+      "d": "Outside of gutters cleaned of black tiger stripes.",
+      "long": ""
+     }
+    ],
+    "sticker": {
+     "top": "Free",
+     "big": "Quotes",
+     "band": "Call {phone}"
+    },
+    "reviews": [
+     {
+      "q": "Our driveway looked brand new after they were done. Neighbors asked who we used.",
+      "n": "Sample review"
+     },
+     {
+      "q": "They soft washed the house and the black streaks on the roof are gone. Friendly and on time.",
+      "n": "Sample review"
+     },
+     {
+      "q": "Pool deck was green and slippery. Now it is bright and clean. Will call again.",
+      "n": "Sample review"
+     }
+    ],
+    "faqs": [
+     {
+      "q": "What is the difference between pressure washing and soft washing?",
+      "a": "Pressure washing uses high pressure for hard surfaces like concrete. Soft washing uses low pressure and cleaners for roofs, stucco and siding that high pressure could damage."
+     },
+     {
+      "q": "Is it safe for my plants and pets?",
+      "a": "We wet down plants before and after, and we use cleaners suited to the job. Just keep pets inside while we work."
+     },
+     {
+      "q": "How often should I wash my house in Florida?",
+      "a": "Most homes in our humid climate look best with a wash about once a year, and driveways and pool decks often a bit more."
+     },
+     {
+      "q": "Do I need to be home?",
+      "a": "Not always. As long as we can reach an outdoor water spigot, we can often do the job while you are out."
+     }
+    ],
+    "ctaTitle": "Ready for a cleaner home?",
+    "ctaSub": "Call {phone} or send a request and {owner} will get back to you with a free quote.",
+    "formAsk": "What would you like cleaned?",
+    "ctaBandTitle": "Ready To Make Your Home Shine?"
+   }
+  },
+  "settings": {
+   "niche": "pressurewash",
+   "brandName": "Tag de Island Boy",
+   "logoWord": "Island Boy",
+   "logoShowName": true,
+   "owner": "Marlin",
+   "tagline": "Pressure Washing",
+   "city": "Port St. Lucie",
+   "state": "FL",
+   "zip": "",
+   "address": "",
+   "phone": "(772) 783-9733",
+   "email": "",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "Port St. Lucie",
+    "Tradition",
+    "St. Lucie West",
+    "Fort Pierce",
+    "Stuart",
+    "Jensen Beach",
+    "Palm City",
+    "Hutchinson Island",
+    "Hobe Sound",
+    "Vero Beach"
+   ],
+   "colors": {
+    "primary": "#0052A3",
+    "accent": "#C2185B",
+    "highlight": "#FFD23F",
+    "highlight2": "#7FE7F2",
+    "accentHi": "#FFD23F"
+   },
+   "logoUrl": "",
+   "logoUrlDark": "",
+   "images": {
+    "hero": "https://images.unsplash.com/photo-1555636222-cae831e670b3?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1677956787377-a0f32c0974af?auto=format&fit=crop&q=70&w=1000",
+    "benefit-0": "https://images.unsplash.com/photo-1775235288784-57296a26b75c?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1782235869457-069673be2dc3?auto=format&fit=crop&q=70&w=900",
+    "service-house-washing": "https://images.unsplash.com/photo-1561831710-3a8abd9657cf?auto=format&fit=crop&q=70&w=900",
+    "service-driveway-cleaning": "https://images.unsplash.com/photo-1718152521364-b9655b8a7926?auto=format&fit=crop&q=70&w=900",
+    "service-roof-soft-washing": "https://images.unsplash.com/photo-1610056868457-e61d6f9eeb86?auto=format&fit=crop&q=70&w=900",
+    "service-pool-deck-cleaning": "https://images.unsplash.com/photo-1712262825804-54f74e7caa7a?auto=format&fit=crop&q=70&w=900"
+   },
+   "credits": [
+    {
+     "n": "FilterGrade",
+     "u": "filtergrade"
+    },
+    {
+     "n": "Adrian Raudaschl",
+     "u": "raudaschl"
+    },
+    {
+     "n": "Ritam Baishya",
+     "u": "ritambaishya"
+    },
+    {
+     "n": "Anastase Maragos",
+     "u": "visualsbyroyalz"
+    },
+    {
+     "n": "Tessa Edmiston",
+     "u": "thewildflowerpress"
+    },
+    {
+     "n": "The Graphic Space",
+     "u": "thegraphicspace"
+    },
+    {
+     "n": "David Cashbaugh",
+     "u": "dcashbaugh"
+    },
+    {
+     "n": "Luke Witter",
+     "u": "lukewitter"
+    }
+   ],
+   "showTemplatePanel": false,
+   "stateName": "Florida",
+   "logoMark": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><path d=\"M32 3C32 3 11 27.5 11 41.5A21 21 0 0 0 53 41.5C53 27.5 32 3 32 3Z\" fill=\"#C2185B\" stroke=\"#FFFFFF\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/><path d=\"M17 43q7.5-6 15 0t15 0\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"3.6\" stroke-linecap=\"round\"/><path d=\"M20 51.5q6-4.8 12 0t12 0\" fill=\"none\" stroke=\"#7FE7F2\" stroke-width=\"3.2\" stroke-linecap=\"round\"/><path d=\"M36 18L37.8 24.2L44 26L37.8 27.8L36 34L34.2 27.8L28 26L34.2 24.2Z\" fill=\"#FFD23F\"/></svg>"
+  },
+  "about": {
+   "title": "Your Treasure Coast cleaning crew",
+   "sub": "{brand} is a local {city} pressure washing company run by {owner}. We clean homes, roofs, driveways and pool decks across the Treasure Coast.",
+   "points": [
+    "You deal directly with {owner}, not a call center.",
+    "Clear quotes and careful work on every surface.",
+    "Serving {city}, Stuart, Fort Pierce and nearby towns."
+   ]
+  }
+ },
+ "design": "summit"
+}
