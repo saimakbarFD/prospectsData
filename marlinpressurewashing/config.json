@@ -1,14 +1,14 @@
 {
  "slug": "marlinpressurewashing",
- "title": "Tag de Island Boy | Pressure Washing in Port St. Lucie, FL",
- "description": "Tag de Island Boy offers house washing, roof soft washing, driveway and pool deck cleaning in Port St. Lucie, Stuart and Fort Pierce, FL. Free quotes. Call (772) 783-9733.",
- "favicon": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Cpath%20d%3D%22M32%203C32%203%2011%2027.5%2011%2041.5A21%2021%200%200%200%2053%2041.5C53%2027.5%2032%203%2032%203Z%22%20fill%3D%22%23C2185B%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%222.5%22%20stroke-linejoin%3D%22round%22/%3E%3Cpath%20d%3D%22M17%2043q7.5-6%2015%200t15%200%22%20fill%3D%22none%22%20stroke%3D%22%23FFFFFF%22%20stroke-width%3D%223.6%22%20stroke-linecap%3D%22round%22/%3E%3Cpath%20d%3D%22M20%2051.5q6-4.8%2012%200t12%200%22%20fill%3D%22none%22%20stroke%3D%22%237FE7F2%22%20stroke-width%3D%223.2%22%20stroke-linecap%3D%22round%22/%3E%3Cpath%20d%3D%22M36%2018L37.8%2024.2L44%2026L37.8%2027.8L36%2034L34.2%2027.8L28%2026L34.2%2024.2Z%22%20fill%3D%22%23FFD23F%22/%3E%3C/svg%3E",
+ "title": "Island Boy Pressure Washing | Pressure Washing in Port St. Lucie, FL",
+ "description": "Island Boy Pressure Washing offers house washing, roof soft washing, driveway and pool deck cleaning in Port St. Lucie, Stuart and Fort Pierce, FL. Free quotes. Call (772) 783-9733.",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@5a2fe9020483b992cde074ab8b1ccbbca15cd1a0/marlinpressurewashing/favicon.webp",
  "demo": {
   "presets": {
    "pressurewash": {
     "label": "Pressure washing",
     "noun": "pressure washing",
-    "demoBrand": "Tag de Island Boy",
+    "demoBrand": "Island Boy Pressure Washing",
     "announce": "Pressure washing and soft washing across {city} and the Treasure Coast. Call {phone}.",
     "eyebrow": "Pressure Washing in {city}, FL",
     "h1": [
@@ -199,9 +199,9 @@
   },
   "settings": {
    "niche": "pressurewash",
-   "brandName": "Tag de Island Boy",
+   "brandName": "Island Boy Pressure Washing",
    "logoWord": "Island Boy",
-   "logoShowName": true,
+   "logoShowName": false,
    "owner": "Marlin",
    "tagline": "Pressure Washing",
    "city": "Port St. Lucie",
@@ -227,14 +227,14 @@
     "Vero Beach"
    ],
    "colors": {
-    "primary": "#0052A3",
-    "accent": "#C2185B",
-    "highlight": "#FFD23F",
-    "highlight2": "#7FE7F2",
-    "accentHi": "#FFD23F"
+    "primary": "#0B1B3F",
+    "accent": "#C41E3A",
+    "highlight": "#F0707E",
+    "highlight2": "#FFFFFF",
+    "accentHi": "#F0707E"
    },
-   "logoUrl": "",
-   "logoUrlDark": "",
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@5a2fe9020483b992cde074ab8b1ccbbca15cd1a0/marlinpressurewashing/logo.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@5a2fe9020483b992cde074ab8b1ccbbca15cd1a0/marlinpressurewashing/logo-dark.webp",
    "images": {
     "hero": "https://images.unsplash.com/photo-1555636222-cae831e670b3?auto=format&fit=crop&q=70&w=1800",
     "about": "https://images.unsplash.com/photo-1677956787377-a0f32c0974af?auto=format&fit=crop&q=70&w=1000",
@@ -281,7 +281,7 @@
    ],
    "showTemplatePanel": false,
    "stateName": "Florida",
-   "logoMark": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><path d=\"M32 3C32 3 11 27.5 11 41.5A21 21 0 0 0 53 41.5C53 27.5 32 3 32 3Z\" fill=\"#C2185B\" stroke=\"#FFFFFF\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/><path d=\"M17 43q7.5-6 15 0t15 0\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"3.6\" stroke-linecap=\"round\"/><path d=\"M20 51.5q6-4.8 12 0t12 0\" fill=\"none\" stroke=\"#7FE7F2\" stroke-width=\"3.2\" stroke-linecap=\"round\"/><path d=\"M36 18L37.8 24.2L44 26L37.8 27.8L36 34L34.2 27.8L28 26L34.2 24.2Z\" fill=\"#FFD23F\"/></svg>"
+   "logoHeight": "96px"
   },
   "about": {
    "title": "Your Treasure Coast cleaning crew",
