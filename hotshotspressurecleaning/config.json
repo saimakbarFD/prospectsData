@@ -1,0 +1,371 @@
+{
+ "slug": "hotshotspressurecleaning",
+ "title": "HotShots Pressure Cleaning Services | Pressure Washing in Cape Coral, FL",
+ "description": "HotShots Pressure Cleaning Services washes Cape Coral, FL homes: house washing, driveways, roof soft washing, pool decks and pavers. Call (239) 240-9974.",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@68a3a4d9dec38ceb809b92e0c3cbef4ff2c3f7a9/montelawncare/favicon.webp",
+ "demo": {
+  "presets": {
+   "pressurewash": {
+    "label": "Pressure Washing",
+    "noun": "Pressure Washing & Soft Washing",
+    "demoBrand": "HotShots Pressure Cleaning Services",
+    "announce": "Free quotes · Now booking pressure washing in {city}",
+    "eyebrow": "{city} pressure washing service",
+    "h1": [
+     "Pressure washing",
+     "that makes your",
+     "home shine"
+    ],
+    "sub": "House washing, driveways, roofs and pool decks for {city} homes. One local crew that shows up on time and leaves everything looking like new.",
+    "badge": {
+     "big": "Free",
+     "small": "quotes in minutes"
+    },
+    "badgeNote": "",
+    "trust": [
+     "Free quotes",
+     "Local {city} crew",
+     "Spotless finish every time"
+    ],
+    "ticker": [
+     [
+      "Free quotes",
+      "Booking now"
+     ],
+     [
+      "House washing",
+      "Fresh exteriors"
+     ],
+     [
+      "Driveways",
+      "Like new again"
+     ],
+     [
+      "Roofs",
+      "Soft washed"
+     ],
+     [
+      "Pool decks",
+      "Slip free"
+     ],
+     [
+      "Lee County",
+      "Serving now"
+     ]
+    ],
+    "sunTitle": [
+     "Wash",
+     "Rinse",
+     "Shine"
+    ],
+    "benefits": [
+     {
+      "t": "Cleaned the right way",
+      "d": "Soft washing for roofs and siding, higher pressure for concrete, so every surface gets what it needs."
+     },
+     {
+      "t": "Built for Florida homes",
+      "d": "Algae, mildew and rust stains from the heat and humidity, cleaned off your home, driveway and lanai."
+     },
+     {
+      "t": "A clean job site",
+      "d": "We rinse, tidy and leave your property looking better than we found it."
+     }
+    ],
+    "stepsTitle": "How it works",
+    "stepsSub": "Simple, honest pressure washing from first call to final rinse.",
+    "steps": [
+     {
+      "t": "Request a free quote",
+      "d": "Tell us what needs cleaning and we give you a clear price."
+     },
+     {
+      "t": "We wash it clean",
+      "d": "Our crew arrives on the day you picked and gets to work."
+     },
+     {
+      "t": "Enjoy the fresh look",
+      "d": "Your home, driveway and patio look brand new again."
+     }
+    ],
+    "baTitle": "Before and after the wash.",
+    "baSub": "Example photos. Your finished jobs will go here.",
+    "baTabs": [],
+    "galleryTitle": "The kind of surfaces we bring back to life",
+    "cmpTitle": "Doing it yourself vs. calling HotShots",
+    "cmpBad": "Doing it yourself",
+    "bad": [
+     "Renting or buying a pressure washer",
+     "Streaks and etched concrete",
+     "Risk of damaging siding or roof",
+     "Hours lost on a weekend",
+     "Stains that come right back"
+    ],
+    "good": [
+     "Pro equipment, no rental",
+     "Even, streak free results",
+     "Safe methods for every surface",
+     "Your weekend back",
+     "Algae and mildew cleaned at the source"
+    ],
+    "svcTitle": "What we do",
+    "svcSub": "Pressure washing and soft washing for {city} homes and businesses.",
+    "services": [
+     {
+      "slug": "house-washing",
+      "name": "House washing",
+      "d": "Soft wash and rinse for stucco, siding and trim. Algae, mildew and dirt gone.",
+      "icon": "house"
+     },
+     {
+      "slug": "driveway-cleaning",
+      "name": "Driveway & concrete cleaning",
+      "d": "Oil, rust and grime lifted from driveways, walkways and garage floors.",
+      "icon": "sweat-droplets"
+     },
+     {
+      "slug": "roof-soft-washing",
+      "name": "Roof soft washing",
+      "d": "Gentle low pressure cleaning that removes black streaks from tile and shingle roofs.",
+      "icon": "umbrella-with-rain-drops"
+     },
+     {
+      "slug": "pool-deck-lanai-cleaning",
+      "name": "Pool deck & lanai cleaning",
+      "d": "Pool decks, cages and lanais cleaned for a bright, slip resistant finish.",
+      "icon": "water-wave"
+     },
+     {
+      "slug": "paver-cleaning",
+      "name": "Paver cleaning",
+      "d": "Pavers and patios cleaned down to the color, with weeds and algae cleared out.",
+      "icon": "brick"
+     },
+     {
+      "slug": "fence-cleaning",
+      "name": "Fence & wall cleaning",
+      "d": "Vinyl, wood and block fences and walls washed free of green buildup.",
+      "icon": "sponge"
+     },
+     {
+      "slug": "commercial-washing",
+      "name": "Commercial pressure washing",
+      "d": "Storefronts, sidewalks, dumpster pads and parking areas kept clean and welcoming.",
+      "icon": "office-building"
+     }
+    ],
+    "sticker": {
+     "top": "Lee County",
+     "big": "Pressure Washing",
+     "band": "Wash · Rinse · Shine"
+    },
+    "reviews": [
+     {
+      "q": "Our house had green streaks all over the stucco. David and his crew washed the whole thing and it looks brand new. Great price too.",
+      "n": "Karen T."
+     },
+     {
+      "q": "They cleaned the driveway, walkway and pool deck in one visit. Showed up on time, explained everything and left the place spotless.",
+      "n": "Mike R."
+     },
+     {
+      "q": "Our roof had black streaks for years. After the soft wash it looks like a new roof. We will be calling again next year.",
+      "n": "Linda S."
+     }
+    ],
+    "faqs": [
+     {
+      "q": "What areas do you serve?",
+      "a": "Cape Coral and nearby towns like Fort Myers, North Fort Myers, Bonita Springs and Lehigh Acres. Call and we will let you know."
+     },
+     {
+      "q": "How much does pressure washing cost?",
+      "a": "It depends on the size of the job and the surfaces. Send us a few details and you get a clear price before any work starts."
+     },
+     {
+      "q": "Is soft washing safe for my roof and siding?",
+      "a": "Yes. Soft washing uses low pressure and a cleaning solution, so it lifts algae and stains without damaging roofs, stucco or siding."
+     },
+     {
+      "q": "How often should I pressure wash my home?",
+      "a": "In Florida most homes do well with a wash about once a year, since heat, rain and humidity make algae and mildew come back fast."
+     },
+     {
+      "q": "Do I need to be home during the service?",
+      "a": "Not usually. We just need outdoor water access and clear access to the areas being cleaned. We will confirm the details when you book."
+     }
+    ],
+    "ctaTitle": "Get your free quote",
+    "ctaSub": "Tell us what needs cleaning and we'll call you back with a price.",
+    "formAsk": "What would you like cleaned?",
+    "heroSub": "House, driveway & roof washing made easy.",
+    "heroNote": "Free quotes available today!",
+    "howTitle": "How HotShots works",
+    "moreTitle": "More than just pressure washing",
+    "moreSub": "Roofs? Pool decks? Yes, we do that too.",
+    "pills": [
+     {
+      "t": "Free quotes",
+      "icon": "memo"
+     },
+     {
+      "t": "Soft wash roofs",
+      "icon": "umbrella-with-rain-drops"
+     },
+     {
+      "t": "Spotless driveways",
+      "icon": "sparkles"
+     },
+     {
+      "t": "Pool deck cleaning",
+      "icon": "water-wave"
+     },
+     {
+      "t": "Talk to David direct",
+      "icon": "speech-balloon"
+     },
+     {
+      "t": "Algae and mildew gone",
+      "icon": "droplet"
+     },
+     {
+      "t": "Rust stain removal",
+      "icon": "sponge"
+     },
+     {
+      "t": "Made for Florida homes",
+      "icon": "sun"
+     },
+     {
+      "t": "Paver cleaning",
+      "icon": "brick"
+     },
+     {
+      "t": "Quick scheduling",
+      "icon": "spiral-calendar"
+     }
+    ],
+    "blog": [
+     {
+      "cat": "Home Care Tips",
+      "t": "How Often Should You Pressure Wash Your House in Florida?",
+      "d": "Heat, rain and humidity feed algae and mildew. Here is how often a wash keeps your home looking fresh.",
+      "img": "service-house-washing"
+     },
+     {
+      "cat": "Driveway Care",
+      "t": "How to Get Rust and Oil Stains Off a Concrete Driveway",
+      "d": "Stains set in fast under the Florida sun. Here is what lifts them and when to call a pro.",
+      "img": "service-driveway-cleaning"
+     },
+     {
+      "cat": "Roof Care",
+      "t": "Soft Washing vs. Pressure Washing: What Is Safe for Your Roof?",
+      "d": "Black streaks on a roof are algae. Here is why low pressure soft washing is the safe way to remove them.",
+      "img": "service-roof-soft-washing"
+     }
+    ],
+    "bigQuote": "A spotless home, driveway and roof, so your place looks its best again."
+   }
+  },
+  "settings": {
+   "niche": "pressurewash",
+   "brandName": "HotShots Pressure Cleaning Services",
+   "logoWord": "HotShots",
+   "logoShowName": false,
+   "owner": "David",
+   "tagline": "Cape Coral, FL",
+   "city": "Cape Coral",
+   "state": "FL",
+   "zip": "",
+   "address": "",
+   "phone": "(239) 240-9974",
+   "email": "",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "Cape Coral",
+    "Fort Myers",
+    "North Fort Myers",
+    "Bonita Springs",
+    "Estero",
+    "Lehigh Acres",
+    "Punta Gorda",
+    "Port Charlotte",
+    "Naples",
+    "Sanibel",
+    "Pine Island",
+    "Matlacha",
+    "Fort Myers Beach",
+    "Marco Island",
+    "Alva"
+   ],
+   "colors": {
+    "primary": "#16110F",
+    "accent": "#C4161C",
+    "highlight": "#F2B82E",
+    "highlight2": "#D8D9DE",
+    "accentHi": "#F2B82E"
+   },
+   "images": {
+    "hero": "https://images.unsplash.com/photo-1628133287836-40bd5453bed1?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1773427617774-d9ce7493b3d8?auto=format&fit=crop&q=70&w=1800",
+    "benefit-0": "https://images.unsplash.com/photo-1759496607068-f2892afdaf23?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1458245201577-fc8a130b8829?auto=format&fit=crop&q=70&w=900",
+    "benefit-2": "https://images.unsplash.com/photo-1783770118062-08ce05c9eb5f?auto=format&fit=crop&q=70&w=900",
+    "service-lawn-mowing": "https://images.unsplash.com/photo-1782613064276-750c3a3ccdec?auto=format&fit=crop&q=70&w=1100",
+    "service-hedge-trimming": "https://images.unsplash.com/photo-1788610830488-1343095c571c?auto=format&fit=crop&q=70&w=1100",
+    "service-yard-cleanup": "https://images.unsplash.com/photo-1742093798423-d001d215e59f?auto=format&fit=crop&q=70&w=1100"
+   },
+   "credits": [
+    {
+     "n": "Ian MacDonald",
+     "u": "imacdonald3"
+    },
+    {
+     "n": "Roger Starnes Sr",
+     "u": "rstar50"
+    },
+    {
+     "n": "Lara John",
+     "u": "lara_j"
+    },
+    {
+     "n": "Daniel Watson",
+     "u": "danielwatsondesign"
+    },
+    {
+     "n": "Dušan Tizić",
+     "u": "dusantizic"
+    },
+    {
+     "n": "Kenny Perez",
+     "u": "kenny_kalix"
+    },
+    {
+     "n": "Mustafa Turhan",
+     "u": "mustaphaturhan"
+    },
+    {
+     "n": "Austin",
+     "u": "austin_7792"
+    }
+   ],
+   "showTemplatePanel": false,
+   "stateName": "Florida",
+   "logoHeight": "58px"
+  },
+  "about": {
+   "title": "Owner-led, every job",
+   "sub": "{owner} runs {brand} and takes pride in every wash, from the first quote to the final rinse.",
+   "points": [
+    "You talk to the owner, not a call center.",
+    "Straight answers on price and schedule.",
+    "Serving {city}, Fort Myers and the rest of Lee County."
+   ]
+  }
+ },
+ "design": "glide"
+}
