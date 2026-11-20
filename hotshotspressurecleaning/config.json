@@ -2,7 +2,7 @@
  "slug": "hotshotspressurecleaning",
  "title": "HotShots Pressure Cleaning Services | Pressure Washing in Cape Coral, FL",
  "description": "HotShots Pressure Cleaning Services washes Cape Coral, FL homes: house washing, driveways, roof soft washing, pool decks and pavers. Call (239) 240-9974.",
- "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@68a3a4d9dec38ceb809b92e0c3cbef4ff2c3f7a9/montelawncare/favicon.webp",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@75aa18d3cd31bed776070290d95c25895b1ee733/hotshotspressurecleaning/favicon.webp",
  "demo": {
   "presets": {
    "pressurewash": {
@@ -310,52 +310,53 @@
     "accentHi": "#F2B82E"
    },
    "images": {
-    "hero": "https://images.unsplash.com/photo-1628133287836-40bd5453bed1?auto=format&fit=crop&q=70&w=1800",
-    "about": "https://images.unsplash.com/photo-1773427617774-d9ce7493b3d8?auto=format&fit=crop&q=70&w=1800",
-    "benefit-0": "https://images.unsplash.com/photo-1759496607068-f2892afdaf23?auto=format&fit=crop&q=70&w=900",
-    "benefit-1": "https://images.unsplash.com/photo-1458245201577-fc8a130b8829?auto=format&fit=crop&q=70&w=900",
-    "benefit-2": "https://images.unsplash.com/photo-1783770118062-08ce05c9eb5f?auto=format&fit=crop&q=70&w=900",
-    "service-lawn-mowing": "https://images.unsplash.com/photo-1782613064276-750c3a3ccdec?auto=format&fit=crop&q=70&w=1100",
-    "service-hedge-trimming": "https://images.unsplash.com/photo-1788610830488-1343095c571c?auto=format&fit=crop&q=70&w=1100",
-    "service-yard-cleanup": "https://images.unsplash.com/photo-1742093798423-d001d215e59f?auto=format&fit=crop&q=70&w=1100"
+    "hero": "https://images.unsplash.com/photo-1778166166465-c04835fb379a?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1774031159721-aec9230f38db?auto=format&fit=crop&q=70&w=1600",
+    "benefit-0": "https://images.unsplash.com/photo-1560184897-ae75f418493e?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1677956787377-a0f32c0974af?auto=format&fit=crop&q=70&w=900",
+    "benefit-2": "https://images.unsplash.com/photo-1647579350687-d409523aabcc?auto=format&fit=crop&q=70&w=900",
+    "service-house-washing": "https://images.unsplash.com/photo-1721620780493-e905708eba0b?auto=format&fit=crop&q=70&w=900",
+    "service-driveway-cleaning": "https://images.unsplash.com/photo-1783125127143-d4e18726bab3?auto=format&fit=crop&q=70&w=900",
+    "service-roof-soft-washing": "https://images.unsplash.com/photo-1605450099279-533bd3ce379a?auto=format&fit=crop&q=70&w=900"
    },
    "credits": [
     {
-     "n": "Ian MacDonald",
-     "u": "imacdonald3"
+     "n": "Valentin Lacoste",
+     "u": "valentinlacoste"
     },
     {
-     "n": "Roger Starnes Sr",
-     "u": "rstar50"
+     "n": "Infinara",
+     "u": "infinara"
     },
     {
-     "n": "Lara John",
-     "u": "lara_j"
+     "n": "Francesca Tosolini",
+     "u": "fromitaly"
     },
     {
-     "n": "Daniel Watson",
-     "u": "danielwatsondesign"
+     "n": "Adrian Raudaschl",
+     "u": "raudaschl"
     },
     {
-     "n": "Dušan Tizić",
-     "u": "dusantizic"
+     "n": "Eric Ardito",
+     "u": "ericardito"
     },
     {
-     "n": "Kenny Perez",
-     "u": "kenny_kalix"
+     "n": "Joshua Bowers",
+     "u": "joshua_sx"
     },
     {
-     "n": "Mustafa Turhan",
-     "u": "mustaphaturhan"
+     "n": "Salvo Media LLC",
+     "u": "salvomedia"
     },
     {
-     "n": "Austin",
-     "u": "austin_7792"
+     "n": "ROCCO STOPPOLONI",
+     "u": "sstoppo"
     }
    ],
    "showTemplatePanel": false,
    "stateName": "Florida",
-   "logoHeight": "58px"
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@75aa18d3cd31bed776070290d95c25895b1ee733/hotshotspressurecleaning/logo.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@75aa18d3cd31bed776070290d95c25895b1ee733/hotshotspressurecleaning/logo.webp"
   },
   "about": {
    "title": "Owner-led, every job",

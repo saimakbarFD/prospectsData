@@ -2092,7 +2092,8 @@
     "pressure washing about"
    ],
    "demos": [
-    "marlinpressurewashing"
+    "marlinpressurewashing",
+    "hotshotspressurecleaning"
    ],
    "desc": "Man using a pressure washer",
    "photographer": "Adrian Raudaschl|raudaschl"
@@ -2151,6 +2152,69 @@
    ],
    "desc": "Backyard pool and deck in sun",
    "photographer": "Luke Witter|lukewitter"
+  },
+  {
+   "id": "photo-1778166166465-c04835fb379a",
+   "topics": [
+    "pressure washing hero"
+   ],
+   "demos": [
+    "hotshotspressurecleaning"
+   ]
+  },
+  {
+   "id": "photo-1774031159721-aec9230f38db",
+   "topics": [
+    "pressure washing about"
+   ],
+   "demos": [
+    "hotshotspressurecleaning"
+   ]
+  },
+  {
+   "id": "photo-1560184897-ae75f418493e",
+   "topics": [
+    "pressure washing step: free quote (porch)"
+   ],
+   "demos": [
+    "hotshotspressurecleaning"
+   ]
+  },
+  {
+   "id": "photo-1647579350687-d409523aabcc",
+   "topics": [
+    "pressure washing step: clean Florida house"
+   ],
+   "demos": [
+    "hotshotspressurecleaning"
+   ]
+  },
+  {
+   "id": "photo-1721620780493-e905708eba0b",
+   "topics": [
+    "pressure washing service: house washing"
+   ],
+   "demos": [
+    "hotshotspressurecleaning"
+   ]
+  },
+  {
+   "id": "photo-1783125127143-d4e18726bab3",
+   "topics": [
+    "pressure washing service: driveway cleaning"
+   ],
+   "demos": [
+    "hotshotspressurecleaning"
+   ]
+  },
+  {
+   "id": "photo-1605450099279-533bd3ce379a",
+   "topics": [
+    "pressure washing service: roof soft washing"
+   ],
+   "demos": [
+    "hotshotspressurecleaning"
+   ]
   }
  ],
  "examplePairs": [
