@@ -505,7 +505,7 @@
     "dalmerconstruction"
    ],
    "desc": "carpenter's hands on a table saw, dark",
-   "photographer": "Minh Đức|meanduck"
+   "photographer": "Minh \u0110\u1ee9c|meanduck"
   },
   {
    "id": "photo-1556156653-e5a7c69cc263",
@@ -1380,7 +1380,7 @@
     "interstatepropertysolutions"
    ],
    "desc": "modern beige duplex with two garages",
-   "photographer": "Danielle-Claude Bélanger|dcbelanger"
+   "photographer": "Danielle-Claude B\u00e9langer|dcbelanger"
   },
   {
    "id": "photo-1769409302549-48176f1b0c3f",
@@ -1468,7 +1468,7 @@
     "przexteriors"
    ],
    "desc": "Overcast sky above a residential neighborhood of rooftops, PRZ Exteriors Mesquite TX",
-   "photographer": "ESMA // 에스마|esima1311"
+   "photographer": "ESMA // \uc5d0\uc2a4\ub9c8|esima1311"
   },
   {
    "id": "photo-1793922014224-ca6db8d65e73",
@@ -1644,7 +1644,7 @@
     "metroplexhousedoctors"
    ],
    "desc": "carpenter working wood in a workshop",
-   "photographer": "Minh Đức"
+   "photographer": "Minh \u0110\u1ee9c"
   },
   {
    "id": "photo-1630444945993-ffe41629055e",
@@ -1751,7 +1751,7 @@
     "montecristofencing"
    ],
    "desc": "Two rustic wooden fence posts with wire",
-   "photographer": "aurélie sgnl",
+   "photographer": "aur\u00e9lie sgnl",
    "username": "entre2vue"
   },
   {
@@ -2040,7 +2040,7 @@
     "montelawncare"
    ],
    "desc": "person relaxing on a lounge chair in a green garden",
-   "photographer": "Dušan Tizić"
+   "photographer": "Du\u0161an Tizi\u0107"
   },
   {
    "id": "photo-1782613064276-750c3a3ccdec",
@@ -2347,6 +2347,94 @@
    ],
    "desc": "clean turquoise pool edge (after)",
    "photographer": "Artem Kniaz|artem_kniaz"
+  },
+  {
+   "id": "photo-1561988393-048230aed0b5",
+   "topics": [
+    "lawn care hero: white house beside tall palm trees, Florida"
+   ],
+   "demos": [
+    "precisionlawncare"
+   ],
+   "desc": "lawn care hero: white house beside tall palm trees, Florida",
+   "photographer": "Tessa Edmiston|thewildflowerpress"
+  },
+  {
+   "id": "photo-1696465484663-c32550edc9f7",
+   "topics": [
+    "lawn care about: wide lawn lined with palm trees"
+   ],
+   "demos": [
+    "precisionlawncare"
+   ],
+   "desc": "lawn care about: wide lawn lined with palm trees",
+   "photographer": "Bob Osias|fotographyfanatik"
+  },
+  {
+   "id": "photo-1637531347055-4fa8aa80c111",
+   "topics": [
+    "lawn care step: landscaper in green shirt with tools"
+   ],
+   "demos": [
+    "precisionlawncare"
+   ],
+   "desc": "lawn care step: landscaper in green shirt with tools",
+   "photographer": "Noorulabdeen Ahmad|noorulabdeen"
+  },
+  {
+   "id": "photo-1543309959-4d45288d1629",
+   "topics": [
+    "lawn care step: trimming a hedge"
+   ],
+   "demos": [
+    "precisionlawncare"
+   ],
+   "desc": "lawn care step: trimming a hedge",
+   "photographer": "Peter Beukema|peterbeukema"
+  },
+  {
+   "id": "photo-1628625251833-04eeafb7a2db",
+   "topics": [
+    "lawn care step: well-kept green backyard lawn"
+   ],
+   "demos": [
+    "precisionlawncare"
+   ],
+   "desc": "lawn care step: well-kept green backyard lawn",
+   "photographer": "Zac Gudakov|zacgudakov"
+  },
+  {
+   "id": "photo-1750987776992-19c2abd847ee",
+   "topics": [
+    "lawn care service: man on riding mower"
+   ],
+   "demos": [
+    "precisionlawncare"
+   ],
+   "desc": "lawn care service: man on riding mower",
+   "photographer": "sydney Rae|srz"
+  },
+  {
+   "id": "photo-1684332666088-f35b252b5aca",
+   "topics": [
+    "tree service: man cutting tree with chainsaw"
+   ],
+   "demos": [
+    "precisionlawncare"
+   ],
+   "desc": "tree service: man cutting tree with chainsaw",
+   "photographer": "kasia|kachkwat"
+  },
+  {
+   "id": "photo-1777428762770-1a5e225b1681",
+   "topics": [
+    "landscaping: lush garden with azaleas and shrubs"
+   ],
+   "demos": [
+    "precisionlawncare"
+   ],
+   "desc": "landscaping: lush garden with azaleas and shrubs",
+   "photographer": "QY Liu|qy_liu"
   }
  ],
  "examplePairs": [
