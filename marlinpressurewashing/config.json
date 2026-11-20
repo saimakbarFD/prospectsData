@@ -9,7 +9,7 @@
     "label": "Pressure washing",
     "noun": "pressure washing",
     "demoBrand": "Island Boy Pressure Washing",
-    "announce": "Pressure washing and soft washing across {city} and the Treasure Coast. Call {phone}.",
+    "announce": "Free quotes across Port St. Lucie and the Treasure Coast",
     "eyebrow": "Pressure Washing in {city}, FL",
     "h1": [
      "Pressure washing",
@@ -233,8 +233,8 @@
     "highlight2": "#FFFFFF",
     "accentHi": "#F0707E"
    },
-   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@5a2fe9020483b992cde074ab8b1ccbbca15cd1a0/marlinpressurewashing/logo.webp",
-   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@5a2fe9020483b992cde074ab8b1ccbbca15cd1a0/marlinpressurewashing/logo-dark.webp",
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@9db77ac5ba26aaac035f7d411befefcffe3ff568/marlinpressurewashing/logo.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@9db77ac5ba26aaac035f7d411befefcffe3ff568/marlinpressurewashing/logo-dark.webp",
    "images": {
     "hero": "https://images.unsplash.com/photo-1555636222-cae831e670b3?auto=format&fit=crop&q=70&w=1800",
     "about": "https://images.unsplash.com/photo-1677956787377-a0f32c0974af?auto=format&fit=crop&q=70&w=1000",
@@ -281,7 +281,7 @@
    ],
    "showTemplatePanel": false,
    "stateName": "Florida",
-   "logoHeight": "96px"
+   "logoHeight": "88px"
   },
   "about": {
    "title": "Your Treasure Coast cleaning crew",

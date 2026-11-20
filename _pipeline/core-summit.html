@@ -67,8 +67,8 @@ ul{list-style:none}
 .header.scrolled{box-shadow:0 8px 30px rgba(0,0,0,.35)}
 .header .container{display:flex;align-items:center;justify-content:space-between;height:128px;gap:24px;transition:height .35s}
 .header.scrolled .container{height:86px}
-.logo img{height:64px;width:auto;transition:height .35s}
-.header.scrolled .logo img{height:50px}
+.logo img{height:var(--lh,64px);width:auto;transition:height .35s}
+.header.scrolled .logo img{height:var(--lhs,50px)}
 
 .nav>ul{display:flex;align-items:center;gap:34px}
 .nav>ul>li{position:relative}
@@ -297,7 +297,7 @@ ul{list-style:none}
   .menu-toggle{display:flex}
   .mobile-menu{display:block}
   .header .container,.header.scrolled .container{height:84px}
-  .logo img,.header.scrolled .logo img{height:50px}
+  .logo img,.header.scrolled .logo img{height:var(--lhm,50px)}
   .about-intro{grid-template-columns:1fr;gap:30px}
   .about-grid{grid-template-columns:1fr;gap:60px}
   .collage{width:100%;margin:0 auto}
@@ -385,7 +385,7 @@ const C = S.colors || {};
 function logo(){
   const src = S.logoUrlDark || S.logoUrl;
   const word = `<span class="word"><b>${esc(S.logoWord || brand)}</b><small>${esc(S.tagline || cityState)}</small></span>`;
-  if (src) return `<a href="#" class="logo" aria-label="Home"><img src="${esc(src)}" alt="${esc(brand)} logo"${S.logoHeight ? ` style="height:${esc(S.logoHeight)}"` : ""}>${S.logoShowName ? word : ""}</a>`;
+  if (src) return `<a href="#" class="logo" aria-label="Home"><img src="${esc(src)}" alt="${esc(brand)} logo"${S.logoHeight ? ` style="--lh:${esc(S.logoHeight)};--lhs:min(${esc(S.logoHeight)},62px);--lhm:min(${esc(S.logoHeight)},60px)"` : ""}>${S.logoShowName ? word : ""}</a>`;
   if (S.logoMark) return `<a href="#" class="logo" aria-label="Home"><span class="mark" aria-hidden="true">${S.logoMark}</span>${word}</a>`;
   return `<a href="#" class="logo" aria-label="Home">${word}</a>`;
 }
