@@ -2215,6 +2215,138 @@
    "demos": [
     "hotshotspressurecleaning"
    ]
+  },
+  {
+   "id": "photo-1711114378509-acc95d490b25",
+   "topics": [
+    "pool service: hero, modern house with blue pool"
+   ],
+   "demos": [
+    "skypoolservices"
+   ],
+   "desc": "hero, modern house with blue pool",
+   "photographer": "Zoshua Colah|zoshuacolah"
+  },
+  {
+   "id": "photo-1782203601219-c772fac676dc",
+   "topics": [
+    "pool service: about, patio pool with flowers"
+   ],
+   "demos": [
+    "skypoolservices"
+   ],
+   "desc": "about, patio pool with flowers",
+   "photographer": "Leo_Visions|leo_visions_"
+  },
+  {
+   "id": "photo-1505236732171-72a5b19c4981",
+   "topics": [
+    "pool service: sunlit clear pool water"
+   ],
+   "demos": [
+    "skypoolservices"
+   ],
+   "desc": "sunlit clear pool water",
+   "photographer": "Chris Lawton|chrislawton"
+  },
+  {
+   "id": "photo-1645447556616-e9d1c52e8037",
+   "topics": [
+    "pool service: pool with palm tree"
+   ],
+   "demos": [
+    "skypoolservices"
+   ],
+   "desc": "pool with palm tree",
+   "photographer": "allPhoto Bangkok|allphotobangkok"
+  },
+  {
+   "id": "photo-1742353980377-b8e42932c590",
+   "topics": [
+    "pool service: robotic cleaner in clear pool"
+   ],
+   "demos": [
+    "skypoolservices"
+   ],
+   "desc": "robotic cleaner in clear pool",
+   "photographer": "Zhiqiang Wang|yah_wang"
+  },
+  {
+   "id": "photo-1774109556498-652c0458d4af",
+   "topics": [
+    "pool service: man cleaning pool with pole"
+   ],
+   "demos": [
+    "skypoolservices"
+   ],
+   "desc": "man cleaning pool with pole",
+   "photographer": "Karl Joshua Bernal|karljosh16"
+  },
+  {
+   "id": "photo-1771169084487-4c9d3c6a1ef2",
+   "topics": [
+    "pool service: water test tubes"
+   ],
+   "demos": [
+    "skypoolservices"
+   ],
+   "desc": "water test tubes",
+   "photographer": "Ben Maffin|benm72417"
+  },
+  {
+   "id": "photo-1730131195284-3964d021638f",
+   "topics": [
+    "pool service: green neglected pool (before)"
+   ],
+   "demos": [
+    "skypoolservices"
+   ],
+   "desc": "green neglected pool (before)",
+   "photographer": "Dina Badamshina|dinaamazing"
+  },
+  {
+   "id": "photo-1586057285471-2f78bffaf074",
+   "topics": [
+    "pool service: pipes and valves, filter and pump"
+   ],
+   "demos": [
+    "skypoolservices"
+   ],
+   "desc": "pipes and valves, filter and pump",
+   "photographer": "Danylo Sorokin|danylo_in_nl"
+  },
+  {
+   "id": "photo-1614667288602-9ac6e37318a7",
+   "topics": [
+    "pool service: underwater pool tile"
+   ],
+   "demos": [
+    "skypoolservices"
+   ],
+   "desc": "underwater pool tile",
+   "photographer": "Clark Tai|clarktai"
+  },
+  {
+   "id": "photo-1653322462057-b791bd8badeb",
+   "topics": [
+    "pool service: screen enclosure with palm (lanai)"
+   ],
+   "demos": [
+    "skypoolservices"
+   ],
+   "desc": "screen enclosure with palm (lanai)",
+   "photographer": "Darla Bethea|duvlady"
+  },
+  {
+   "id": "photo-1693852657003-bdcf9f784be4",
+   "topics": [
+    "pool service: clean turquoise pool edge (after)"
+   ],
+   "demos": [
+    "skypoolservices"
+   ],
+   "desc": "clean turquoise pool edge (after)",
+   "photographer": "Artem Kniaz|artem_kniaz"
   }
  ],
  "examplePairs": [
@@ -2274,6 +2406,25 @@
    "credits": [
     "Askara Svarga|askarasvarga",
     "David Vonlanthen|vonlanda"
+   ]
+  },
+  {
+   "tab": "Pool cleanup",
+   "before": "photo-1730131195284-3964d021638f",
+   "after": "photo-1693852657003-bdcf9f784be4",
+   "demos": [
+    "skypoolservices"
+   ],
+   "desc": "green neglected pool edge vs clean turquoise pool edge",
+   "credits": [
+    [
+     "Dina Badamshina",
+     "dinaamazing"
+    ],
+    [
+     "Artem Kniaz",
+     "artem_kniaz"
+    ]
    ]
   }
  ]
