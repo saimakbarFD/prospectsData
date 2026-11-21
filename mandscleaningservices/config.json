@@ -2,7 +2,7 @@
  "slug": "mandscleaningservices",
  "title": "M & S Cleaning Services | House Cleaning in Port St. Lucie, FL",
  "description": "M & S Cleaning Services cleans Port St. Lucie, FL homes: standard cleaning, deep cleaning, move in and move out cleaning, and recurring service. Call (772) 475-4730.",
- "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@8eb9f635d85f734ec5af8c099113c7044aff9038/mandscleaningservices/favicon.webp",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@5d132ccc11346382667a56927b0f0053abf5b0c0/mandscleaningservices/favicon.webp",
  "demo": {
   "presets": {
    "housecleaning": {
@@ -272,7 +272,7 @@
    "niche": "housecleaning",
    "brandName": "M & S Cleaning Services",
    "logoWord": "M & S Cleaning",
-   "logoShowName": false,
+   "logoShowName": true,
    "owner": "Marie",
    "tagline": "Port St. Lucie, FL",
    "city": "Port St. Lucie",
@@ -343,9 +343,8 @@
    ],
    "showTemplatePanel": false,
    "stateName": "Florida",
-   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@8eb9f635d85f734ec5af8c099113c7044aff9038/mandscleaningservices/logo.webp",
-   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@8eb9f635d85f734ec5af8c099113c7044aff9038/mandscleaningservices/logo-dark.webp",
-   "logoHeight": "84px"
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@5d132ccc11346382667a56927b0f0053abf5b0c0/mandscleaningservices/mark.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@5d132ccc11346382667a56927b0f0053abf5b0c0/mandscleaningservices/mark.webp"
   },
   "about": {
    "title": "Owner-led, every clean",
