@@ -587,10 +587,12 @@
   {
    "id": "photo-1503387837-b154d5074bd2",
    "topics": [
-    "remodeling contractor benefit-1"
+    "remodeling contractor benefit-1",
+    "remodel benefit-1: person drafting on blueprint"
    ],
    "demos": [
-    "elitecontracting"
+    "elitecontracting",
+    "remyremodeling"
    ]
   },
   {
@@ -2611,6 +2613,69 @@
    ],
    "desc": "house cleaning: room with stacked moving boxes (unviewed, check)",
    "photographer": "Dina Badamshina|dinaamazing"
+  },
+  {
+   "id": "photo-1744898528466-04cb694845f2",
+   "topics": [
+    "remodel hero: bright dining room opening to finished kitchen"
+   ],
+   "demos": [
+    "remyremodeling"
+   ]
+  },
+  {
+   "id": "photo-1768321910174-6f55899299a2",
+   "topics": [
+    "remodel about: room mid-renovation, exposed insulation"
+   ],
+   "demos": [
+    "remyremodeling"
+   ]
+  },
+  {
+   "id": "photo-1675612703673-af71e558d827",
+   "topics": [
+    "remodel benefit-0: straight black tile close-up bathroom wall"
+   ],
+   "demos": [
+    "remyremodeling"
+   ]
+  },
+  {
+   "id": "photo-1609347744403-2306e8a9ae27",
+   "topics": [
+    "remodel service-kitchens: remodeled kitchen white marble islands"
+   ],
+   "demos": [
+    "remyremodeling"
+   ]
+  },
+  {
+   "id": "photo-1682888818696-906287d759f5",
+   "topics": [
+    "remodel service-bathrooms: remodeled bathroom marble vanity green cabinets"
+   ],
+   "demos": [
+    "remyremodeling"
+   ]
+  },
+  {
+   "id": "photo-1585128792020-803d29415281",
+   "topics": [
+    "remodel service-flooring: living room hardwood floor"
+   ],
+   "demos": [
+    "remyremodeling"
+   ]
+  },
+  {
+   "id": "photo-1783587616999-19ca7dbd7e98",
+   "topics": [
+    "remodel service-additions: conservatory room addition under construction"
+   ],
+   "demos": [
+    "remyremodeling"
+   ]
   }
  ],
  "examplePairs": [
