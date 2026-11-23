@@ -3,7 +3,7 @@
  "design": "lift",
  "title": "Sky Pool Services | Pool Cleaning in Cape Coral, FL",
  "description": "Sky Pool Services cleans pools in Cape Coral, FL: weekly pool cleaning, water balancing, green pool cleanups and filter care. Call (239) 692-5733.",
- "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@ede6232ada7aee07a387271fc985da34aa92bb96/skypoolservices/favicon.webp",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@e33c6eaa7680313acac95eebdef7b352ee1e07c8/skypoolservices/favicon.webp",
  "demo": {
   "presets": {
    "poolservice": {
@@ -236,8 +236,8 @@
     "highlight2": "#9DBDF8",
     "accentHi": "#A7BEFF"
    },
-   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@ede6232ada7aee07a387271fc985da34aa92bb96/skypoolservices/logo.webp",
-   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@ede6232ada7aee07a387271fc985da34aa92bb96/skypoolservices/logo-dark.webp",
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@e33c6eaa7680313acac95eebdef7b352ee1e07c8/skypoolservices/logo.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@e33c6eaa7680313acac95eebdef7b352ee1e07c8/skypoolservices/logo-dark.webp",
    "logoMark": "",
    "images": {
     "hero": "https://images.unsplash.com/photo-1711114378509-acc95d490b25?auto=format&fit=crop&q=70&w=1800",
@@ -306,7 +306,7 @@
     }
    ],
    "showTemplatePanel": false,
-   "logoHeight": "60px"
+   "logoHeight": "84px"
   },
   "about": {
    "title": "Local, hands-on and reliable",
