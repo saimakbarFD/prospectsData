@@ -313,12 +313,15 @@
   {
    "id": "photo-1682888813913-e13f18692019",
    "topics": [
-    "Kitchen remodels"
+    "Kitchen remodels",
+    "house cleaning about"
    ],
    "demos": [
     "globaldynamicresources",
-    "deliramccullough"
-   ]
+    "deliramccullough",
+    "mariamartinscleaningservices"
+   ],
+   "desc": "large bright kitchen, marble island"
   },
   {
    "id": "photo-1704383014594-01bc24b6b840",
@@ -2676,6 +2679,76 @@
    "demos": [
     "remyremodeling"
    ]
+  },
+  {
+   "id": "photo-1631679706909-1844bbd07221",
+   "topics": [
+    "house cleaning hero"
+   ],
+   "demos": [
+    "mariamartinscleaningservices"
+   ],
+   "desc": "bright airy living room with sofa"
+  },
+  {
+   "id": "photo-1652170228217-eeccbe82bcf4",
+   "topics": [
+    "house cleaning step 1"
+   ],
+   "demos": [
+    "mariamartinscleaningservices"
+   ],
+   "desc": "woman writing a weekly plan"
+  },
+  {
+   "id": "photo-1758272421664-ae691f6cdafc",
+   "topics": [
+    "house cleaning step 2"
+   ],
+   "demos": [
+    "mariamartinscleaningservices"
+   ],
+   "desc": "woman mopping a home floor"
+  },
+  {
+   "id": "photo-1550581190-9c1c48d21d6c",
+   "topics": [
+    "house cleaning step 3"
+   ],
+   "demos": [
+    "mariamartinscleaningservices"
+   ],
+   "desc": "clean bright living room, white sectional"
+  },
+  {
+   "id": "photo-1789656435406-8e3a9a126436",
+   "topics": [
+    "house cleaning service"
+   ],
+   "demos": [
+    "mariamartinscleaningservices"
+   ],
+   "desc": "woman wiping a wooden sideboard"
+  },
+  {
+   "id": "photo-1779345169505-be7319f62b97",
+   "topics": [
+    "commercial cleaning service"
+   ],
+   "demos": [
+    "mariamartinscleaningservices"
+   ],
+   "desc": "mop bucket and wet floor sign in lobby"
+  },
+  {
+   "id": "photo-1758272421751-963195322eaa",
+   "topics": [
+    "deep cleaning service"
+   ],
+   "demos": [
+    "mariamartinscleaningservices"
+   ],
+   "desc": "housekeeper in yellow gloves wiping wood"
   }
  ],
  "examplePairs": [
