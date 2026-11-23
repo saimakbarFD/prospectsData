@@ -3,7 +3,7 @@
  "design": "lift",
  "title": "Sky Pool Services | Pool Cleaning in Cape Coral, FL",
  "description": "Sky Pool Services cleans pools in Cape Coral, FL: weekly pool cleaning, water balancing, green pool cleanups and filter care. Call (239) 692-5733.",
- "favicon": "",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@ede6232ada7aee07a387271fc985da34aa92bb96/skypoolservices/favicon.webp",
  "demo": {
   "presets": {
    "poolservice": {
@@ -203,7 +203,7 @@
    "niche": "poolservice",
    "brandName": "Sky Pool Services",
    "logoWord": "Sky Pool",
-   "logoShowName": true,
+   "logoShowName": false,
    "owner": "Anthony",
    "tagline": "Cape Coral, FL",
    "city": "Cape Coral",
@@ -230,15 +230,15 @@
     "Sanibel"
    ],
    "colors": {
-    "primary": "#00566F",
-    "accent": "#007F96",
-    "highlight": "#FFD54A",
-    "highlight2": "#8EEBEF",
-    "accentHi": "#5CE1E6"
+    "primary": "#14147A",
+    "accent": "#2929CC",
+    "highlight": "#BAD3F7",
+    "highlight2": "#9DBDF8",
+    "accentHi": "#A7BEFF"
    },
-   "logoUrl": "",
-   "logoUrlDark": "",
-   "logoMark": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><path d=\"M32 3C32 3 11.5 24 11.5 40A20.5 20.5 0 0 0 52.5 40C52.5 24 32 3 32 3Z\" fill=\"#0A9BB5\" stroke=\"#FFFFFF\" stroke-width=\"2.4\" stroke-linejoin=\"round\"/><circle cx=\"32\" cy=\"28.5\" r=\"5.4\" fill=\"#FFD54A\"/><g fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2.6\" stroke-linecap=\"round\"><path d=\"M16 40q4-3.6 8 0t8 0t8 0t8 0\"/><path d=\"M18.5 47.5q3.5-3.4 7 0t7 0t7 0t7 0\"/><path d=\"M22 55q3-3 6 0t6 0t6 0t6 0\"/></g></svg>",
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@ede6232ada7aee07a387271fc985da34aa92bb96/skypoolservices/logo.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@ede6232ada7aee07a387271fc985da34aa92bb96/skypoolservices/logo-dark.webp",
+   "logoMark": "",
    "images": {
     "hero": "https://images.unsplash.com/photo-1711114378509-acc95d490b25?auto=format&fit=crop&q=70&w=1800",
     "about": "https://images.unsplash.com/photo-1782203601219-c772fac676dc?auto=format&fit=crop&q=70&w=1000",
@@ -305,7 +305,8 @@
      "u": "artem_kniaz"
     }
    ],
-   "showTemplatePanel": false
+   "showTemplatePanel": false,
+   "logoHeight": "60px"
   },
   "about": {
    "title": "Local, hands-on and reliable",
