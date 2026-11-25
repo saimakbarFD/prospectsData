@@ -2812,7 +2812,8 @@
     "lawn care service: landscaper trimming a thuja hedge with electric trimmer, wide"
    ],
    "demos": [
-    "yourlawnwecare"
+    "yourlawnwecare",
+    "devotedworks"
    ],
    "desc": "landscaper trimming a thuja hedge with electric trimmer, wide",
    "photographer": "FRAEM GmbH|fraem"
@@ -2827,6 +2828,83 @@
    ],
    "desc": "black rake gathering fallen leaves on green lawn (portrait)",
    "photographer": "Belov Sergey|belov7043"
+  },
+  {
+   "id": "photo-1793922018221-6fc4857385e9",
+   "topics": [
+    "lawn care service: red brick home behind wide bright green lawn, blue sky (hero)"
+   ],
+   "demos": [
+    "devotedworks"
+   ],
+   "desc": "lawn care service: red brick home behind wide bright green lawn, blue sky (hero)",
+   "photographer": "Roger Starnes Sr|rstar50"
+  },
+  {
+   "id": "photo-1779636489740-6077a4198be6",
+   "topics": [
+    "lawn care service: two-man crew mowing and trimming residential lawn"
+   ],
+   "demos": [
+    "devotedworks"
+   ],
+   "desc": "lawn care service: two-man crew mowing and trimming residential lawn",
+   "photographer": "Kenny Perez|kenny_kalix"
+  },
+  {
+   "id": "photo-1764969370921-7c8df49171cd",
+   "topics": [
+    "lawn care service: freshly mown green lawn in the sun"
+   ],
+   "demos": [
+    "devotedworks"
+   ],
+   "desc": "lawn care service: freshly mown green lawn in the sun",
+   "photographer": "MV Vacation|mvvacation"
+  },
+  {
+   "id": "photo-1766603636725-9155e783168a",
+   "topics": [
+    "lawn care service: palm trees lining green lawn, Florida feel (portrait)"
+   ],
+   "demos": [
+    "devotedworks"
+   ],
+   "desc": "lawn care service: palm trees lining green lawn, Florida feel (portrait)",
+   "photographer": "Alef Morais|alef_visuals"
+  },
+  {
+   "id": "photo-1779636489744-76eb81c44925",
+   "topics": [
+    "lawn care service: man using string trimmer around a tree (portrait)"
+   ],
+   "demos": [
+    "devotedworks"
+   ],
+   "desc": "lawn care service: man using string trimmer around a tree (portrait)",
+   "photographer": "Kenny Perez|kenny_kalix"
+  },
+  {
+   "id": "photo-1740823434562-e81d21a4f5c2",
+   "topics": [
+    "lawn care service: garden bed with plants and mulch"
+   ],
+   "demos": [
+    "devotedworks"
+   ],
+   "desc": "lawn care service: garden bed with plants and mulch",
+   "photographer": "Naoki Suzuki|naopp"
+  },
+  {
+   "id": "photo-1690068023694-053da714f95f",
+   "topics": [
+    "lawn care service: person mowing a lawn with a push mower"
+   ],
+   "demos": [
+    "devotedworks"
+   ],
+   "desc": "lawn care service: person mowing a lawn with a push mower",
+   "photographer": "Carl Tronders|allvar"
   }
  ],
  "examplePairs": [

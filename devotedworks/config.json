@@ -1,0 +1,370 @@
+{
+ "slug": "devotedworks",
+ "title": "Devoted Works | Lawn Care in Palm Bay, FL",
+ "description": "Devoted Works keeps Palm Bay, FL lawns sharp with lawn mowing, edging, hedge trimming, mulch, palm trimming and yard cleanups. Call (321) 252-9086.",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@0ea2ba218e63d127cc311a6c0901369a31a9c8a1/devotedworks/favicon.webp",
+ "demo": {
+  "presets": {
+   "lawncare": {
+    "label": "Lawn Care",
+    "noun": "Lawn Care",
+    "demoBrand": "Devoted Works",
+    "announce": "Free quotes · Now booking lawn care in {city}",
+    "eyebrow": "{city} lawn care",
+    "h1": [
+     "Reliable lawn care",
+     "for {city}",
+     "homes"
+    ],
+    "sub": "Mowing, edging, hedge trimming and yard cleanups for {city} homes. One local crew that shows up on schedule and leaves your yard looking sharp.",
+    "badge": {
+     "big": "Every Week",
+     "small": "steady, reliable visits"
+    },
+    "badgeNote": "",
+    "trust": [
+     "Free quotes",
+     "On-schedule visits",
+     "Clean finish every time"
+    ],
+    "ticker": [
+     [
+      "Free quotes",
+      "Booking now"
+     ],
+     [
+      "Mowing",
+      "Weekly or biweekly"
+     ],
+     [
+      "Edging",
+      "Crisp lines"
+     ],
+     [
+      "Hedges",
+      "Shaped neat"
+     ],
+     [
+      "Mulch",
+      "Fresh beds"
+     ],
+     [
+      "Palm Bay",
+      "Serving now"
+     ]
+    ],
+    "sunTitle": [
+     "Mow",
+     "Edge",
+     "Clean"
+    ],
+    "benefits": [
+     {
+      "t": "Dependable, every visit",
+      "d": "Your lawn gets cut on the same schedule all season, so the yard always looks cared for without you having to chase anyone."
+     },
+     {
+      "t": "Made for Space Coast yards",
+      "d": "Grass cut at the right height for Florida heat and summer rains, with beds and hedges kept tidy through fast growing weather."
+     },
+     {
+      "t": "Clean before we go",
+      "d": "Clippings and trimmings cleared and blown off the driveway, walks and patio so the whole yard looks finished."
+     }
+    ],
+    "stepsTitle": "How it works",
+    "stepsSub": "Simple, steady lawn care on your schedule.",
+    "steps": [
+     {
+      "t": "Get a free quote",
+      "d": "Tell us about your yard and we give you a clear price."
+     },
+     {
+      "t": "We take care of it",
+      "d": "We mow, edge, trim and clean up on a day that works for you."
+     },
+     {
+      "t": "Enjoy a sharp yard",
+      "d": "Your lawn looks great and the cleanup is done before we leave."
+     }
+    ],
+    "baTitle": "Before and after the cut.",
+    "baSub": "Example photos. Your finished yards will go here.",
+    "baTabs": [],
+    "galleryTitle": "The kind of yards we keep sharp",
+    "cmpTitle": "Doing it yourself vs. calling Devoted Works",
+    "cmpBad": "Doing it yourself",
+    "bad": [
+     "Weekends lost to yard work",
+     "Mowers and trimmers to maintain",
+     "Hedges that get away from you",
+     "Clippings left on the walk",
+     "Beds full of weeds"
+    ],
+    "good": [
+     "Your weekends back",
+     "A crew with the right equipment",
+     "Hedges kept in shape",
+     "Driveway and walks blown clean",
+     "Fresh, weed free beds"
+    ],
+    "svcTitle": "What we do",
+    "svcSub": "Lawn care and yard upkeep for {city} homes.",
+    "services": [
+     {
+      "slug": "lawn-mowing",
+      "name": "Lawn mowing",
+      "d": "Weekly or every other week mowing at the right height for your grass.",
+      "long": "Regular mowing on a set day, cut at the right height for Florida grass so your lawn stays thick, even and green through the summer.",
+      "icon": "sheaf-of-rice"
+     },
+     {
+      "slug": "edging-trimming",
+      "name": "Edging & trimming",
+      "d": "Crisp edges along walks, driveways and beds, with string trimming where the mower cannot reach.",
+      "long": "Clean, straight edges along driveways, sidewalks and flower beds, plus trimming around fences, trees and corners for a finished look every visit.",
+      "icon": "scissors"
+     },
+     {
+      "slug": "hedge-trimming",
+      "name": "Hedge & shrub trimming",
+      "d": "Hedges and shrubs shaped and kept in line along fences, walks and the house.",
+      "long": "Hedges and shrubs trimmed back and shaped so they stay neat, off your walkways and away from the house, with every cutting hauled away.",
+      "icon": "herb"
+     },
+     {
+      "slug": "mulch-beds",
+      "name": "Mulch & bed care",
+      "d": "Weeded beds and fresh mulch that finish the look of your yard.",
+      "long": "Weeded flower beds and a fresh layer of mulch that keeps beds looking clean and helps hold moisture through the dry months.",
+      "icon": "potted-plant"
+     },
+     {
+      "slug": "palm-trimming",
+      "name": "Palm trimming",
+      "d": "Dead fronds and seed pods removed so your palms look tidy.",
+      "icon": "palm-tree"
+     },
+     {
+      "slug": "yard-cleanup",
+      "name": "Yard & storm cleanups",
+      "d": "Fallen branches, leaves and overgrown areas cleared and hauled away.",
+      "icon": "fallen-leaf"
+     },
+     {
+      "slug": "landscape-refresh",
+      "name": "Landscape refresh",
+      "d": "New plants, sod patches and bed updates that give a tired yard a fresh start.",
+      "icon": "house-with-garden"
+     }
+    ],
+    "sticker": {
+     "top": "Palm Bay",
+     "big": "Lawn Care",
+     "band": "Mow · Edge · Clean"
+    },
+    "reviews": [
+     {
+      "q": "Our lawn has never looked this good. They show up on the same day every week and the edges are always sharp.",
+      "n": "Linda R."
+     },
+     {
+      "q": "Chris and his crew cleaned up our overgrown beds and hedges in one visit. The yard looked better than when we moved in.",
+      "n": "Mike & Dana S."
+     },
+     {
+      "q": "Reliable, friendly and fair on price. I never have to chase anyone. The yard just looks great.",
+      "n": "Tom K."
+     }
+    ],
+    "faqs": [
+     {
+      "q": "What areas do you serve?",
+      "a": "Palm Bay and nearby Space Coast towns like Melbourne, West Melbourne, Malabar and Grant-Valkaria. Call and we will let you know."
+     },
+     {
+      "q": "How much does lawn care cost?",
+      "a": "It depends on the size of your yard and the work needed. After a quick look, you get a clear price with no surprises."
+     },
+     {
+      "q": "Do I need to sign a long contract?",
+      "a": "Call and ask about the options. Most customers choose weekly or every other week lawn care that fits their budget."
+     },
+     {
+      "q": "Do I need to be home when you come?",
+      "a": "No. As long as we can get to the yard and gates are unlocked, we take care of everything and leave it clean."
+     },
+     {
+      "q": "Can you handle more than mowing?",
+      "a": "Yes. We also edge, trim hedges and palms, refresh mulch beds and clear out overgrown areas, so you only make one call."
+     }
+    ],
+    "ctaTitle": "Get your free quote",
+    "ctaSub": "Tell us about your yard and we'll call you back with a price.",
+    "formAsk": "What does your yard need?",
+    "heroSub": "Mowing, edging & cleanups made easy.",
+    "heroNote": "Free quotes available today!",
+    "howTitle": "How Devoted Works works",
+    "moreTitle": "More than just mowing",
+    "moreSub": "Hedges? Mulch? Yes, we do that too.",
+    "pills": [
+     {
+      "t": "Free quotes",
+      "icon": "memo"
+     },
+     {
+      "t": "Set lawn day",
+      "icon": "spiral-calendar"
+     },
+     {
+      "t": "Weekly mowing",
+      "icon": "sheaf-of-rice"
+     },
+     {
+      "t": "Crisp edges",
+      "icon": "memo"
+     },
+     {
+      "t": "Hedge shaping",
+      "icon": "herb"
+     },
+     {
+      "t": "Fresh mulch",
+      "icon": "potted-plant"
+     },
+     {
+      "t": "Palm trimming",
+      "icon": "memo"
+     },
+     {
+      "t": "Storm cleanups",
+      "icon": "fallen-leaf"
+     },
+     {
+      "t": "Clean finish",
+      "icon": "sparkles"
+     },
+     {
+      "t": "Palm Bay local",
+      "icon": "house-with-garden"
+     }
+    ],
+    "blog": [
+     {
+      "cat": "Lawn Care Tips",
+      "t": "How Often Should You Mow Your Lawn During a Florida Summer?",
+      "d": "Florida grass grows fast in the heat and rain. Here is how mowing height and timing keep your lawn thick and green.",
+      "img": "service-lawn-mowing"
+     },
+     {
+      "cat": "Yard Upkeep",
+      "t": "Why Crisp Edges Make Your Whole Palm Bay Lawn Look Better",
+      "d": "Clean lines along walks and beds change how a yard looks. Learn how edging and trimming finish the job.",
+      "img": "service-edging-trimming"
+     },
+     {
+      "cat": "Hedges & Beds",
+      "t": "Simple Ways to Keep Hedges and Mulch Beds Neat All Year",
+      "d": "A little regular trimming and fresh mulch goes a long way. Here is where to start.",
+      "img": "service-hedge-trimming"
+     }
+    ],
+    "bigQuote": "A sharp, healthy lawn all year, so your yard always looks its best.",
+    "ctaBandTitle": "Ready For A Sharper Yard?"
+   }
+  },
+  "settings": {
+   "niche": "lawncare",
+   "brandName": "Devoted Works",
+   "logoWord": "Devoted Works",
+   "logoShowName": true,
+   "owner": "Chris",
+   "tagline": "Palm Bay, FL",
+   "city": "Palm Bay",
+   "state": "FL",
+   "zip": "",
+   "address": "",
+   "phone": "(321) 252-9086",
+   "email": "devotedworks1@gmail.com",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "Palm Bay",
+    "Melbourne",
+    "West Melbourne",
+    "Malabar",
+    "Grant-Valkaria",
+    "Micco",
+    "Indialantic",
+    "Melbourne Beach",
+    "Satellite Beach",
+    "Sebastian",
+    "Barefoot Bay"
+   ],
+   "colors": {
+    "primary": "#0C3516",
+    "accent": "#1F6B2A",
+    "highlight": "#D6AE43",
+    "highlight2": "#EBD592",
+    "accentHi": "#D6AE43"
+   },
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@0ea2ba218e63d127cc311a6c0901369a31a9c8a1/devotedworks/logo.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@0ea2ba218e63d127cc311a6c0901369a31a9c8a1/devotedworks/logo.webp",
+   "images": {
+    "hero": "https://images.unsplash.com/photo-1793922018221-6fc4857385e9?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1779636489740-6077a4198be6?auto=format&fit=crop&q=70&w=1000",
+    "benefit-0": "https://images.unsplash.com/photo-1764969370921-7c8df49171cd?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1766603636725-9155e783168a?auto=format&fit=crop&q=70&w=900",
+    "service-lawn-mowing": "https://images.unsplash.com/photo-1690068023694-053da714f95f?auto=format&fit=crop&q=70&w=1100",
+    "service-edging-trimming": "https://images.unsplash.com/photo-1779636489744-76eb81c44925?auto=format&fit=crop&q=70&w=900",
+    "service-hedge-trimming": "https://images.unsplash.com/photo-1734079692079-172d8243ebd3?auto=format&fit=crop&q=70&w=900",
+    "service-mulch-beds": "https://images.unsplash.com/photo-1740823434562-e81d21a4f5c2?auto=format&fit=crop&q=70&w=900"
+   },
+   "credits": [
+    {
+     "n": "Roger Starnes Sr",
+     "u": "rstar50"
+    },
+    {
+     "n": "Kenny Perez",
+     "u": "kenny_kalix"
+    },
+    {
+     "n": "MV Vacation",
+     "u": "mvvacation"
+    },
+    {
+     "n": "Alef Morais",
+     "u": "alef_visuals"
+    },
+    {
+     "n": "FRAEM GmbH",
+     "u": "fraem"
+    },
+    {
+     "n": "Naoki Suzuki",
+     "u": "naopp"
+    },
+    {
+     "n": "Carl Tronders",
+     "u": "allvar"
+    }
+   ],
+   "showTemplatePanel": false,
+   "stateName": "Florida",
+   "logoHeight": "62px"
+  },
+  "about": {
+   "title": "Owner-led, every visit",
+   "sub": "{owner} runs {brand} and takes pride in every yard, from the first quote to the last pass of the blower.",
+   "points": [
+    "You talk to the owner, not a call center.",
+    "Straight answers on price and schedule.",
+    "Serving {city}, Melbourne and the rest of the Space Coast."
+   ]
+  }
+ },
+ "design": "summit"
+}
