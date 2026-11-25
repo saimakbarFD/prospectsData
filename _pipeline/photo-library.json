@@ -1976,7 +1976,8 @@
     "landscaping service-lawn-care"
    ],
    "demos": [
-    "greenparadisesolutions"
+    "greenparadisesolutions",
+    "devotedworks"
    ],
    "desc": "Person mowing a green lawn with a lawn mower",
    "photographer": "Carl Tronders"
@@ -2894,17 +2895,6 @@
    ],
    "desc": "lawn care service: garden bed with plants and mulch",
    "photographer": "Naoki Suzuki|naopp"
-  },
-  {
-   "id": "photo-1690068023694-053da714f95f",
-   "topics": [
-    "lawn care service: person mowing a lawn with a push mower"
-   ],
-   "demos": [
-    "devotedworks"
-   ],
-   "desc": "lawn care service: person mowing a lawn with a push mower",
-   "photographer": "Carl Tronders|allvar"
   }
  ],
  "examplePairs": [
