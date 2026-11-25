@@ -1,0 +1,368 @@
+{
+ "slug": "yourlawnwecare",
+ "title": "Your Lawn We Care LLC | Lawn Care & Mowing in Palm Bay, FL",
+ "description": "Your Lawn We Care LLC keeps Palm Bay, FL lawns sharp with mowing, edging, trimming, yard cleanups, mulch and sod. We go anywhere. Call (321) 557-5238.",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@b94dd1c8427433fa79a59f541b3e627891f678a9/yourlawnwecare/favicon.webp",
+ "demo": {
+  "presets": {
+   "lawncare": {
+    "label": "Lawn Care",
+    "noun": "Lawn Care & Mowing",
+    "demoBrand": "Your Lawn We Care LLC",
+    "announce": "Free quotes · Now booking lawn care in {city} and Brevard County",
+    "eyebrow": "{city} lawn care service",
+    "h1": [
+     "A sharp lawn",
+     "every single visit",
+     "without the work"
+    ],
+    "sub": "Mowing, edging, trimming and yard cleanups for {city} homes. A local crew that goes anywhere you need and leaves your yard clean.",
+    "badge": {
+     "big": "We go",
+     "small": "anywhere in Brevard"
+    },
+    "badgeNote": "",
+    "trust": [
+     "Free quotes",
+     "We go anywhere",
+     "Clean finish every time"
+    ],
+    "ticker": [
+     [
+      "Free quotes",
+      "Booking now"
+     ],
+     [
+      "Mowing",
+      "Weekly or biweekly"
+     ],
+     [
+      "Edging",
+      "Crisp lines"
+     ],
+     [
+      "Hedges",
+      "Trimmed clean"
+     ],
+     [
+      "Cleanups",
+      "Yard cleared"
+     ],
+     [
+      "Brevard County",
+      "Serving now"
+     ]
+    ],
+    "sunTitle": [
+     "Mow",
+     "Edge",
+     "Clean"
+    ],
+    "benefits": [
+     {
+      "t": "You know when we come",
+      "d": "Your lawn gets a set day, so you never have to chase anyone down."
+     },
+     {
+      "t": "Cut right for Florida grass",
+      "d": "St. Augustine, Bahia and Zoysia mowed at the right height for the heat and summer rain."
+     },
+     {
+      "t": "We go anywhere",
+      "d": "Across town or across the county, we bring the mower to you."
+     }
+    ],
+    "stepsTitle": "How it works",
+    "stepsSub": "Simple, steady lawn care on your schedule.",
+    "steps": [
+     {
+      "t": "Get a free quote",
+      "d": "Tell us about your yard and we give you a clear price per visit."
+     },
+     {
+      "t": "Pick your schedule",
+      "d": "Weekly or every other week, on a day that works for you."
+     },
+     {
+      "t": "Enjoy a sharp lawn",
+      "d": "We mow, edge, trim and blow it clean every single visit."
+     }
+    ],
+    "baTitle": "Before and after the mow.",
+    "baSub": "Example photos. Your finished yards will go here.",
+    "baTabs": [],
+    "galleryTitle": "The kind of yards we keep sharp",
+    "cmpTitle": "Doing it yourself vs. calling Your Lawn We Care",
+    "cmpBad": "Doing it yourself",
+    "bad": [
+     "Weekends lost to yard work",
+     "Mower repairs and gas runs",
+     "Uneven edges along the drive",
+     "Clippings left on the walk",
+     "Hedges that get away from you"
+    ],
+    "good": [
+     "Your weekends back",
+     "Our equipment, our upkeep",
+     "Crisp edges every visit",
+     "Driveway and walks blown clean",
+     "Hedges kept in shape"
+    ],
+    "svcTitle": "What we do",
+    "svcSub": "Lawn care and yard upkeep for {city} homes.",
+    "services": [
+     {
+      "slug": "lawn-mowing",
+      "name": "Lawn mowing",
+      "d": "Weekly or every other week mowing at the right height for your grass.",
+      "icon": "sheaf-of-rice"
+     },
+     {
+      "slug": "hedge-trimming",
+      "name": "Hedge & shrub trimming",
+      "d": "Hedges, shrubs and small palms trimmed clean and kept in shape.",
+      "icon": "deciduous-tree"
+     },
+     {
+      "slug": "yard-cleanup",
+      "name": "Yard cleanups",
+      "d": "Overgrown yards, leaves and storm debris cleared and hauled away.",
+      "icon": "fallen-leaf"
+     },
+     {
+      "slug": "edging",
+      "name": "Edging & weed eating",
+      "d": "Crisp edges along drives, walks and beds, plus trimming around every fence.",
+      "icon": "straight-ruler"
+     },
+     {
+      "slug": "mulch",
+      "name": "Mulch & bed care",
+      "d": "Fresh mulch and weeded beds that finish the look of your yard.",
+      "icon": "potted-plant"
+     },
+     {
+      "slug": "sod",
+      "name": "Sod patches & installs",
+      "d": "Bare or dead spots replaced with fresh sod laid on a prepared base.",
+      "icon": "herb"
+     },
+     {
+      "slug": "leaf-removal",
+      "name": "Leaf & debris removal",
+      "d": "Leaves, branches and yard waste picked up and taken off your property.",
+      "icon": "wastebasket"
+     }
+    ],
+    "sticker": {
+     "top": "Brevard County",
+     "big": "Lawn Care",
+     "band": "Mow · Edge · Trim"
+    },
+    "reviews": [
+     {
+      "q": "They have cut our lawn every week since spring and it has never looked better. The edges are always clean and the driveway is blown off every time.",
+      "n": "Angela M."
+     },
+     {
+      "q": "Our backyard was completely overgrown. They cleared it out in one day, hauled everything away and now keep it mowed every other week.",
+      "n": "Chris & Tanya B."
+     },
+     {
+      "q": "Reliable, friendly and fair on price. I never have to call to remind anyone. They just show up and the yard looks great.",
+      "n": "Robert H."
+     }
+    ],
+    "faqs": [
+     {
+      "q": "What areas do you serve?",
+      "a": "Palm Bay and nearby Brevard County towns like Melbourne, West Melbourne, Malabar and Sebastian. We go anywhere, so just call and ask."
+     },
+     {
+      "q": "How much does lawn mowing cost?",
+      "a": "It depends on the size of your yard and how often you want service. After a quick look, you get a clear price per visit."
+     },
+     {
+      "q": "Do I need to sign a long contract?",
+      "a": "Call and ask about the options. Most customers choose weekly or every other week service that fits their budget."
+     },
+     {
+      "q": "Do I need to be home when you come?",
+      "a": "No. As long as we can get to the yard and gates are unlocked, we take care of everything and leave it clean."
+     },
+     {
+      "q": "Can you clean up a really overgrown yard?",
+      "a": "Yes. We cut back tall grass and weeds, trim hedges and haul away the debris, then keep it sharp from there."
+     }
+    ],
+    "ctaTitle": "Get your free quote",
+    "ctaSub": "Tell us about your yard and we'll call you back with a price.",
+    "formAsk": "What does your yard need?",
+    "heroSub": "Mowing, edging & cleanups made easy.",
+    "heroNote": "Free quotes available today!",
+    "howTitle": "How Your Lawn We Care works",
+    "moreTitle": "More than just mowing",
+    "moreSub": "Hedges? Mulch? Yes, we do that too.",
+    "pills": [
+     {
+      "t": "Free quotes",
+      "icon": "memo"
+     },
+     {
+      "t": "Set weekly day",
+      "icon": "spiral-calendar"
+     },
+     {
+      "t": "Driveways blown clean",
+      "icon": "sparkles"
+     },
+     {
+      "t": "Crisp edges",
+      "icon": "straight-ruler"
+     },
+     {
+      "t": "Talk to Melissa direct",
+      "icon": "speech-balloon"
+     },
+     {
+      "t": "Hedge trimming",
+      "icon": "deciduous-tree"
+     },
+     {
+      "t": "Overgrown yard cleanups",
+      "icon": "fallen-leaf"
+     },
+     {
+      "t": "Made for Florida grass",
+      "icon": "sun"
+     },
+     {
+      "t": "We go anywhere",
+      "icon": "world-map"
+     },
+     {
+      "t": "Every other week too",
+      "icon": "seedling"
+     }
+    ],
+    "blog": [
+     {
+      "cat": "Lawn Care Tips",
+      "t": "How Often Should You Mow Your Lawn During a Florida Summer?",
+      "d": "Florida grass grows fast in the heat and rain. Here is how mowing height and timing keep your lawn thick and green.",
+      "img": "service-lawn-mowing"
+     },
+     {
+      "cat": "Yard Upkeep",
+      "t": "When to Trim Hedges and Shrubs in Brevard County",
+      "d": "A little timing goes a long way. Learn when to trim so hedges stay full, healthy and in shape all year.",
+      "img": "service-hedge-trimming"
+     },
+     {
+      "cat": "Cleanups & Seasonal Care",
+      "t": "Getting an Overgrown Yard Back in Shape: What to Expect",
+      "d": "From tall grass to piles of debris, here is how a cleanup works and how to keep the yard sharp afterward.",
+      "img": "service-yard-cleanup"
+     }
+    ],
+    "bigQuote": "A clean, green lawn every visit, so your weekends stay yours again."
+   }
+  },
+  "settings": {
+   "niche": "lawncare",
+   "brandName": "Your Lawn We Care LLC",
+   "logoWord": "Your Lawn We Care",
+   "logoShowName": false,
+   "owner": "Melissa",
+   "tagline": "Palm Bay, FL",
+   "city": "Palm Bay",
+   "state": "FL",
+   "zip": "",
+   "address": "",
+   "phone": "(321) 557-5238",
+   "email": "yourlawnwecare321@gmail.com",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "Palm Bay",
+    "Melbourne",
+    "West Melbourne",
+    "Malabar",
+    "Grant-Valkaria",
+    "Palm Shores",
+    "Melbourne Beach",
+    "Indialantic",
+    "Micco",
+    "Sebastian"
+   ],
+   "colors": {
+    "primary": "#1B1815",
+    "accent": "#CC4A08",
+    "highlight": "#F39D12",
+    "highlight2": "#FBD58A",
+    "accentHi": "#F39D12"
+   },
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@b94dd1c8427433fa79a59f541b3e627891f678a9/yourlawnwecare/logo.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@b94dd1c8427433fa79a59f541b3e627891f678a9/yourlawnwecare/logo-circle.webp",
+   "images": {
+    "hero": "https://images.unsplash.com/photo-1630709437016-ee675b9b29b8?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1782939355849-4a748ada9c84?auto=format&fit=crop&q=70&w=1800",
+    "benefit-0": "https://images.unsplash.com/photo-1559839727-5d90798ffbd9?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1435527173128-983b87201f4d?auto=format&fit=crop&q=70&w=900",
+    "benefit-2": "https://images.unsplash.com/photo-1784828985296-64d1d85c1454?auto=format&fit=crop&q=70&w=900",
+    "service-lawn-mowing": "https://images.unsplash.com/photo-1750987776992-19c2abd847ee?auto=format&fit=crop&q=70&w=1100",
+    "service-hedge-trimming": "https://images.unsplash.com/photo-1734079692079-172d8243ebd3?auto=format&fit=crop&q=70&w=1100",
+    "service-yard-cleanup": "https://images.unsplash.com/photo-1790707520484-000ca92c7f92?auto=format&fit=crop&q=70&w=1100"
+   },
+   "credits": [
+    {
+     "n": "Zac Gudakov",
+     "u": "zacgudakov"
+    },
+    {
+     "n": "AZIZ KOURI",
+     "u": "kourigrapher"
+    },
+    {
+     "n": "Joel Moysuh",
+     "u": "pope_moisa"
+    },
+    {
+     "n": "Eric Rothermel",
+     "u": "erothermel"
+    },
+    {
+     "n": "Annie Spratt",
+     "u": "anniespratt"
+    },
+    {
+     "n": "sydney Rae",
+     "u": "srz"
+    },
+    {
+     "n": "FRAEM GmbH",
+     "u": "fraem"
+    },
+    {
+     "n": "Belov Sergey",
+     "u": "belov7043"
+    }
+   ],
+   "showTemplatePanel": false,
+   "stateName": "Florida",
+   "logoHeight": "64px"
+  },
+  "about": {
+   "title": "Owner-led, every visit",
+   "sub": "{owner} runs {brand} and takes pride in every yard, from the first quote to the last pass of the blower.",
+   "points": [
+    "You talk to the owner, not a call center.",
+    "Straight answers on price and schedule.",
+    "Serving {city}, Melbourne and the rest of Brevard County."
+   ]
+  }
+ },
+ "design": "glide"
+}
