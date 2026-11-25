@@ -610,10 +610,12 @@
   {
    "id": "photo-1758273238415-01ec03d9ef27",
    "topics": [
-    "cleaning & handyman hero"
+    "cleaning & handyman hero",
+    "house cleaning benefit-1"
    ],
    "demos": [
-    "jamericanhospitality"
+    "jamericanhospitality",
+    "cocohomeservices"
    ],
    "desc": "woman mopping a bright modern living room floor",
    "photographer": "Vitaly Gariev|silverkblack"
@@ -2446,10 +2448,12 @@
   {
    "id": "photo-1758273705627-937374bfa978",
    "topics": [
-    "house cleaning: woman vacuuming a bright modern living room"
+    "house cleaning: woman vacuuming a bright modern living room",
+    "house cleaning hero"
    ],
    "demos": [
-    "mandscleaningservices"
+    "mandscleaningservices",
+    "cocohomeservices"
    ],
    "desc": "house cleaning: woman vacuuming a bright modern living room",
    "photographer": "Vitaly Gariev|silverkblack"
@@ -2745,10 +2749,12 @@
   {
    "id": "photo-1758272421751-963195322eaa",
    "topics": [
-    "deep cleaning service"
+    "deep cleaning service",
+    "house cleaning service-house-cleaning"
    ],
    "demos": [
-    "mariamartinscleaningservices"
+    "mariamartinscleaningservices",
+    "cocohomeservices"
    ],
    "desc": "housekeeper in yellow gloves wiping wood"
   },
@@ -2895,6 +2901,61 @@
    ],
    "desc": "lawn care service: garden bed with plants and mulch",
    "photographer": "Naoki Suzuki|naopp"
+  },
+  {
+   "id": "photo-1631510390389-c1e4fb20ff31",
+   "topics": [
+    "house cleaning about"
+   ],
+   "demos": [
+    "cocohomeservices"
+   ],
+   "desc": "Bright white and gray living room beside a sunny window",
+   "photographer": "Spacejoy"
+  },
+  {
+   "id": "photo-1758611974917-f7f7a58b74b0",
+   "topics": [
+    "house cleaning benefit-0"
+   ],
+   "demos": [
+    "cocohomeservices"
+   ],
+   "desc": "Smiling woman on the phone at her laptop at home",
+   "photographer": "Vitaly Gariev"
+  },
+  {
+   "id": "photo-1758273706271-50c453b7323b",
+   "topics": [
+    "house cleaning benefit-2"
+   ],
+   "demos": [
+    "cocohomeservices"
+   ],
+   "desc": "Joyful woman relaxing on a sofa in a tidy apartment",
+   "photographer": "Vitaly Gariev"
+  },
+  {
+   "id": "photo-1776585617123-84cb50100bd0",
+   "topics": [
+    "house cleaning service-deep-cleaning"
+   ],
+   "demos": [
+    "cocohomeservices"
+   ],
+   "desc": "Cleaner steam-cleaning a tiled bathroom wall",
+   "photographer": "Aurum Gebäudereinigung Kassel"
+  },
+  {
+   "id": "photo-1758523670969-dd1b1254062d",
+   "topics": [
+    "house cleaning service-move-in-move-out-cleaning"
+   ],
+   "demos": [
+    "cocohomeservices"
+   ],
+   "desc": "Couple carrying moving boxes into a new home",
+   "photographer": "Vitaly Gariev"
   }
  ],
  "examplePairs": [
