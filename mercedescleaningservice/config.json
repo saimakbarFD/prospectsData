@@ -1,0 +1,370 @@
+{
+ "slug": "mercedescleaningservice",
+ "title": "Mercedes Cleaning Service | House Cleaning in North Port, FL",
+ "description": "Mercedes Cleaning Service cleans North Port, FL homes: house cleaning, deep cleaning, move in and move out cleaning, and recurring service. Call (941) 266-2167.",
+ "favicon": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@3dbcd13b8d551a0abcf6f705a35a0931743c912b/mercedescleaningservice/favicon.webp",
+ "demo": {
+  "presets": {
+   "housecleaning": {
+    "label": "House Cleaning",
+    "noun": "House Cleaning",
+    "demoBrand": "Mercedes Cleaning Service",
+    "announce": "Now booking house and office cleaning in {city}",
+    "eyebrow": "{city} house cleaning service",
+    "h1": [
+     "Spotless cleaning",
+     "for homes and",
+     "businesses"
+    ],
+    "sub": "Residential and commercial cleaning for {city}. A friendly local team that shows up on time and leaves every space fresh.",
+    "badge": {
+     "big": "Free",
+     "small": "quotes in minutes"
+    },
+    "badgeNote": "",
+    "trust": [
+     "Quotes in minutes",
+     "Local {city} team",
+     "Fresh, spotless finish"
+    ],
+    "ticker": [
+     [
+      "House cleaning",
+      "Fresh every visit"
+     ],
+     [
+      "Commercial cleaning",
+      "Offices & more"
+     ],
+     [
+      "Deep cleaning",
+      "Top to bottom"
+     ],
+     [
+      "Move in & out",
+      "Ready to hand over"
+     ],
+     [
+      "Recurring service",
+      "Weekly or monthly"
+     ],
+     [
+      "Southwest Florida",
+      "Serving now"
+     ]
+    ],
+    "sunTitle": [
+     "Clean",
+     "Fresh",
+     "Shine"
+    ],
+    "benefits": [
+     {
+      "t": "Cleaned your way",
+      "d": "Tell us what matters most and we focus there, from kitchens and bathrooms to floors and baseboards."
+     },
+     {
+      "t": "Made for Florida homes",
+      "d": "Humidity, sand and sunshine get into everything. We keep your home fresh and dust free all year."
+     },
+     {
+      "t": "Homes and businesses",
+      "d": "One friendly team for your house, your office or your rental, with a clean that fits the space."
+     }
+    ],
+    "stepsTitle": "How it works",
+    "stepsSub": "Simple, friendly house cleaning from first call to final wipe.",
+    "steps": [
+     {
+      "t": "Tell us what you need",
+      "d": "Share your home size and the type of cleaning, and we give you a clear price."
+     },
+     {
+      "t": "We clean top to bottom",
+      "d": "Our team arrives on the day you picked and gets every room spotless."
+     },
+     {
+      "t": "Come home to fresh",
+      "d": "Enjoy a bright, clean home without spending your weekend scrubbing."
+     }
+    ],
+    "baTitle": "Before and after the clean.",
+    "baSub": "Example photos. Your finished jobs will go here.",
+    "baTabs": [],
+    "galleryTitle": "The kind of rooms we bring back to life",
+    "cmpTitle": "Cleaning it yourself vs. calling Mercedes",
+    "cmpBad": "Cleaning it yourself",
+    "bad": [
+     "Buying supplies and equipment",
+     "Spots and streaks left behind",
+     "Hours lost on a weekend",
+     "Hard to keep up every week",
+     "Bathrooms and kitchens that never feel done"
+    ],
+    "good": [
+     "Pro supplies, no shopping",
+     "Even, streak free results",
+     "Your weekend back",
+     "A set schedule that fits you",
+     "Kitchens and baths cleaned top to bottom"
+    ],
+    "svcTitle": "What we do",
+    "svcSub": "House and commercial cleaning for {city} homes, offices and rentals.",
+    "services": [
+     {
+      "slug": "house-cleaning",
+      "name": "Residential house cleaning",
+      "d": "Dusting, vacuuming, mopping and wiping so every room stays fresh and tidy.",
+      "icon": "broom"
+     },
+     {
+      "slug": "deep-cleaning",
+      "name": "Deep cleaning",
+      "d": "A detailed top to bottom clean, including baseboards, vents, appliances and the spots that get missed.",
+      "icon": "sparkles"
+     },
+     {
+      "slug": "move-in-move-out-cleaning",
+      "name": "Move in & move out cleaning",
+      "d": "Empty homes cleaned from ceiling to floor, ready for new owners or your next walkthrough.",
+      "icon": "door"
+     },
+     {
+      "slug": "recurring-cleaning",
+      "name": "Weekly & biweekly cleaning",
+      "d": "A regular schedule that keeps your home clean without you having to think about it.",
+      "icon": "spiral-calendar"
+     },
+     {
+      "slug": "kitchen-bathroom-cleaning",
+      "name": "Kitchen & bathroom cleaning",
+      "d": "Counters, sinks, showers, tubs and toilets scrubbed and sanitized until they shine.",
+      "icon": "bathtub"
+     },
+     {
+      "slug": "window-floor-cleaning",
+      "name": "Windows & floors",
+      "d": "Streak free windows and floors vacuumed, mopped and polished throughout the space.",
+      "icon": "window"
+     },
+     {
+      "slug": "office-cleaning",
+      "name": "Office & small business cleaning",
+      "d": "Offices and shops cleaned on a schedule that works around your business.",
+      "icon": "office-building"
+     }
+    ],
+    "sticker": {
+     "top": "Southwest Florida",
+     "big": "House Cleaning",
+     "band": "Clean · Fresh · Comfortable"
+    },
+    "reviews": [
+     {
+      "q": "My house has never looked this good. Hilda and her team cleaned every room and even the baseboards. We booked a regular schedule right away.",
+      "n": "Karen T."
+     },
+     {
+      "q": "They clean our office every week and it always looks sharp. On time, careful and easy to work with. Highly recommend.",
+      "n": "Mike R."
+     },
+     {
+      "q": "Friendly, honest and careful with our things. The kitchen and bathrooms look brand new every single visit.",
+      "n": "Linda S."
+     }
+    ],
+    "faqs": [
+     {
+      "q": "What areas do you serve?",
+      "a": "North Port and nearby towns like Venice, Englewood, Port Charlotte, Punta Gorda and Sarasota. Call and we will confirm your address."
+     },
+     {
+      "q": "How much does house cleaning cost?",
+      "a": "It depends on the size of your space and the type of cleaning. Send us a few details and you get a clear price before any work starts."
+     },
+     {
+      "q": "Do you clean homes and businesses?",
+      "a": "Yes. We offer residential and commercial cleaning, from family homes and rentals to offices and small shops."
+     },
+     {
+      "q": "What is the difference between standard and deep cleaning?",
+      "a": "A standard clean keeps a tidy home fresh. A deep clean goes further, with baseboards, vents, appliances and other spots that build up over time."
+     },
+     {
+      "q": "Can I set up a regular cleaning schedule?",
+      "a": "Yes. Many homes and offices choose weekly, biweekly or monthly visits. We will build a schedule around your routine."
+     }
+    ],
+    "ctaTitle": "Get your quote",
+    "ctaSub": "Tell us about your home and we'll call you back with a price.",
+    "formAsk": "What type of cleaning do you need?",
+    "heroSub": "Residential & commercial cleaning made easy.",
+    "heroNote": "Quotes available today!",
+    "howTitle": "How Mercedes works",
+    "moreTitle": "More than just house cleaning",
+    "moreSub": "Offices? Move outs? Yes, we do that too.",
+    "pills": [
+     {
+      "t": "Free quotes",
+      "icon": "memo"
+     },
+     {
+      "t": "Residential & commercial",
+      "icon": "house"
+     },
+     {
+      "t": "Deep cleaning",
+      "icon": "sparkles"
+     },
+     {
+      "t": "Move in and out",
+      "icon": "door"
+     },
+     {
+      "t": "Weekly service",
+      "icon": "spiral-calendar"
+     },
+     {
+      "t": "Talk to Hilda direct",
+      "icon": "speech-balloon"
+     },
+     {
+      "t": "Spotless bathrooms",
+      "icon": "bathtub"
+     },
+     {
+      "t": "Kitchen shine",
+      "icon": "bubbles"
+     },
+     {
+      "t": "Made for Florida homes",
+      "icon": "sun"
+     },
+     {
+      "t": "Quick scheduling",
+      "icon": "alarm-clock"
+     }
+    ],
+    "blog": [
+     {
+      "cat": "Home Care Tips",
+      "t": "How Often Should You Have Your House Cleaned in Florida?",
+      "d": "Humidity, sand and pollen build up fast. Here is how often a clean keeps your home fresh.",
+      "img": "service-house-cleaning"
+     },
+     {
+      "cat": "Cleaning Guide",
+      "t": "Deep Cleaning vs. Standard Cleaning: What Is the Difference?",
+      "d": "Not every clean is the same. Here is what each one covers and when a deep clean makes sense.",
+      "img": "service-deep-cleaning"
+     },
+     {
+      "cat": "Moving Tips",
+      "t": "Your Move Out Cleaning Checklist for a Smooth Walkthrough",
+      "d": "Moving is stressful enough. Here is what to clean room by room before the keys change hands.",
+      "img": "service-move-in-move-out-cleaning"
+     }
+    ],
+    "bigQuote": "A fresh, spotless space, so you can enjoy it instead of scrubbing it."
+   }
+  },
+  "settings": {
+   "niche": "housecleaning",
+   "brandName": "Mercedes Cleaning Service",
+   "logoWord": "Mercedes",
+   "logoShowName": false,
+   "owner": "Hilda",
+   "tagline": "North Port, FL",
+   "city": "North Port",
+   "state": "FL",
+   "zip": "",
+   "address": "",
+   "phone": "(941) 266-2167",
+   "email": "",
+   "hours": "",
+   "yearsInBusiness": "",
+   "googleRating": "",
+   "googleReviewCount": "",
+   "areas": [
+    "North Port",
+    "Venice",
+    "Port Charlotte",
+    "Punta Gorda",
+    "Englewood",
+    "Sarasota",
+    "Rotonda West",
+    "South Venice",
+    "Nokomis",
+    "Warm Mineral Springs",
+    "Lake Suzy",
+    "Cape Haze"
+   ],
+   "colors": {
+    "primary": "#0A3D22",
+    "accent": "#108840",
+    "highlight": "#7BC043",
+    "highlight2": "#CDEBC2",
+    "accentHi": "#8FD45A"
+   },
+   "images": {
+    "hero": "https://images.unsplash.com/photo-1613545325268-9265e1609167?auto=format&fit=crop&q=70&w=1800",
+    "about": "https://images.unsplash.com/photo-1632829882891-5047ccc421bc?auto=format&fit=crop&q=70&w=1600",
+    "benefit-0": "https://images.unsplash.com/photo-1646980241033-cd7abda2ee88?auto=format&fit=crop&q=70&w=900",
+    "benefit-1": "https://images.unsplash.com/photo-1758273238698-c98a45a8df9a?auto=format&fit=crop&q=70&w=900",
+    "benefit-2": "https://images.unsplash.com/photo-1556566370-56b798c0d15a?auto=format&fit=crop&q=70&w=900",
+    "service-house-cleaning": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&q=70&w=900",
+    "service-deep-cleaning": "https://images.unsplash.com/photo-1581578731565-fcdb660a4639?auto=format&fit=crop&q=70&w=900",
+    "service-move-in-move-out-cleaning": "https://images.unsplash.com/photo-1757742690834-aa581b9f53b2?auto=format&fit=crop&q=70&w=900"
+   },
+   "credits": [
+    {
+     "n": "Zac Gudakov",
+     "u": "zacgudakov"
+    },
+    {
+     "n": "Spacejoy",
+     "u": "spacejoy"
+    },
+    {
+     "n": "Josue Michel",
+     "u": "josuemichelphotography"
+    },
+    {
+     "n": "Vitaly Gariev",
+     "u": "silverkblack"
+    },
+    {
+     "n": "Paige Cody",
+     "u": "paige_cody"
+    },
+    {
+     "n": "No Revisions",
+     "u": "norevisions"
+    },
+    {
+     "n": "CDC",
+     "u": "cdc"
+    },
+    {
+     "n": "Christian Lue",
+     "u": "christianlue"
+    }
+   ],
+   "showTemplatePanel": false,
+   "stateName": "Florida",
+   "logoUrl": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@3dbcd13b8d551a0abcf6f705a35a0931743c912b/mercedescleaningservice/logo.webp",
+   "logoUrlDark": "https://cdn.jsdelivr.net/gh/saimakbarFD/prospectsData@3dbcd13b8d551a0abcf6f705a35a0931743c912b/mercedescleaningservice/logo.webp",
+   "logoHeight": "66px"
+  },
+  "about": {
+   "title": "Owner-led, every clean",
+   "sub": "{owner} runs {brand} and takes pride in every home and office, from the first quote to the final wipe.",
+   "points": [
+    "You talk to the owner, not a call center.",
+    "Straight answers on price and schedule.",
+    "Serving {city}, Venice, Port Charlotte and Southwest Florida."
+   ]
+  }
+ },
+ "design": "glide"
+}
