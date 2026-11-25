@@ -2699,10 +2699,12 @@
   {
    "id": "photo-1652170228217-eeccbe82bcf4",
    "topics": [
-    "house cleaning step 1"
+    "house cleaning step 1",
+    "house cleaning benefit-0"
    ],
    "demos": [
-    "mariamartinscleaningservices"
+    "mariamartinscleaningservices",
+    "kyroshomesolutions"
    ],
    "desc": "woman writing a weekly plan"
   },
@@ -3036,6 +3038,83 @@
     "mercedescleaningservice"
    ],
    "desc": "service: empty room with wooden floor and large window"
+  },
+  {
+   "id": "photo-1687942691222-0876157ac76f",
+   "topics": [
+    "house cleaning hero"
+   ],
+   "demos": [
+    "kyroshomesolutions"
+   ],
+   "desc": "airy sunlit living room open to kitchen, large windows",
+   "photographer": "ASR Design Studio"
+  },
+  {
+   "id": "photo-1618221195710-dd6b41faaea6",
+   "topics": [
+    "house cleaning about"
+   ],
+   "demos": [
+    "kyroshomesolutions"
+   ],
+   "desc": "wide bright white and brown living room set, spacious",
+   "photographer": "Spacejoy"
+  },
+  {
+   "id": "photo-1585421514284-efb74c2b69ba",
+   "topics": [
+    "house cleaning benefit-1"
+   ],
+   "demos": [
+    "kyroshomesolutions"
+   ],
+   "desc": "person in blue gloves wiping a white surface with a paper towel",
+   "photographer": "Anton"
+  },
+  {
+   "id": "photo-1696774276390-6ce82111140f",
+   "topics": [
+    "house cleaning benefit-2"
+   ],
+   "demos": [
+    "kyroshomesolutions"
+   ],
+   "desc": "stylish well-lit tidy living room with caramel sofa and pillows",
+   "photographer": "Lucas de Moura"
+  },
+  {
+   "id": "photo-1675255057189-d2bc51eaa4bf",
+   "topics": [
+    "house cleaning service-house-cleaning"
+   ],
+   "demos": [
+    "kyroshomesolutions"
+   ],
+   "desc": "broom sweeping dust on the floor beside a chair, home cleaning",
+   "photographer": "Frantisek Canik"
+  },
+  {
+   "id": "photo-1736433622548-4adbbc1c2cf2",
+   "topics": [
+    "house cleaning service-deep-cleaning"
+   ],
+   "demos": [
+    "kyroshomesolutions"
+   ],
+   "desc": "person scrubbing a kitchen sink with a rag",
+   "photographer": "Laura Ohlman"
+  },
+  {
+   "id": "photo-1722650362309-2f2fdffbfbf1",
+   "topics": [
+    "house cleaning service-move-in-move-out-cleaning"
+   ],
+   "demos": [
+    "kyroshomesolutions"
+   ],
+   "desc": "empty bright room with hardwood floors and white walls",
+   "photographer": "Alex Tyson"
   }
  ],
  "examplePairs": [
