@@ -670,7 +670,8 @@
     "Airbnb & short-term rental cleaning"
    ],
    "demos": [
-    "jamericanhospitality"
+    "jamericanhospitality",
+    "cocohomeservices"
    ],
    "desc": "white made bed near a window",
    "photographer": "Andrew Neel|andrewtneel"
@@ -3183,6 +3184,50 @@
    ],
    "desc": "arborist on ropes pruning large tree",
    "photographer": "Thomas Kinto"
+  },
+  {
+   "id": "photo-1564540583246-934409427776",
+   "topics": [
+    "house cleaning service: marble bathroom with two sinks"
+   ],
+   "demos": [
+    "cocohomeservices"
+   ],
+   "desc": "house cleaning service: marble bathroom with two sinks",
+   "photographer": "Christian Mackie|mackiec"
+  },
+  {
+   "id": "photo-1560184897-1ee3713708ee",
+   "topics": [
+    "house cleaning service: bright living room, clean windows, glossy hardwood floor"
+   ],
+   "demos": [
+    "cocohomeservices"
+   ],
+   "desc": "house cleaning service: bright living room, clean windows, glossy hardwood floor",
+   "photographer": "Francesca Tosolini|fromitaly"
+  },
+  {
+   "id": "photo-1595950009887-e9842bcbc1ae",
+   "topics": [
+    "house cleaning before: cluttered living room with toys on wood floor"
+   ],
+   "demos": [
+    "cocohomeservices"
+   ],
+   "desc": "house cleaning before: cluttered living room with toys on wood floor",
+   "photographer": "Mick Haupt|rocinante_11"
+  },
+  {
+   "id": "photo-1554995207-c18c203602cb",
+   "topics": [
+    "house cleaning after: tidy bright living room, tan sofa, wood floor"
+   ],
+   "demos": [
+    "cocohomeservices"
+   ],
+   "desc": "house cleaning after: tidy bright living room, tan sofa, wood floor",
+   "photographer": "Kara Eads|karaeads"
   }
  ],
  "examplePairs": [

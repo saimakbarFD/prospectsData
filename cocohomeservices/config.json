@@ -90,7 +90,9 @@
     ],
     "baTitle": "Before and after the clean.",
     "baSub": "Example photos. Your finished jobs will go here.",
-    "baTabs": [],
+    "baTabs": [
+     "Living room"
+    ],
     "galleryTitle": "The kind of rooms we bring back to life",
     "cmpTitle": "Cleaning it yourself vs. calling Coco",
     "cmpBad": "Cleaning it yourself",
@@ -322,7 +324,12 @@
     "service-house-cleaning": "https://images.unsplash.com/photo-1758272421751-963195322eaa?auto=format&fit=crop&q=70&w=900",
     "service-deep-cleaning": "https://images.unsplash.com/photo-1776585617123-84cb50100bd0?auto=format&fit=crop&q=70&w=900",
     "service-move-in-move-out-cleaning": "https://images.unsplash.com/photo-1758523670969-dd1b1254062d?auto=format&fit=crop&q=70&w=900",
-    "service-recurring-cleaning": "https://images.unsplash.com/photo-1794387119753-3a222e695687?auto=format&fit=crop&q=70&w=900"
+    "service-recurring-cleaning": "https://images.unsplash.com/photo-1794387119753-3a222e695687?auto=format&fit=crop&q=70&w=900",
+    "service-kitchen-bathroom-cleaning": "https://images.unsplash.com/photo-1564540583246-934409427776?auto=format&fit=crop&q=70&w=900",
+    "service-rental-turnover-cleaning": "https://images.unsplash.com/photo-1549638441-b787d2e11f14?auto=format&fit=crop&q=70&w=900",
+    "service-window-floor-cleaning": "https://images.unsplash.com/photo-1560184897-1ee3713708ee?auto=format&fit=crop&q=70&w=900",
+    "before-0": "https://images.unsplash.com/photo-1595950009887-e9842bcbc1ae?auto=format&fit=crop&q=70&w=1400",
+    "after-0": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&q=70&w=1400"
    },
    "credits": [
     {
@@ -340,6 +347,26 @@
     {
      "n": "The Crown Choice",
      "u": "thecrownchoice"
+    },
+    {
+     "n": "Mick Haupt",
+     "u": "rocinante_11"
+    },
+    {
+     "n": "Kara Eads",
+     "u": "karaeads"
+    },
+    {
+     "n": "Christian Mackie",
+     "u": "mackiec"
+    },
+    {
+     "n": "Andrew Neel",
+     "u": "andrewtneel"
+    },
+    {
+     "n": "Francesca Tosolini",
+     "u": "fromitaly"
     }
    ],
    "showTemplatePanel": false,
