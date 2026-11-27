@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>__TITLE__</title>
+<meta name="description" content="__DESC__">
+<link rel="icon" href="__FAVICON__">
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Design 4 ("haven"): Saim's A.D'S Home Improvement homepage build, kept exactly. Content, images and colors come from window.DEMO. -->
+<style>
+/*__CSS__*/
+/* template-only helpers (logo lockup when no logo image is given, toast, form message) */
+.hv-logo{display:inline-flex;align-items:center;gap:12px;color:var(--ads-dark-fg);text-decoration:none}
+.hv-logo .hv-mark{display:block;width:56px;height:56px;flex:none}
+.hv-logo .hv-mark svg{width:100%;height:100%;display:block}
+.hv-logo .hv-word{font-family:"Manrope",sans-serif;font-weight:700;font-size:1.375rem;line-height:1.1;letter-spacing:-.01em;white-space:nowrap}
+.ads-footer__logo .hv-logo .hv-mark{width:72px;height:72px}
+.hv-toast{position:fixed;left:50%;bottom:24px;transform:translate(-50%,20px);background:#120F0C;color:#E9E4DC;font:400 14px/1.4 "Manrope",sans-serif;padding:12px 18px;border-radius:10px;opacity:0;transition:all .3s;z-index:10000;pointer-events:none;max-width:90vw;text-align:center}
+.hv-toast.show{opacity:1;transform:translate(-50%,0)}
+.hv-sent{margin-top:16px;font:500 .9375rem/1.5 "Manrope",sans-serif;color:var(--ads-fg)}
+.ads-footer__small a{color:inherit}
+.ads-footer__small details{display:inline}
+.ads-footer__small summary{display:inline;cursor:pointer;list-style:none}
+.ads-footer__small summary::-webkit-details-marker{display:none}
+</style>
+</head>
+<body class="__BODYCLASS__">
+<!--__BODY__-->
+<div class="hv-toast" id="hvToast" role="status" aria-live="polite"></div>
+<script>/*__DEMO__*/</script>
+<script>
+(function(){
+const D = window.DEMO, S = D.settings, P = D.presets[S.niche] || Object.values(D.presets)[0], A = D.about || {};
+const IMG = S.images || {}, C = S.colors || {};
+const ASSETS = "__ASSETS__";
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const brand = S.brandName || P.demoBrand || "";
+const short = S.logoWord || brand;
+const city = S.city || "", state = S.state || "";
+const T = s => esc(String(s ?? "").replace(/\{(\w+)\}/g, (m, k) => ({city, state, brand, owner: S.owner || "our owner", phone: S.phone, years: S.yearsInBusiness || ""}[k] ?? m)));
+const telHref = "tel:" + String(S.phone || "").replace(/[^\d+]/g, "").replace(/^(\d{10})$/, "+1$1");
+const mailHref = S.email ? "mailto:" + S.email : "#quote";
+const $$ = (s, r = document) => [...r.querySelectorAll(s)];
+const setK = (k, html) => $$(`[data-k="${k}"]`).forEach(e => { e.innerHTML = html; });
+const pad = n => String(n).padStart(2, "0");
+const trust = P.trust || [];
+const services = (P.services || []).slice(0, 6);
+
+/* colors: the yellow of the original is the bright brand color; dark text sits on it */
+const bright = C.bright || C.highlight || C.accent;
+if (bright) {
+  document.body.style.setProperty("--e-global-color-primary", bright);
+  document.body.style.setProperty("--e-global-color-adsprimary2", C.bright2 || `color-mix(in srgb, ${bright} 92%, #000)`);
+}
+
+/* links */
+$$('[data-href="tel"]').forEach(a => a.setAttribute("href", telHref));
+$$('[data-href="mail"]').forEach(a => a.setAttribute("href", mailHref));
+$$('[data-href="googleUrl"]').forEach(a => { if (S.googleUrl) { a.href = S.googleUrl; a.target = "_blank"; a.rel = "noopener"; } else { a.href = "#"; a.setAttribute("data-soon", ""); } });
+
+/* logo */
+function logoHTML(isFooter) {
+  if (S.logoMark) return `<span class="hv-logo"><span class="hv-mark" aria-hidden="true">${S.logoMark}</span><span class="hv-word">${esc(short)}</span></span>`;
+  const src = S.logoUrlDark || S.logoUrl;
+  if (src) return `<img src="${esc(src)}" alt="${esc(brand)}${city ? ", " + esc(city) + (state ? ", " + esc(state) : "") : ""}">`;
+  return `<span class="hv-logo"><span class="hv-word">${esc(short)}</span></span>`;
+}
+$$('[data-k="logo"]').forEach(a => a.innerHTML = logoHTML(false));
+$$('[data-k="footerLogo"]').forEach(a => a.innerHTML = logoHTML(true));
+
+/* hero */
+const hero = document.querySelector('[data-bg="hero"]');
+if (hero && IMG.hero) hero.style.backgroundImage = `url("${IMG.hero}")`;
+setK("heroEyebrow", T(P.heroEyebrow || `${P.label || P.noun || ""} in ${city}${state ? ", " + state : ""}`));
+const heroLines = P.heroTitle || P.h1 || [];
+setK("heroTitle", (Array.isArray(heroLines) ? heroLines : [heroLines]).filter(Boolean).map(T).join("<br>"));
+setK("heroLead", T(P.heroLead || P.sub));
+setK("bigWord", T(S.bigWord || short).toUpperCase());
+
+/* images */
+const img = (el, src, alt) => { if (!el) return; if (src) el.src = src; el.alt = alt || ""; };
+const stripFallback = ["benefit-0", "benefit-1", "benefit-2", "service-" + ((P.services || [])[6] || {}).slug];
+$$('[data-img^="strip-"]').forEach((el, i) => img(el, IMG["strip-" + i] || IMG[stripFallback[i]] || IMG.about, `${P.label || "Project"} photo ${i + 1}`));
+img(document.querySelector('[data-img="about"]'), IMG.about, A.title || brand);
+
+/* services */
+const ICONS = {"home":"<path d=\"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8\"></path><path d=\"M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"></path>","bath":"<path d=\"M10 4 8 6\"></path><path d=\"M17 19v2\"></path><path d=\"M2 12h20\"></path><path d=\"M7 19v2\"></path><path d=\"M9 5 7.621 3.621A2.121 2.121 0 0 0 4 5v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-5\"></path>","wrench":"<path d=\"M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z\"></path>","layers":"<path d=\"M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z\"></path><path d=\"M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12\"></path><path d=\"M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17\"></path>","hammer":"<path d=\"m15 12-8.373 8.373a1 1 0 1 1-3-3L12 9\"></path><path d=\"m18 15 4-4\"></path><path d=\"m21.5 11.5-1.914-1.914A2 2 0 0 1 19 8.172V7l-2.26-1.13a6 6 0 0 0-2.98-.87H9l.92.46A6 6 0 0 1 13 9.5V12l2 2h1.172a2 2 0 0 1 1.414.586L19.5 16.5\"></path>","lamp":"<path d=\"M12 2v5\"></path><path d=\"M6 7h12l4 9H2l4-9Z\"></path><path d=\"M9.17 16a3 3 0 1 0 5.66 0\"></path>",
+  "zap":"<path d=\"M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z\"></path>",
+  "droplet":"<path d=\"M12 22a7 7 0 0 0 7-7c0-2-1-3.9-3-5.5s-3.5-4-4-6.5c-.5 2.5-2 4.9-4 6.5C6 11.1 5 13 5 15a7 7 0 0 0 7 7z\"></path>",
+  "leaf":"<path d=\"M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z\"></path><path d=\"M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12\"></path>",
+  "roller":"<rect width=\"16\" height=\"6\" x=\"2\" y=\"2\" rx=\"2\"></rect><path d=\"M10 16v-2a2 2 0 0 1 2-2h8a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2\"></path><rect width=\"4\" height=\"6\" x=\"8\" y=\"16\" rx=\"1\"></rect>"};
+const ICON_RULES = [[/paint|stain|coat/, "roller"], [/electric|wiring|panel|ev charg/, "zap"], [/plumb|drain|water|leak|pressure|wash|pool/, "droplet"], [/landscap|lawn|garden|tree|yard|sod|mow/, "leaf"],
+  [/bath|shower|tub/, "bath"], [/kitchen|cabinet|counter|tile|floor|backsplash/, "layers"], [/light|fixture|lamp|chandelier/, "lamp"],
+  [/repair|maint|service|hvac|heat|cool|fix/, "wrench"], [/handyman|carpent|drywall|door|trim|deck|fence|framing|install/, "hammer"],
+  [/renovat|remodel|addition|construction|build|roof|home|house|siding|exterior|basement/, "home"]];
+const ICON_ORDER = ["home", "bath", "wrench", "layers", "hammer", "lamp"];
+const iconFor = (s, i) => { if (s.icon4 && ICONS[s.icon4]) return s.icon4; const t = (s.slug + " " + s.name).toLowerCase(); for (const [re, n] of ICON_RULES) if (re.test(t)) return n; return ICON_ORDER[i % 6]; };
+setK("svcEyebrow", T(P.svcEyebrow || "Our services"));
+setK("svcTitle", T(P.svcTitle));
+setK("svcLead", T(P.svcLead || P.svcSub));
+setK("svcNote", T(P.svcNote || `${trust[0] || "Free estimates"}. Call ${S.phone || "today"}.`));
+function repeat(tplKey, list, fill) {
+  const tpl = document.querySelector(`[data-tpl="${tplKey}"]`); if (!tpl) return;
+  const parent = tpl.parentNode;
+  list.forEach((d, i) => { const n = tpl.cloneNode(true); n.removeAttribute("data-tpl"); fill(n, d, i); parent.insertBefore(n, tpl); });
+  tpl.remove();
+}
+const f = (n, k) => n.querySelector(`[data-f="${k}"]`);
+repeat("service", services, (n, s, i) => {
+  f(n, "num").textContent = pad(i + 1);
+  f(n, "icon").innerHTML = ICONS[iconFor(s, i)];
+  f(n, "title").innerHTML = T(s.name);
+  f(n, "text").innerHTML = T(s.d);
+  const src = IMG["service-" + s.slug]; if (src) n.style.backgroundImage = `url("${src}")`;
+});
+
+/* projects */
+const projects = (P.projects || services.slice(0, 2).map(s => ({ t: s.name, cat: `${s.name.split(/\s+/)[0]} · ${city}`, slug: s.slug }))).slice(0, 2);
+const projFallback = ["after-0", "after-1"];
+$$('[data-p^="project-"]').forEach((n, i) => {
+  const p = projects[i] || projects[0] || {};
+  img(n.querySelector("img"), IMG["project-" + i] || IMG[p.img] || IMG[projFallback[i]] || IMG["service-" + p.slug], p.t);
+  const h = n.querySelector(".ads-project__title .elementor-heading-title"); if (h) h.innerHTML = T(p.t);
+  const sub = n.querySelector(".ads-project__sub p"); if (sub) sub.innerHTML = T(p.cat || "");
+});
+setK("workEyebrow", T(P.workEyebrow || "Selected work"));
+setK("workTitle", T(P.workTitle || "Recent projects."));
+
+/* steps (4) */
+const steps = (P.steps4 || [...(P.steps || []).slice(0, 3), { t: "Walkthrough", d: "We go over the finished job with you before we call it done." }]).slice(0, 4);
+$$('[data-p^="step-"]').forEach((n, i) => {
+  const s = steps[i] || {};
+  const num = n.querySelector(".ads-step__num p"); if (num) num.textContent = pad(i + 1);
+  const h = n.querySelector(".ads-step__title .elementor-heading-title"); if (h) h.innerHTML = T(s.t);
+  const p = n.querySelector(".ads-step__text p"); if (p) p.innerHTML = T(s.d);
+});
+
+/* about */
+setK("aboutEyebrow", T(P.aboutEyebrow || "About us"));
+setK("aboutTitle", T(A.title));
+setK("aboutP1", T(A.sub));
+setK("aboutP2", T(A.p2 || A.more || ""));
+const points = (A.points4 || A.points || []).slice(0, 3).map(p => typeof p === "string" ? { t: p, d: "" } : p);
+$$('[data-p^="point-"]').forEach((n, i) => {
+  const p = points[i]; if (!p) { n.remove(); return; }
+  const num = n.querySelector(".ads-point__num p"); if (num) num.textContent = pad(i + 1);
+  const h = n.querySelector(".ads-point__title .elementor-heading-title"); if (h) h.innerHTML = T(p.t);
+  const d = n.querySelector(".ads-point__text"); if (d) { if (p.d) d.querySelector("p").innerHTML = T(p.d); else d.remove(); }
+});
+setK("aboutNote", T(P.aboutNote || (S.owner ? `Talk to ${S.owner} about your project.` : "Tell us about your project.")));
+if (!(A.p2 || A.more)) $$('[data-k="aboutP2"]').forEach(e => e.closest(".elementor-widget").remove());
+
+/* reviews: the Google review widget design always shows; real reviews (settings.reviewsReal) get real dates */
+const realRv = !!S.reviewsReal;
+const reviews = (P.reviews || []).slice(0, 8);
+setK("revEyebrow", T(P.revEyebrow || "Google reviews"));
+setK("revTitle", T(P.revTitle || "Built on trust."));
+setK("revRatingWord", "EXCELLENT");
+setK("revBased", " " + (realRv ? `<span class="nowrap">Based on <strong>${esc(S.googleReviewCount || reviews.length)} reviews</strong></span>` : `<span class="nowrap">Your <strong>Google reviews</strong> here</span>`));
+const accent = bright || "#F5EC00";
+const initials = n => String(n || "").replace(/&.*$/, "").split(/\s+/).filter(Boolean).map(w => w[0]).join("").slice(0, 2).toUpperCase();
+const avatar = n => "data:image/svg+xml," + encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><circle cx="20" cy="20" r="20" fill="#5B544C"/><text x="20" y="25.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">${initials(n)}</text></svg>`);
+repeat("review", reviews, (n, r) => {
+  const a = f(n, "avatar"); a.src = r.img || avatar(r.n); a.alt = `${r.n} profile picture`;
+  f(n, "name").textContent = r.n;
+  f(n, "date").innerHTML = `<span class="ti-with-tooltip">${esc(realRv ? (r.when || "") : "Example review")}</span>`;
+  f(n, "text").innerHTML = T(r.q);
+  const v = f(n, "verified"); if (v) v.textContent = realRv ? "Trustindex verifies that the original source of the review is Google." : "Example review";
+});
+
+/* service areas */
+const areas = (S.areas || []).slice(0, 22);
+const half = Math.ceil(areas.length / 2);
+const groups = S.areaGroups || [{ t: S.county || `${city} area`, list: areas.slice(0, half) }, { t: S.county2 || "Nearby towns", list: areas.slice(half) }].filter(g => g.list.length);
+setK("areasEyebrow", T(P.areasEyebrow || "Service areas"));
+setK("areasTitle", T(P.areasTitle || `Your local ${(P.label || "contractor").toLowerCase()} in ${city}.`));
+setK("areasLead", T(P.areasLead || `We’re based in ${city} and work across the surrounding towns. Call to check if you’re in range.`));
+setK("areasNote", T(P.areasNote || "Don’t see your town? Call and ask."));
+repeat("areaGroup", groups, (n, g) => {
+  f(n, "title").innerHTML = T(g.t);
+  const town = n.querySelector('[data-tpl="town"]'), ul = town.parentNode;
+  g.list.forEach(t => { const li = town.cloneNode(true); li.removeAttribute("data-tpl"); li.innerHTML = T(t); ul.insertBefore(li, town); });
+  town.remove();
+});
+
+/* FAQ */
+setK("faqEyebrow", T(P.faqEyebrow || "FAQ"));
+setK("faqTitle", T(P.faqTitle || `Questions ${city} homeowners ask.`));
+setK("faqLead", T(P.faqLead || `Don’t see your question here? Call ${S.phone || "us"} and ask.`));
+repeat("faq", P.faqs || [], (n, q) => { f(n, "q").innerHTML = T(q.q); f(n, "a").innerHTML = T(q.a); });
+
+/* CTA band */
+setK("ctaEyebrow", T(P.ctaEyebrow || trust[0] || "Free estimates"));
+setK("ctaTitle", T(P.ctaBandTitle || P.ctaTitle));
+setK("ctaLead", T(P.ctaBandText || P.ctaSub));
+
+/* quote form */
+setK("quoteEyebrow", T(P.quoteEyebrow || "Free estimate"));
+setK("quoteTitle", T(P.quoteTitle || "Request a free estimate."));
+setK("quoteLead", T(P.quoteLead || `Tell us about the job and ${S.owner || "we"} will get back to you quickly with honest answers and a fair price.`));
+const sel = document.querySelector('[data-k="serviceSelect"]');
+if (sel) sel.innerHTML = [...services.map(s => s.name), "Other"].map(o => `<option value="${esc(o)}">${esc(o)}</option>`).join("");
+
+/* footer */
+setK("footerTag", T(P.footerTag || `${P.label || P.noun || brand} in ${city}${state ? ", " + state : ""} and nearby towns.`));
+const fc = k => document.querySelector(`[data-c="${k}"]`);
+const fcSet = (k, html, href) => { const e = fc(k); if (!e) return; if (html == null) { e.remove(); return; } e.querySelector("span").innerHTML = html; if (href && e.tagName === "A") e.setAttribute("href", href); };
+fcSet("fcPhone", esc(S.phone), telHref);
+fcSet("fcEmail", S.email ? esc(S.email) : null, mailHref);
+fcSet("fcCity", esc([city, state].filter(Boolean).join(", ")));
+fcSet("fcHours", S.hours ? T(S.hours).replace(/\s*[|·;]\s*/g, "<br>") : null);
+fcSet("fcGoogle", "Google reviews", S.googleUrl || "#reviews");
+fcSet("fcFacebook", S.facebook ? "Facebook" : null, S.facebook);
+setK("copyright", `© ${new Date().getFullYear()} ${esc(brand)}`);
+const credits = S.credits || [];
+setK("footerRight", `${T(P.label || P.noun || "")}${city ? " · " + esc(city) + (state ? ", " + esc(state) : "") : ""} · Web Design By <a href="https://lumeapixel.com" target="_blank" rel="noopener">LumeaPixel</a>${credits.length ? ` <details><summary>· Photo credits</summary> Unsplash: ${credits.map(c => `<a href="https://unsplash.com/@${esc(c.u)}" target="_blank" rel="noopener">${esc(c.n)}</a>`).join(", ")}</details>` : ""}`);
+
+/* ---------- behaviour ---------- */
+const toastEl = document.getElementById("hvToast");
+const toast = m => { toastEl.textContent = m; toastEl.classList.add("show"); clearTimeout(toast.t); toast.t = setTimeout(() => toastEl.classList.remove("show"), 2600); };
+document.addEventListener("click", e => { const a = e.target.closest("[data-soon]"); if (a) { e.preventDefault(); toast("This page is part of the full site build."); } });
+
+/* mobile menu (Elementor nav-menu toggle, stretched to full width) */
+$$(".elementor-menu-toggle").forEach(t => {
+  const drop = t.nextElementSibling;
+  const place = () => { if (!drop) return; const r = t.closest(".elementor-widget").getBoundingClientRect(); drop.style.top = (t.offsetTop + t.offsetHeight) + "px"; drop.style.setProperty("--menu-height", "1000vmax"); drop.style.width = document.documentElement.clientWidth + "px"; drop.style.left = -r.left + "px"; };
+  const set = open => { t.classList.toggle("elementor-active", open); t.setAttribute("aria-expanded", open); if (drop) drop.setAttribute("aria-hidden", !open); if (open) place(); };
+  t.addEventListener("click", () => set(!t.classList.contains("elementor-active")));
+  t.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); set(!t.classList.contains("elementor-active")); } });
+  if (drop) drop.addEventListener("click", e => { if (e.target.closest("a")) set(false); });
+  addEventListener("resize", () => { if (t.classList.contains("elementor-active")) place(); });
+});
+
+/* form */
+const form = document.getElementById("contactForm");
+if (form) form.addEventListener("submit", e => {
+  e.preventDefault();
+  const bad = [...form.querySelectorAll("[required]")].find(i => !String(i.value).trim());
+  if (bad) { bad.focus(); toast("Please fill in the required fields."); return; }
+  let m = form.querySelector(".hv-sent"); if (!m) { m = document.createElement("p"); m.className = "hv-sent"; form.appendChild(m); }
+  m.textContent = "Thanks! We got your request and will be in touch shortly."; form.reset();
+});
+
+/* Trustindex-style columns and paging */
+function tiLayout() {
+  $$(".ti-widget").forEach(w => {
+    const c = w.querySelector(".ti-widget-container"); if (!c) return;
+    const n = w.querySelectorAll(".ti-review-item").length;
+    const cols = Math.max(1, Math.min(n + 1, Math.floor(c.clientWidth / 275)));
+    c.className = c.className.replace(/\bti-col-\d\b/g, "").trim() + " ti-col-" + cols;
+    const per = cols > 1 ? cols - 1 : 1;
+    c.style.alignItems = "flex-start";
+    const ctr = w.querySelector(".ti-controls");
+    w.querySelectorAll(".ti-next, .ti-prev").forEach(x => x.style.display = n > per ? "" : "none");
+    const dot = w.querySelector(".ti-controls-line .dot"); if (dot && n <= per) { dot.style.width = "1px"; dot.style.left = "0%"; }
+    w._ti = { per, n, page: Math.min(w._ti ? w._ti.page : 0, Math.max(0, n - per)) };
+    const foot = w.querySelector(".ti-footer"); if (foot) foot.style.marginTop = cols > 1 ? "24px" : "";
+    tiShow(w);
+    const wrap = w.querySelector(".ti-reviews-container-wrapper"); if (ctr && wrap) ctr.style.top = (wrap.offsetHeight / 2 + 13.5) + "px";
+    w.querySelectorAll(".ti-review-item").forEach(it => {
+      const txt = it.querySelector(".ti-review-content"), rm = it.querySelector(".ti-read-more"); if (!txt || !rm || it.style.display === "none") return;
+      if (it._open) return;
+      const over = txt.scrollHeight > txt.clientHeight + 2;
+      rm.style.cssText = over ? "" : "opacity: 0; pointer-events: none; display: none;";
+      if (over && !rm.firstChild) { rm.innerHTML = "<span>Read more</span>"; rm.addEventListener("click", () => { it._open = !it._open; txt.style.height = it._open ? "auto" : ""; txt.style.webkitLineClamp = it._open ? "unset" : ""; rm.firstChild.textContent = it._open ? "Hide" : "Read more"; }); }
+    });
+  });
+}
+function tiShow(w) {
+  const { per, n, page } = w._ti;
+  w.querySelectorAll(".ti-review-item").forEach((it, i) => { it.style.display = i >= page && i < page + per ? "" : "none"; });
+  const line = w.querySelector(".ti-controls-line .dot"); if (line && n > per) { line.style.width = (100 * per / n) + "%"; line.style.left = (100 * page / n) + "%"; }
+}
+$$(".ti-widget").forEach(w => {
+  const go = d => { const s = w._ti; s.page = (s.page + d + Math.max(1, s.n - s.per + 1)) % Math.max(1, s.n - s.per + 1); tiShow(w); };
+  const nx = w.querySelector(".ti-next"), pv = w.querySelector(".ti-prev");
+  if (nx) nx.addEventListener("click", () => go(1)); if (pv) pv.addEventListener("click", () => go(-1));
+});
+tiLayout(); addEventListener("resize", tiLayout);
+
+/* big word and hero title never overflow their column */
+function fit(sel) {
+  $$(sel).forEach(h => {
+    h.style.fontSize = ""; let size = parseFloat(getComputedStyle(h).fontSize), k = 0;
+    const box = h.closest(".elementor-widget") || h.parentElement;
+    while (h.scrollWidth > box.clientWidth + 1 && size > 14 && k++ < 60) { size *= 0.96; h.style.fontSize = size + "px"; }
+  });
+}
+const fitAll = () => { fit(".ads-hero__big .elementor-heading-title"); fit(".ads-hero__title .elementor-heading-title"); };
+fitAll(); addEventListener("resize", fitAll); if (document.fonts) document.fonts.ready.then(() => { fitAll(); tiLayout(); });
+})();
+</script>
+</body>
+</html>
