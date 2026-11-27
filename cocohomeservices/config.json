@@ -115,25 +115,29 @@
       "slug": "house-cleaning",
       "name": "Residential house cleaning",
       "d": "Dusting, vacuuming, mopping and wiping so every room stays fresh and tidy.",
-      "icon": "broom"
+      "icon": "broom",
+      "long": "Dusting, vacuuming, mopping and wiping so every room stays fresh and tidy. We clean kitchens, bathrooms, bedrooms and living areas, and you choose the focus."
      },
      {
       "slug": "deep-cleaning",
       "name": "Deep cleaning",
       "d": "A detailed top to bottom clean, including baseboards, vents, appliances and the spots that get missed.",
-      "icon": "sparkles"
+      "icon": "sparkles",
+      "long": "A detailed top to bottom clean, including baseboards, vents, appliances and the spots that get missed. Great for a first visit or a seasonal reset."
      },
      {
       "slug": "move-in-move-out-cleaning",
       "name": "Move in & move out cleaning",
       "d": "Empty homes cleaned from ceiling to floor, ready for new owners or your next walkthrough.",
-      "icon": "door"
+      "icon": "door",
+      "long": "Empty homes cleaned from ceiling to floor, ready for new owners, new tenants or your final walkthrough."
      },
      {
       "slug": "recurring-cleaning",
       "name": "Weekly & biweekly cleaning",
       "d": "A regular schedule that keeps your home clean without you having to think about it.",
-      "icon": "spiral-calendar"
+      "icon": "spiral-calendar",
+      "long": "Weekly or biweekly visits on a schedule that suits you, so your home stays clean without you having to think about it."
      },
      {
       "slug": "kitchen-bathroom-cleaning",
@@ -311,13 +315,14 @@
    },
    "images": {
     "hero": "https://images.unsplash.com/photo-1758273705627-937374bfa978?auto=format&fit=crop&q=70&w=1800",
-    "about": "https://images.unsplash.com/photo-1631510390389-c1e4fb20ff31?auto=format&fit=crop&q=70&w=1600",
+    "about": "https://images.unsplash.com/photo-1631510390389-c1e4fb20ff31?auto=format&fit=crop&q=70&w=1200",
     "benefit-0": "https://images.unsplash.com/photo-1758611974917-f7f7a58b74b0?auto=format&fit=crop&q=70&w=900",
     "benefit-1": "https://images.unsplash.com/photo-1758273238415-01ec03d9ef27?auto=format&fit=crop&q=70&w=900",
     "benefit-2": "https://images.unsplash.com/photo-1758273706271-50c453b7323b?auto=format&fit=crop&q=70&w=900",
     "service-house-cleaning": "https://images.unsplash.com/photo-1758272421751-963195322eaa?auto=format&fit=crop&q=70&w=900",
     "service-deep-cleaning": "https://images.unsplash.com/photo-1776585617123-84cb50100bd0?auto=format&fit=crop&q=70&w=900",
-    "service-move-in-move-out-cleaning": "https://images.unsplash.com/photo-1758523670969-dd1b1254062d?auto=format&fit=crop&q=70&w=900"
+    "service-move-in-move-out-cleaning": "https://images.unsplash.com/photo-1758523670969-dd1b1254062d?auto=format&fit=crop&q=70&w=900",
+    "service-recurring-cleaning": "https://images.unsplash.com/photo-1794387119753-3a222e695687?auto=format&fit=crop&q=70&w=900"
    },
    "credits": [
     {
@@ -331,6 +336,10 @@
     {
      "n": "Aurum Gebäudereinigung Kassel",
      "u": "aurumkassel"
+    },
+    {
+     "n": "The Crown Choice",
+     "u": "thecrownchoice"
     }
    ],
    "showTemplatePanel": false,
@@ -349,5 +358,5 @@
    ]
   }
  },
- "design": "glide"
+ "design": "summit"
 }

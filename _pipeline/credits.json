@@ -519,9 +519,22 @@
   "Carl Tronders|allvar"
  ],
  "cocohomeservices": [
-  "Vitaly Gariev|silverkblack",
-  "Spacejoy|spacejoy",
-  "Aurum Gebäudereinigung Kassel|aurumkassel"
+  {
+   "n": "Vitaly Gariev",
+   "u": "silverkblack"
+  },
+  {
+   "n": "Spacejoy",
+   "u": "spacejoy"
+  },
+  {
+   "n": "Aurum Gebäudereinigung Kassel",
+   "u": "aurumkassel"
+  },
+  {
+   "n": "The Crown Choice",
+   "u": "thecrownchoice"
+  }
  ],
  "mercedescleaningservice": [
   "Zac Gudakov|zacgudakov",
